@@ -1,132 +1,156 @@
 {
-  "generated_at": "2026-06-15T19:55:27.528348+00:00",
+  "generated_at": "2026-06-15T20:55:58.511263+00:00",
   "window_start": "2026-06-14",
   "window_end": "2026-06-21",
   "source": "Pickx via iptv-org/epg",
-  "watchlist_size": 21,
-  "watchlist": [
-    "Kathryn Bigelow",
-    "Howard Hawks",
-    "Ernst Lubitsch",
-    "Frank Capra",
-    "Preston Sturges",
-    "Nicole Garcia",
-    "Philippe de Broca",
-    "Mario Monicelli",
-    "David Fincher",
-    "Olivia Newman",
-    "Denis Villeneuve",
-    "Christopher Nolan",
-    "Billy Wilder",
-    "John Hughes",
-    "Ridley Scott",
-    "Alfred Hitchcock",
-    "Sydney Pollack",
-    "Blake Edwards",
-    "Guy Ritchie",
-    "Harold Ramis",
-    "Fernando Trueba"
+  "keywords_size": 23,
+  "keywords": [
+    "rugby",
+    "xv de france",
+    "six nations",
+    "6 nations",
+    "tournoi des 6",
+    "tournoi des six",
+    "top 14",
+    "top14",
+    "pro d2",
+    "champions cup",
+    "coupe d'europe",
+    "challenge cup",
+    "united rugby",
+    "rugby championship",
+    "autumn nations",
+    "nations series",
+    "test match",
+    "coupe du monde de rugby",
+    "rugby world cup",
+    "all blacks",
+    "springboks",
+    "wallabies",
+    "pumas"
   ],
-  "count": 5,
+  "count": 11,
   "programmes": [
     {
-      "start": "2026-06-14T11:25:00+00:00",
-      "stop": "2026-06-14T13:00:00+00:00",
+      "start": "2026-06-14T18:05:00+00:00",
+      "stop": "2026-06-14T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-17T18:00:00+00:00",
+      "stop": "2026-06-17T19:00:00+00:00",
       "channel": "BBC Two",
-      "title": "Strangers on a Train",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Farley Granger",
-        "Robert Walker",
-        "Ruth Roman",
-        "Leo G. Carroll",
-        "Patricia Hitchcock",
-        "Marion Lorne"
-      ],
-      "description": "A deranged socialite accosts a tennis star with his theory that if two strangers trade murders, they can disguise their motives and avoid suspicion.",
-      "category": "Movies"
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 1",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 1 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
     },
     {
-      "start": "2026-06-14T13:00:00+00:00",
-      "stop": "2026-06-14T14:45:00+00:00",
+      "start": "2026-06-17T19:18:00+00:00",
+      "stop": "2026-06-17T20:05:00+00:00",
+      "channel": "La Trois",
+      "title": "Ann Ming, le combat d'une mère",
+      "subtitle": "Épisode 2",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Ann a fini par découvrir, presque trois mois après sa disparition, le corps sans vie de sa fille. Elle met la pression sur la police pour qu'elle retrouve le meurtrier, tout en s'efforçant de sauver son mariage. L'arrestation de William Dunlop, membre du club de rugby local, lui donne l'espoir que justice sera rendue pour Julie.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-06-18T18:30:00+00:00",
+      "stop": "2026-06-18T19:30:00+00:00",
       "channel": "BBC Two",
-      "title": "Dial M for Murder",
-      "subtitle": "",
-      "directors": [
-        "Alfred Hitchcock"
-      ],
-      "matched_director": "Alfred Hitchcock",
-      "actors": [
-        "Ray Milland",
-        "Grace Kelly",
-        "Robert Cummings",
-        "John Williams",
-        "Anthony Dawson",
-        "Leo Britt"
-      ],
-      "description": "An ex-tennis pro carries out a plot to have his wife murdered after discovering she is having an affair, and assumes she will soon leave him for the other man anyway. When things go wrong, he improvises a new plan—to frame her for murder instead. Now Wendice must frantically scheme to outwit the police and avoid having his plot detected.",
-      "category": "Movies"
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 2",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 2 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
     },
     {
-      "start": "2026-06-15T14:47:00+00:00",
-      "stop": "2026-06-15T17:11:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
+      "start": "2026-06-19T12:10:00+00:00",
+      "stop": "2026-06-19T12:58:00+00:00",
+      "channel": "La Trois",
+      "title": "Ann Ming, le combat d'une mère",
+      "subtitle": "Épisode 2",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Ann a fini par découvrir, presque trois mois après sa disparition, le corps sans vie de sa fille. Elle met la pression sur la police pour qu'elle retrouve le meurtrier, tout en s'efforçant de sauver son mariage. L'arrestation de William Dunlop, membre du club de rugby local, lui donne l'espoir que justice sera rendue pour Julie.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-06-19T18:00:00+00:00",
+      "stop": "2026-06-19T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 3",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 3 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-19T18:13:00+00:00",
+      "stop": "2026-06-19T19:55:00+00:00",
+      "channel": "La Une",
+      "title": "Meurtres à Montauban",
       "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Un ancien joueur professionnel de rugby devenu propriétaire du club de Montauban est assassiné lors de la fête des 400 coups qui célèbre la victoire de la ville protestante contre l'armée du roi catholique Louis XIII en 1621. A peine débarqué de la PJ parisienne, le commandant Martin Delacroix va s'associer à la jeune lieutenante Cyrielle Laborie, enfant du pays adepte du rugby qui connaît la ville comme sa poche, afin de trouver le coupable. Ce que Cyrielle ignore, c'est que si Martin la choisit comme coéquipière, c'est parce qu'il cherche sa famille biologique. Né sous X, Martin veut faire la connaissance de sa demi-sœur, Cyrielle, qui lui en apprendra plus sur leur mère défunte. Sur le point de devenir père, il a besoin de connaître la raison pour laquelle sa mère biologique l'a abandonné pour aborder sereinement sa future paternité.",
       "category": "Cinéma"
     },
     {
-      "start": "2026-06-16T06:01:00+00:00",
-      "stop": "2026-06-16T08:25:00+00:00",
-      "channel": "Action",
-      "title": "Chouans !",
-      "subtitle": "",
-      "directors": [
-        "Philippe de Broca"
-      ],
-      "matched_director": "Philippe de Broca",
-      "actors": [
-        "Philippe Noiret",
-        "Vincent Schmitt",
-        "Raoul Billerey",
-        "Claudine Delvaux",
-        "Jean Parédès",
-        "Sophie Marceau"
-      ],
-      "description": "L'histoire d'une famille noble et éclairée, celle du comte Savinien de Kerfadec, lors des grandes révoltes chouannes dans les campagnes vendeenne et bretonne. L'histoire de ses enfants, dechirés entre le souffle de l'esprit révolutionnaire et la resistance épique des blancs a la montée de l'opportuniste bourgeoisie.",
-      "category": "Cinéma"
+      "start": "2026-06-20T18:30:00+00:00",
+      "stop": "2026-06-20T19:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 4",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 4 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
     },
     {
-      "start": "2026-06-21T23:45:00+00:00",
-      "stop": "2026-06-22T01:25:00+00:00",
-      "channel": "Arte",
-      "title": "They Shot the Piano player",
+      "start": "2026-06-20T19:10:00+00:00",
+      "stop": "2026-06-20T20:40:00+00:00",
+      "channel": "France 3",
+      "title": "Meurtres à...",
+      "subtitle": "Meurtres à Montauban",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Alors que Montauban célèbre sa fête annuelle des « 400 coups » qui commémore la victoire de la ville sur les armées du roi de France en 1621, l'atmosphère de joie se transforme brusquement en tragédie. Patrick Delmas, l'entrepreneur le plus en vue de la ville et ancienne star internationale de rugby, est assassiné, abattu d'une balle dans l'œil, comme le fut le duc de Mayenne quatre siècles auparavant. Chargé de l'enquête, le commandant Martin Delacroix, fraîchement débarqué de la PJ parisienne, décide de s'associer Cyrielle Laborie, jeune lieutenante et véritable enfant du pays, une passionnée de rugby qui connaît Montauban comme sa poche. La jeune femme, qui vient de perdre sa mère, ne voit pas d'un bon œil l'arrivée de ce policier parisien trop sûr de lui. Ce que Cyrielle ignore, c'est que Martin l'a choisie comme coéquipière pour une raison bien précise. Au cours de cette enquête, ils vont faire une plongée dans l'univers de l'ovalie et dans le passé trouble de Patrick Delmas.",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-06-21T18:05:00+00:00",
+      "stop": "2026-06-21T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
       "subtitle": "",
-      "directors": [
-        "Fernando Trueba",
-        "Javier Mariscal"
-      ],
-      "matched_director": "Fernando Trueba",
-      "actors": [],
-      "description": "New York, 2010. Jeff Harris, journaliste musical, cherche à découvrir la vérité sur Francisco Tenório Júnior, un jeune pianiste brésilien de samba-jazz disparu à Buenos Aires le 18 mars 1976. Tout en célébrant le mouvement musical latino Bossa Nova, le film capture une période éphémère regorgeant de liberté créatrice à un tournant de l'histoire de l'Amérique Latine dans les années 60 et 70, juste avant que le continent ne soit englouti par des régimes totalitaires.",
-      "category": "Cinéma"
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-21T18:15:00+00:00",
+      "stop": "2026-06-21T19:15:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 5",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 5 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
     }
   ]
 }
