@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <!-- Chaînes francophones France -->
+  <channel site="pickx.be" lang="fr" xmltv_id="TF1.fr@HD" site_id="UID50190">TF1</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="France2.fr@HD" site_id="UID50211">France 2</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="France3.fr@HD" site_id="UID0308">France 3</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="France4.fr@HD" site_id="UID0309">France 4</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="France5.fr@HD" site_id="UID0310">France 5</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="arte.fr@HD" site_id="UID0239">Arte</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" site_id="UID2065">TV5 Monde</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="Action.fr@HD" site_id="UID2055">Action</channel>
+  
+  <!-- Chaînes francophones Belgique -->
+  <channel site="pickx.be" lang="fr" xmltv_id="LaUne.be@HD" site_id="UID50323">La Une</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="LaTrois.be@HD" site_id="UID50334">La Trois</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="Tipik.be@HD" site_id="UID0047">Tipik</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="RTLTVI.be@HD" site_id="UID0102">RTL TVI</channel>
+  
+  <!-- Chaînes flamandes (Belgique néerlandophone) -->
+  <channel site="pickx.be" lang="nl" xmltv_id="VRT1.be@HD" site_id="UID50208">VRT 1</channel>
+  <channel site="pickx.be" lang="nl" xmltv_id="VRTCanvas.be@HD" site_id="UID50306">VRT Canvas</channel>
+  <channel site="pickx.be" lang="nl" xmltv_id="VTM.be@HD" site_id="UID50297">VTM</channel>
+  <channel site="pickx.be" lang="nl" xmltv_id="VTM2.be@HD" site_id="UID0039">VTM 2</channel>
+  
+  <!-- Chaînes britanniques -->
+  <channel site="pickx.be" lang="en" xmltv_id="BBCOne.uk@HD" site_id="UID2355">BBC One</channel>
+  <channel site="pickx.be" lang="en" xmltv_id="BBCTwo.uk@HD" site_id="UID2356">BBC Two</channel>
+  
+  <!-- Chaînes italiennes -->
+  <channel site="pickx.be" lang="fr" xmltv_id="Rai1.it@HD" site_id="UID2371">RAI Uno</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="Rai2.it@HD" site_id="UID2372">RAI Due</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="Rai3.it@HD" site_id="UID2373">RAI Tre</channel>
+  
+  <!-- Chaîne espagnole -->
+  <channel site="pickx.be" lang="fr" xmltv_id="TVEInternacionalEuropeAsia.es@HD" site_id="UID2483">TVE International</channel>
+</channels>
