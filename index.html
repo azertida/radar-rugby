@@ -3,12 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Radar Réalisation</title>
-<meta name="description" content="Radar TV des programmes réalisés par des cinéastes que je suis">
-<meta name="theme-color" content="#1F1B16">
+<title>Radar Rugby</title>
+<meta name="description" content="Radar TV du rugby : les matchs à la télévision cette semaine">
+<meta name="theme-color" content="#1E3A28">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Radar Réalisation">
+<meta name="apple-mobile-web-app-title" content="Radar Rugby">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon.png">
 
@@ -27,7 +27,7 @@
   --rule: #1A1814;
   --seen-paper: #D5CFC2;
   --seen-ink: #8A8273;
-  --highlight: #C44B2C;
+  --highlight: #2F6B3D;
   
   /* Typographies */
   --display: 'Bricolage Grotesque', system-ui, sans-serif;
@@ -475,8 +475,8 @@ body {
       <span>Programme · Bruxelles</span>
       <span id="dateline">Édition du —</span>
     </div>
-    <h1 class="masthead-title">Radar Réalisation</h1>
-    <p class="masthead-sub">les films de vos cinéastes, à la télévision cette semaine</p>
+    <h1 class="masthead-title">Radar Rugby</h1>
+    <p class="masthead-sub">le rugby à la télévision cette semaine</p>
   </header>
 
   <div class="statusbar">
@@ -487,7 +487,7 @@ body {
   <div class="controls" id="controls" style="display:none;">
     <div class="toggle-group" role="tablist" aria-label="Mode de tri">
       <button class="toggle-btn active" id="sort-date" type="button">Par date</button>
-      <button class="toggle-btn" id="sort-director" type="button">Par cinéaste</button>
+      <button class="toggle-btn" id="sort-comp" type="button">Par compétition</button>
     </div>
     <label class="checkbox-toggle">
       <input type="checkbox" id="hide-seen">
@@ -512,9 +512,9 @@ body {
 // ============ State ============
 const state = {
   data: null,
-  sort: 'date',           // 'date' | 'director'
+  sort: 'date',           // 'date' | 'comp'
   hideSeen: false,
-  seen: new Set(JSON.parse(localStorage.getItem('radar-realisation-seen') || '[]'))
+  seen: new Set(JSON.parse(localStorage.getItem('radar-rugby-seen') || '[]'))
 };
 
 const $ = sel => document.querySelector(sel);
@@ -527,7 +527,7 @@ function seenKey(p) {
 function toggleSeen(key) {
   if (state.seen.has(key)) state.seen.delete(key);
   else state.seen.add(key);
-  localStorage.setItem('radar-realisation-seen', JSON.stringify([...state.seen]));
+  localStorage.setItem('radar-rugby-seen', JSON.stringify([...state.seen]));
 }
 
 function formatWhen(iso) {
@@ -562,8 +562,7 @@ function escapeHtml(s) {
 function renderCard(p) {
   const key = seenKey(p);
   const isSeen = state.seen.has(key);
-  const actors = (p.actors || []).slice(0, 6).join(', ');
-  
+
   return `
     <article class="card ${isSeen ? 'seen' : ''}" data-key="${escapeHtml(key)}">
       <div class="card-header">
@@ -573,13 +572,9 @@ function renderCard(p) {
       <h2 class="card-title">${escapeHtml(p.title || 'Sans titre')}</h2>
       ${p.subtitle ? `<p class="card-subtitle">${escapeHtml(p.subtitle)}</p>` : ''}
       <div class="card-director-line">
-        <span class="card-director-label">Un film de</span>
-        <span class="card-director-name">${escapeHtml(p.matched_director || (p.directors || []).join(', '))}</span>
+        <span class="card-director-label">Compétition</span>
+        <span class="card-director-name">${escapeHtml(p.competition || 'Rugby')}</span>
       </div>
-      ${actors ? `
-        <p class="card-actors">
-          <span class="card-actors-label">Avec</span>${escapeHtml(actors)}${p.actors && p.actors.length > 6 ? ', et autres' : ''}
-        </p>` : ''}
       ${p.description ? `<p class="card-desc">${escapeHtml(p.description)}</p>` : ''}
       <div class="card-footer">
         <button class="seen-btn" type="button" data-action="toggle-seen">
@@ -594,24 +589,24 @@ function renderByDate(programmes) {
   return programmes.map(renderCard).join('');
 }
 
-function renderByDirector(programmes) {
-  // Group by matched_director
+function renderByCompetition(programmes) {
+  // Regroupe par compétition détectée
   const groups = new Map();
   for (const p of programmes) {
-    const key = p.matched_director || (p.directors || []).join(', ');
+    const key = p.competition || 'Rugby';
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push(p);
   }
-  // Sort directors alphabetically
-  const sortedDirectors = [...groups.keys()].sort((a, b) => a.localeCompare(b, 'fr'));
-  
-  return sortedDirectors.map(dir => {
-    const items = groups.get(dir);
+  // Tri alphabétique des compétitions
+  const sorted = [...groups.keys()].sort((a, b) => a.localeCompare(b, 'fr'));
+
+  return sorted.map(comp => {
+    const items = groups.get(comp);
     return `
       <section class="director-group">
         <header class="director-heading">
-          <span class="director-name">${escapeHtml(dir)}</span>
-          <span class="director-count">${items.length} ${items.length > 1 ? 'séances' : 'séance'}</span>
+          <span class="director-name">${escapeHtml(comp)}</span>
+          <span class="director-count">${items.length} ${items.length > 1 ? 'diffusions' : 'diffusion'}</span>
         </header>
         ${items.map(renderCard).join('')}
       </section>
@@ -642,13 +637,13 @@ function render() {
       content.innerHTML = `
         <div class="empty">
           <h2 class="empty-title">Tout est vu</h2>
-          <p class="empty-text">Décochez « Cacher les vus » pour retrouver les séances.</p>
+          <p class="empty-text">Décochez « Cacher les vus » pour retrouver les diffusions.</p>
         </div>`;
     } else {
       content.innerHTML = `
         <div class="empty">
           <h2 class="empty-title">Rien à signaler cette semaine</h2>
-          <p class="empty-text">Aucun film de votre liste à la télévision dans les sept prochains jours.</p>
+          <p class="empty-text">Aucun match de rugby à la télévision dans les sept prochains jours.</p>
         </div>`;
     }
     return;
@@ -657,7 +652,7 @@ function render() {
   if (state.sort === 'date') {
     content.innerHTML = renderByDate(programmes);
   } else {
-    content.innerHTML = renderByDirector(programmes);
+    content.innerHTML = renderByCompetition(programmes);
   }
 }
 
@@ -668,8 +663,7 @@ function renderMeta() {
     return;
   }
   const count = (state.data.programmes || []).length;
-  const seenCount = state.seen.size;
-  meta.textContent = `${count} séance${count > 1 ? 's' : ''} · ${state.data.watchlist_size || 0} cinéastes suivis`;
+  meta.textContent = `${count} diffusion${count > 1 ? 's' : ''} · ${state.data.keywords_size || 0} mots-clés`;
   $('#dateline').textContent = formatDateline(state.data.generated_at);
 }
 
@@ -709,13 +703,13 @@ document.addEventListener('click', e => {
 $('#sort-date').addEventListener('click', () => {
   state.sort = 'date';
   $('#sort-date').classList.add('active');
-  $('#sort-director').classList.remove('active');
+  $('#sort-comp').classList.remove('active');
   render();
 });
 
-$('#sort-director').addEventListener('click', () => {
-  state.sort = 'director';
-  $('#sort-director').classList.add('active');
+$('#sort-comp').addEventListener('click', () => {
+  state.sort = 'comp';
+  $('#sort-comp').classList.add('active');
   $('#sort-date').classList.remove('active');
   render();
 });

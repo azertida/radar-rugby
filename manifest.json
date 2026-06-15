@@ -1,12 +1,12 @@
 {
-  "name": "Radar Réalisation",
-  "short_name": "Radar Ciné",
-  "description": "Les films de mes cinéastes à la télévision cette semaine",
+  "name": "Radar Rugby",
+  "short_name": "Radar Rugby",
+  "description": "Le rugby à la télévision cette semaine",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ECE7DC",
-  "theme_color": "#1F1B16",
+  "theme_color": "#1E3A28",
   "orientation": "portrait-primary",
   "lang": "fr",
   "icons": [

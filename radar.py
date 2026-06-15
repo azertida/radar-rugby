@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Radar Réalisation
-=================
+Radar Rugby
+===========
 Scanne une grille EPG Pickx (format XMLTV) et identifie les programmes
-réalisés par les cinéastes listés dans watchlist.json.
+de rugby, via les mots-clés listés dans watchlist.json (titre / sous-titre
+/ catégorie). Philosophie : filet large, faux positifs acceptés.
 
 Usage :
     python3 radar.py --source /tmp/pickx_guide.xml
@@ -13,6 +14,8 @@ import argparse
 import json
 import sys
 from datetime import datetime, timezone
+
+
 from xml.etree import ElementTree as ET
 
 
@@ -44,28 +47,15 @@ CHANNEL_NAMES = {
 
 
 def load_watchlist(path="watchlist.json"):
-    """Charge la liste des noms à surveiller."""
+    """Charge les mots-clés rugby et la table des compétitions."""
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
-    noms = data.get("noms", [])
-    # Pré-normalisation pour une comparaison robuste
-    return [nom.strip() for nom in noms if nom.strip()]
-
-
-def get_directors(programme):
-    """Extrait la liste des réalisateurs d'un programme."""
-    directors = []
-    credits = programme.find("credits")
-    if credits is None:
-        return directors
-    for d in credits.findall("director"):
-        if d.text:
-            # Pickx stocke parfois plusieurs noms séparés par virgule dans une seule balise
-            for nom in d.text.split(","):
-                nom = nom.strip()
-                if nom:
-                    directors.append(nom)
-    return directors
+    motscles = data.get("motscles", [])
+    # Pré-normalisation : minuscules, sans espaces superflus
+    motscles = [m.strip().lower() for m in motscles if m.strip()]
+    competitions = data.get("competitions", {})
+    competitions = {k.strip().lower(): v for k, v in competitions.items()}
+    return motscles, competitions
 
 
 def parse_datetime(dt_string):
@@ -94,85 +84,82 @@ def parse_datetime(dt_string):
         return None
 
 
-def extract_programmes(xml_path, watchlist):
-    """Parse le XML et retourne les programmes dont un réalisateur est dans la watchlist."""
+def detect_competition(haystack, competitions):
+    """Renvoie le libellé de compétition le plus pertinent trouvé dans le texte.
+
+    On parcourt la table dans l'ordre de déclaration (du plus spécifique au
+    plus générique). Défaut : 'Rugby'.
+    """
+    for cle, libelle in competitions.items():
+        if cle in haystack:
+            return libelle
+    return "Rugby"
+
+
+def extract_programmes(xml_path, motscles, competitions):
+    """Parse le XML et retourne les programmes contenant un mot-clé rugby."""
     tree = ET.parse(xml_path)
     root = tree.getroot()
-    
-    # Index pour comparaison rapide
-    watchlist_lower = {nom.lower(): nom for nom in watchlist}
-    
+
     matches = []
     total_programmes = 0
-    total_with_credits = 0
-    
+
     for prog in root.findall("programme"):
         total_programmes += 1
-        
-        directors = get_directors(prog)
-        if not directors:
-            continue
-        total_with_credits += 1
-        
-        # Cherche si un des réalisateurs est dans la watchlist
-        matched_director = None
-        for d in directors:
-            if d.lower() in watchlist_lower:
-                matched_director = watchlist_lower[d.lower()]
-                break
-        
-        if not matched_director:
-            continue
-        
-        # Récupère les infos du programme
+
         title_el = prog.find("title")
         title = (title_el.text or "").strip() if title_el is not None else ""
-        
+
         sub_el = prog.find("sub-title")
         subtitle = (sub_el.text or "").strip() if sub_el is not None else ""
-        
+
         desc_el = prog.find("desc")
         description = (desc_el.text or "").strip() if desc_el is not None else ""
-        
-        cat_el = prog.find("category")
-        category = (cat_el.text or "").strip() if cat_el is not None else ""
-        
-        # Acteurs (en bonus, ça sera utile à afficher)
-        actors = []
-        credits = prog.find("credits")
-        if credits is not None:
-            for a in credits.findall("actor"):
-                if a.text:
-                    for nom in a.text.split(","):
-                        nom = nom.strip()
-                        if nom:
-                            actors.append(nom)
-        
-        # Tous les réalisateurs (pour info, dans le cas des films co-réalisés)
-        all_directors = directors
-        
+
+        # Catégorie : Pickx peut en lister plusieurs
+        categories = []
+        for c in prog.findall("category"):
+            if c.text:
+                categories.append(c.text.strip())
+        category = " / ".join(categories)
+
+        # Texte de recherche : titre + sous-titre + catégorie + description
+        # (en minuscules). On inclut la description pour ne pas rater les matchs
+        # dont le titre est générique mais dont le résumé nomme les équipes.
+        haystack = " ".join([title, subtitle, category, description]).lower()
+
+        # Cherche le premier mot-clé présent
+        matched_keyword = None
+        for mot in motscles:
+            if mot in haystack:
+                matched_keyword = mot
+                break
+
+        if not matched_keyword:
+            continue
+
+        competition = detect_competition(haystack, competitions)
+
         # Chaîne lisible
         channel_id = prog.get("channel", "")
         channel_name = CHANNEL_NAMES.get(channel_id, channel_id)
-        
+
         matches.append({
             "start": parse_datetime(prog.get("start", "")),
             "stop": parse_datetime(prog.get("stop", "")),
             "channel": channel_name,
             "title": title,
             "subtitle": subtitle,
-            "directors": all_directors,
-            "matched_director": matched_director,
-            "actors": actors,
+            "competition": competition,
+            "matched_keyword": matched_keyword,
             "description": description,
-            "category": category
+            "category": category,
         })
-    
-    print(f"Total programmes analysés : {total_programmes}", file=sys.stderr)
-    print(f"Avec credits/director : {total_with_credits}", file=sys.stderr)
-    print(f"Matches sur la watchlist : {len(matches)}", file=sys.stderr)
-    
-    # Déduplication par (title, start, channel) : Pickx peut diffuser plusieurs variantes
+
+    print(f"Total programmes analyses : {total_programmes}", file=sys.stderr)
+    print(f"Matches rugby : {len(matches)}", file=sys.stderr)
+
+    # Déduplication par (title, start, channel) : Pickx diffuse des variantes HD/SD/+1
     seen = set()
     deduped = []
     for m in matches:
@@ -180,25 +167,25 @@ def extract_programmes(xml_path, watchlist):
         if key not in seen:
             seen.add(key)
             deduped.append(m)
-    
+
     # Tri par date de début
     deduped.sort(key=lambda m: m["start"] or "")
-    
+
     return deduped
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Radar Réalisation - filtre EPG Pickx par réalisateur")
+    parser = argparse.ArgumentParser(description="Radar Rugby - filtre EPG Pickx par mots-cles rugby")
     parser.add_argument("--source", default="/tmp/pickx_guide.xml", help="Chemin du XML Pickx")
     parser.add_argument("--watchlist", default="watchlist.json", help="Chemin de la watchlist")
     parser.add_argument("--output", default="radar.json", help="Fichier JSON de sortie")
     args = parser.parse_args()
-    
-    watchlist = load_watchlist(args.watchlist)
-    print(f"Watchlist : {len(watchlist)} noms", file=sys.stderr)
-    
-    matches = extract_programmes(args.source, watchlist)
-    
+
+    motscles, competitions = load_watchlist(args.watchlist)
+    print(f"Mots-cles : {len(motscles)}", file=sys.stderr)
+
+    matches = extract_programmes(args.source, motscles, competitions)
+
     # Calcul de la fenêtre temporelle observée
     if matches:
         dates = [m["start"][:10] for m in matches if m["start"]]
@@ -208,22 +195,22 @@ def main():
         today = datetime.now(timezone.utc).date().isoformat()
         window_start = today
         window_end = today
-    
+
     output = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "window_start": window_start,
         "window_end": window_end,
         "source": "Pickx via iptv-org/epg",
-        "watchlist_size": len(watchlist),
-        "watchlist": watchlist,
+        "keywords_size": len(motscles),
+        "keywords": motscles,
         "count": len(matches),
-        "programmes": matches
+        "programmes": matches,
     }
-    
+
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    
-    print(f"radar.json écrit : {len(matches)} programmes", file=sys.stderr)
+
+    print(f"radar.json ecrit : {len(matches)} programmes", file=sys.stderr)
 
 
 if __name__ == "__main__":
