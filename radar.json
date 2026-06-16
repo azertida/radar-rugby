@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-15T20:55:58.511263+00:00",
-  "window_start": "2026-06-14",
+  "generated_at": "2026-06-16T16:02:32.724007+00:00",
+  "window_start": "2026-06-17",
   "window_end": "2026-06-21",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-06-14T18:05:00+00:00",
-      "stop": "2026-06-14T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
     {
       "start": "2026-06-17T18:00:00+00:00",
       "stop": "2026-06-17T19:00:00+00:00",
@@ -54,8 +43,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-06-17T19:18:00+00:00",
-      "stop": "2026-06-17T20:05:00+00:00",
+      "start": "2026-06-17T19:20:00+00:00",
+      "stop": "2026-06-17T20:09:00+00:00",
       "channel": "La Trois",
       "title": "Ann Ming, le combat d'une mère",
       "subtitle": "Épisode 2",
@@ -76,8 +65,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-06-19T12:10:00+00:00",
-      "stop": "2026-06-19T12:58:00+00:00",
+      "start": "2026-06-19T12:12:00+00:00",
+      "stop": "2026-06-19T12:59:00+00:00",
       "channel": "La Trois",
       "title": "Ann Ming, le combat d'une mère",
       "subtitle": "Épisode 2",
@@ -99,7 +88,7 @@
     },
     {
       "start": "2026-06-19T18:13:00+00:00",
-      "stop": "2026-06-19T19:55:00+00:00",
+      "stop": "2026-06-19T19:56:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Montauban",
       "subtitle": "",
