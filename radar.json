@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T18:06:18.640531+00:00",
+  "generated_at": "2026-06-18T16:50:03.114057+00:00",
   "window_start": "2026-06-17",
-  "window_end": "2026-06-21",
+  "window_end": "2026-06-24",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-06-17T18:00:00+00:00",
@@ -65,8 +65,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-06-19T12:12:00+00:00",
-      "stop": "2026-06-19T12:59:00+00:00",
+      "start": "2026-06-19T12:09:00+00:00",
+      "stop": "2026-06-19T12:56:00+00:00",
       "channel": "La Trois",
       "title": "Ann Ming, le combat d'une mère",
       "subtitle": "Épisode 2",
@@ -140,6 +140,28 @@
       "matched_keyword": "test match",
       "description": "Day 5 highlights from the second Test match between England and New Zealand.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-06-24T03:25:00+00:00",
+      "stop": "2026-06-24T04:10:00+00:00",
+      "channel": "Arte",
+      "title": "Kimberley, le Grand Ouest sauvage australien",
+      "subtitle": "Fleuve source de vie",
+      "competition": "Test match",
+      "matched_keyword": "wallabies",
+      "description": "Dans le nord-ouest de l'Australie, la région de Kimberley est le refuge d'une biodiversité unique. Dans cet épisode : au plus fort de la saison sèche, les wallabies assoiffés convergent vers les derniers points d'eau, où rôdent de redoutables crocodiles marins...",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-06-24T16:47:00+00:00",
+      "stop": "2026-06-24T17:03:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
     }
   ]
 }
