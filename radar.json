@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T18:18:18.573546+00:00",
-  "window_start": "2026-06-17",
-  "window_end": "2026-06-24",
+  "generated_at": "2026-06-19T16:19:20.111439+00:00",
+  "window_start": "2026-06-18",
+  "window_end": "2026-06-25",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-06-17T18:00:00+00:00",
-      "stop": "2026-06-17T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Second Test, Day 1",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 1 highlights from the second Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-06-17T19:20:00+00:00",
-      "stop": "2026-06-17T20:09:00+00:00",
-      "channel": "La Trois",
-      "title": "Ann Ming, le combat d'une mère",
-      "subtitle": "Épisode 2",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Ann a fini par découvrir, presque trois mois après sa disparition, le corps sans vie de sa fille. Elle met la pression sur la police pour qu'elle retrouve le meurtrier, tout en s'efforçant de sauver son mariage. L'arrestation de William Dunlop, membre du club de rugby local, lui donne l'espoir que justice sera rendue pour Julie.",
-      "category": "Documentaire"
-    },
     {
       "start": "2026-06-18T18:30:00+00:00",
       "stop": "2026-06-18T19:30:00+00:00",
@@ -87,8 +65,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-06-19T18:13:00+00:00",
-      "stop": "2026-06-19T19:56:00+00:00",
+      "start": "2026-06-19T18:16:00+00:00",
+      "stop": "2026-06-19T19:58:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Montauban",
       "subtitle": "",
@@ -162,6 +140,17 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-06-25T18:00:00+00:00",
+      "stop": "2026-06-25T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Third Test, Day 1",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 1 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
     }
   ]
 }
