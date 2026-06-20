@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T17:26:28.937784+00:00",
-  "window_start": "2026-06-18",
-  "window_end": "2026-06-25",
+  "generated_at": "2026-06-20T12:15:03.158520+00:00",
+  "window_start": "2026-06-19",
+  "window_end": "2026-06-26",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -32,19 +32,8 @@
   "count": 11,
   "programmes": [
     {
-      "start": "2026-06-18T18:30:00+00:00",
-      "stop": "2026-06-18T19:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Second Test, Day 2",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 2 highlights from the second Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
       "start": "2026-06-19T12:09:00+00:00",
-      "stop": "2026-06-19T12:56:00+00:00",
+      "stop": "2026-06-19T12:57:00+00:00",
       "channel": "La Trois",
       "title": "Ann Ming, le combat d'une mère",
       "subtitle": "Épisode 2",
@@ -65,8 +54,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-06-19T18:16:00+00:00",
-      "stop": "2026-06-19T19:58:00+00:00",
+      "start": "2026-06-19T18:18:00+00:00",
+      "stop": "2026-06-19T20:00:00+00:00",
       "channel": "La Une",
       "title": "Meurtres à Montauban",
       "subtitle": "",
@@ -150,6 +139,17 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 1 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-26T18:00:00+00:00",
+      "stop": "2026-06-26T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Third Test, Day 2",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 2 highlights from the third Test match between England and New Zealand.",
       "category": "Sports"
     }
   ]
