@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T15:27:36.159337+00:00",
-  "window_start": "2026-06-19",
-  "window_end": "2026-06-26",
+  "generated_at": "2026-06-21T12:29:35.160403+00:00",
+  "window_start": "2026-06-20",
+  "window_end": "2026-06-27",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,41 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-06-19T12:09:00+00:00",
-      "stop": "2026-06-19T12:57:00+00:00",
-      "channel": "La Trois",
-      "title": "Ann Ming, le combat d'une mère",
-      "subtitle": "Épisode 2",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Ann a fini par découvrir, presque trois mois après sa disparition, le corps sans vie de sa fille. Elle met la pression sur la police pour qu'elle retrouve le meurtrier, tout en s'efforçant de sauver son mariage. L'arrestation de William Dunlop, membre du club de rugby local, lui donne l'espoir que justice sera rendue pour Julie.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-06-19T18:00:00+00:00",
-      "stop": "2026-06-19T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Second Test, Day 3",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 3 highlights from the second Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-06-19T18:20:00+00:00",
-      "stop": "2026-06-19T20:02:00+00:00",
-      "channel": "La Une",
-      "title": "Meurtres à Montauban",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Un ancien joueur professionnel de rugby devenu propriétaire du club de Montauban est assassiné lors de la fête des 400 coups qui célèbre la victoire de la ville protestante contre l'armée du roi catholique Louis XIII en 1621. A peine débarqué de la PJ parisienne, le commandant Martin Delacroix va s'associer à la jeune lieutenante Cyrielle Laborie, enfant du pays adepte du rugby qui connaît la ville comme sa poche, afin de trouver le coupable. Ce que Cyrielle ignore, c'est que si Martin la choisit comme coéquipière, c'est parce qu'il cherche sa famille biologique. Né sous X, Martin veut faire la connaissance de sa demi-sœur, Cyrielle, qui lui en apprendra plus sur leur mère défunte. Sur le point de devenir père, il a besoin de connaître la raison pour laquelle sa mère biologique l'a abandonné pour aborder sereinement sa future paternité.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-06-20T18:30:00+00:00",
       "stop": "2026-06-20T19:30:00+00:00",
@@ -150,6 +117,28 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 2 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-27T18:10:00+00:00",
+      "stop": "2026-06-27T19:10:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "England v New Zealand 2026,Third Test, Day 3",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 3 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-27T18:43:00+00:00",
+      "stop": "2026-06-27T21:25:00+00:00",
+      "channel": "France 2",
+      "title": "Rugby : Top 14",
+      "subtitle": "Finale",
+      "competition": "Top 14",
+      "matched_keyword": "rugby",
+      "description": "Qui sera sacré, ce soir, champion de France de rugby et soulèvera le célèbre Bouclier de Brennus ? L'an dernier, au Stade de France, Montpellier avait facilement battu Castres (29-10). Ce samedi, aucun des deux protagonistes de la finale 2022 ne foulera la pelouse de Saint-Denis. Les deux favoris de la saison sont le Stade Toulousain et le Stade Rochelais, tous deux directement qualifiés pour les demi-finales qui se déroulaient à San Sebastian, les 9 et 10 juin derniers. Mais Lyon, le Stade Français, le Racing 92 et l'Union Bordeaux-Bègles n'avaient pas encore dit leur dernier mot et espéraient jouer les trouble-fête.",
       "category": "Sports"
     }
   ]
