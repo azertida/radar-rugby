@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T15:33:07.032450+00:00",
-  "window_start": "2026-06-20",
-  "window_end": "2026-06-27",
+  "generated_at": "2026-06-22T17:22:49.229309+00:00",
+  "window_start": "2026-06-21",
+  "window_end": "2026-06-28",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-06-20T18:30:00+00:00",
-      "stop": "2026-06-20T19:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Second Test, Day 4",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 4 highlights from the second Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-06-20T19:10:00+00:00",
-      "stop": "2026-06-20T20:40:00+00:00",
-      "channel": "France 3",
-      "title": "Meurtres à...",
-      "subtitle": "Meurtres à Montauban",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Alors que Montauban célèbre sa fête annuelle des « 400 coups » qui commémore la victoire de la ville sur les armées du roi de France en 1621, l'atmosphère de joie se transforme brusquement en tragédie. Patrick Delmas, l'entrepreneur le plus en vue de la ville et ancienne star internationale de rugby, est assassiné, abattu d'une balle dans l'œil, comme le fut le duc de Mayenne quatre siècles auparavant. Chargé de l'enquête, le commandant Martin Delacroix, fraîchement débarqué de la PJ parisienne, décide de s'associer Cyrielle Laborie, jeune lieutenante et véritable enfant du pays, une passionnée de rugby qui connaît Montauban comme sa poche. La jeune femme, qui vient de perdre sa mère, ne voit pas d'un bon œil l'arrivée de ce policier parisien trop sûr de lui. Ce que Cyrielle ignore, c'est que Martin l'a choisie comme coéquipière pour une raison bien précise. Au cours de cette enquête, ils vont faire une plongée dans l'univers de l'ovalie et dans le passé trouble de Patrick Delmas.",
-      "category": "Séries"
-    },
     {
       "start": "2026-06-21T18:05:00+00:00",
       "stop": "2026-06-21T19:10:00+00:00",
@@ -139,6 +117,61 @@
       "competition": "Top 14",
       "matched_keyword": "rugby",
       "description": "Qui sera sacré, ce soir, champion de France de rugby et soulèvera le célèbre Bouclier de Brennus ? L'an dernier, au Stade de France, Montpellier avait facilement battu Castres (29-10). Ce samedi, aucun des deux protagonistes de la finale 2022 ne foulera la pelouse de Saint-Denis. Les deux favoris de la saison sont le Stade Toulousain et le Stade Rochelais, tous deux directement qualifiés pour les demi-finales qui se déroulaient à San Sebastian, les 9 et 10 juin derniers. Mais Lyon, le Stade Français, le Racing 92 et l'Union Bordeaux-Bègles n'avaient pas encore dit leur dernier mot et espéraient jouer les trouble-fête.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-28T00:30:00+00:00",
+      "stop": "2026-06-28T02:20:00+00:00",
+      "channel": "Arte",
+      "title": "La guerre d'indépendance américaine : toute l'histoire",
+      "subtitle": "La France entre en guerre (janvier 1777-février 1778)",
+      "competition": "Tournoi des 6 Nations",
+      "matched_keyword": "six nations",
+      "description": "En 1777, les Britanniques décident de mener deux campagnes simultanées. Pendant ce temps, dans la vallée de la Mohawk, les six nations Haudenosaunee, qui s'étaient jusqu'alors tenues à l'écart, se voient forcées de choisir un camp. Ce qui avait commencé comme une rébellion coloniale devient soudain un conflit international, la France de Louis XVI ayant choisi d'entrer en guerre aux côtés des Patriots.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-06-28T06:04:00+00:00",
+      "stop": "2026-06-28T06:10:00+00:00",
+      "channel": "France 5",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-06-28T14:30:00+00:00",
+      "stop": "2026-06-28T15:15:00+00:00",
+      "channel": "BBC One",
+      "title": "The Americas",
+      "subtitle": "Patagonia",
+      "competition": "Test match",
+      "matched_keyword": "pumas",
+      "description": "Patagonia, a wilderness at the far south of the Americas. Pumas hunt in snowy mountains, rockhopper penguins brave the waves, giant stag beetles climb trees, orcas learn to hunt and elephant seals fight for dominance on the coast. With Tom Hanks.",
+      "category": "Documentary"
+    },
+    {
+      "start": "2026-06-28T18:00:00+00:00",
+      "stop": "2026-06-28T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "England v New Zealand 2026,Third Test, Day 4",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 4 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-28T18:05:00+00:00",
+      "stop": "2026-06-28T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
