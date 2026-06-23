@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T20:17:48.798189+00:00",
-  "window_start": "2026-06-21",
-  "window_end": "2026-06-28",
+  "generated_at": "2026-06-23T16:09:35.348143+00:00",
+  "window_start": "2026-06-24",
+  "window_end": "2026-06-29",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-06-21T18:05:00+00:00",
-      "stop": "2026-06-21T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-06-21T18:15:00+00:00",
-      "stop": "2026-06-21T19:15:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Second Test, Day 5",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 5 highlights from the second Test match between England and New Zealand.",
-      "category": "Sports"
-    },
     {
       "start": "2026-06-24T03:25:00+00:00",
       "stop": "2026-06-24T04:10:00+00:00",
@@ -65,8 +43,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-06-24T16:47:00+00:00",
-      "stop": "2026-06-24T17:03:00+00:00",
+      "start": "2026-06-24T16:56:00+00:00",
+      "stop": "2026-06-24T16:58:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "La belle",
@@ -172,6 +150,17 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-06-29T23:05:00+00:00",
+      "stop": "2026-06-30T00:05:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Third Test, Day 5",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 5 highlights from the third Test match between England and New Zealand.",
       "category": "Sports"
     }
   ]
