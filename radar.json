@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T17:02:01.599570+00:00",
-  "window_start": "2026-06-24",
+  "generated_at": "2026-06-26T12:35:43.428444+00:00",
+  "window_start": "2026-06-25",
   "window_end": "2026-06-29",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-06-24T03:25:00+00:00",
-      "stop": "2026-06-24T04:10:00+00:00",
-      "channel": "Arte",
-      "title": "Kimberley, le Grand Ouest sauvage australien",
-      "subtitle": "Fleuve source de vie",
-      "competition": "Test match",
-      "matched_keyword": "wallabies",
-      "description": "Dans le nord-ouest de l'Australie, la région de Kimberley est le refuge d'une biodiversité unique. Dans cet épisode : au plus fort de la saison sèche, les wallabies assoiffés convergent vers les derniers points d'eau, où rôdent de redoutables crocodiles marins...",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-06-24T16:47:00+00:00",
-      "stop": "2026-06-24T17:03:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-06-25T18:00:00+00:00",
       "stop": "2026-06-25T19:00:00+00:00",
