@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:35:43.428444+00:00",
+  "generated_at": "2026-06-26T16:35:27.208877+00:00",
   "window_start": "2026-06-25",
   "window_end": "2026-06-29",
   "source": "Pickx via iptv-org/epg",
@@ -87,8 +87,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-06-28T06:04:00+00:00",
-      "stop": "2026-06-28T06:10:00+00:00",
+      "start": "2026-06-28T06:02:00+00:00",
+      "stop": "2026-06-28T06:04:00+00:00",
       "channel": "France 5",
       "title": "Bluey",
       "subtitle": "La belle",
