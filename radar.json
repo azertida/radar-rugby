@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T16:35:27.208877+00:00",
-  "window_start": "2026-06-25",
-  "window_end": "2026-06-29",
+  "generated_at": "2026-06-27T11:15:50.871592+00:00",
+  "window_start": "2026-06-26",
+  "window_end": "2026-07-03",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-06-25T18:00:00+00:00",
-      "stop": "2026-06-25T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Third Test, Day 1",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 1 highlights from the third Test match between England and New Zealand.",
-      "category": "Sports"
-    },
     {
       "start": "2026-06-26T18:00:00+00:00",
       "stop": "2026-06-26T19:00:00+00:00",
@@ -140,6 +129,28 @@
       "matched_keyword": "test match",
       "description": "Day 5 highlights from the third Test match between England and New Zealand.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-07-03T14:40:00+00:00",
+      "stop": "2026-07-03T15:30:00+00:00",
+      "channel": "Arte",
+      "title": "Les merveilles de la nature",
+      "subtitle": "Grand Canyon, un héritage à préserver",
+      "competition": "Test match",
+      "matched_keyword": "pumas",
+      "description": "Dans l'Ouest américain, le Grand Canyon, creusé par les eaux du fleuve Colorado sur 445 kilomètres, est l'un des plus impressionnants sites naturels de la planète. Protégé par un parc national depuis 1919, il abrite une biodiversité étonnante dans un environnement minéral aux conditions plutôt inhospitalières. Les falaises abruptes du Canyon offre un refuge aux condors de Californie, sauvés in extremis de l'extinction par des biologistes passionnés. La rive sud du fleuve Colorado, plus aride, est le territoire des écureuils des rochers, des chouettes, des mouflons et des pumas. La rive nord, plus fraîche et boisée, accueille des troupeaux de bisons ainsi que des wapitis, des cerfs mulet, et des ratons-laveurs qui vivent dans l'une des dernières forêts de pins ponderosa. Et, au fond du canyon, les berges du Colorado sont investies par les castors et les oiseaux. Pour autant, le Grand Canyon est aujourd'hui confronté à de sérieuses menaces. Cinq millions de visiteurs le fréquentent tous les ans. La construction d'un barrage, des mines d'uranium et le réchauffement climatique pèsent lourdement sur son équilibre. Préserver ce sanctuaire géologique et biologique exige des actions concrètes que les 11 peuples autochtones vivant sur ce territoire sont les premiers à réclamer. Au-delà de sa biodiversité et",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-07-03T17:44:00+00:00",
+      "stop": "2026-07-03T18:04:00+00:00",
+      "channel": "France 4",
+      "title": "Les as de la jungle à la rescousse",
+      "subtitle": "Mariage et plaquage",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
+      "category": "Jeunesse"
     }
   ]
 }
