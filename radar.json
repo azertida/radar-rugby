@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T13:00:56.341095+00:00",
-  "window_start": "2026-06-26",
-  "window_end": "2026-07-03",
+  "generated_at": "2026-06-28T11:30:18.806884+00:00",
+  "window_start": "2026-06-27",
+  "window_end": "2026-07-04",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 16,
   "programmes": [
-    {
-      "start": "2026-06-26T18:00:00+00:00",
-      "stop": "2026-06-26T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Third Test, Day 2",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 2 highlights from the third Test match between England and New Zealand.",
-      "category": "Sports"
-    },
     {
       "start": "2026-06-27T18:10:00+00:00",
       "stop": "2026-06-27T19:10:00+00:00",
@@ -85,6 +74,17 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-06-28T11:20:00+00:00",
+      "stop": "2026-06-28T12:20:00+00:00",
+      "channel": "France 2",
+      "title": "13h15, le dimanche",
+      "subtitle": "Pauline et Laure, l'amour du jeu",
+      "competition": "Tournoi des 6 Nations",
+      "matched_keyword": "rugby",
+      "description": "Pauline Bourdon Sansus est l'une des meilleures joueuses de rugby au monde, elle porte le numéro 9 dans l'équipe du XV de France. Laure, son épouse, est également entraîneuse au Stade Toulousain. Entre championnat, Tournoi des Six Nations et vie de famille avec un enfant en bas âge, elles tentent de faire tenir cet équilibre fragile. Bernadette est devenue une partenaire active pour accompagner la carrière de son mari avant de s'impliquer elle-même dans la vie publique. Avec le témoignage de leur fille cadette Claude Chirac, longtemps conseillère de son père. Un document signé Stéphane Dépinoy, Simon Fichet et Fanny Martino.",
+      "category": "Info"
     },
     {
       "start": "2026-06-28T14:30:00+00:00",
@@ -131,6 +131,17 @@
       "category": "Sports"
     },
     {
+      "start": "2026-07-02T23:45:00+00:00",
+      "stop": "2026-07-03T00:30:00+00:00",
+      "channel": "France 2",
+      "title": "13h15, le dimanche",
+      "subtitle": "Pauline et Laure, l'amour du jeu",
+      "competition": "Tournoi des 6 Nations",
+      "matched_keyword": "rugby",
+      "description": "Pauline Bourdon Sansus est l'une des meilleures joueuses de rugby au monde, elle porte le numéro 9 dans l'équipe du XV de France. Laure, son épouse, est également entraîneuse au Stade Toulousain. Entre championnat, Tournoi des Six Nations et vie de famille avec un enfant en bas âge, elles tentent de faire tenir cet équilibre fragile. Bernadette est devenue une partenaire active pour accompagner la carrière de son mari avant de s'impliquer elle-même dans la vie publique. Avec le témoignage de leur fille cadette Claude Chirac, longtemps conseillère de son père. Un document signé Stéphane Dépinoy, Simon Fichet et Fanny Martino.",
+      "category": "Info"
+    },
+    {
       "start": "2026-07-03T14:40:00+00:00",
       "stop": "2026-07-03T15:30:00+00:00",
       "channel": "Arte",
@@ -151,6 +162,50 @@
       "matched_keyword": "rugby",
       "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-07-04T07:00:00+00:00",
+      "stop": "2026-07-04T09:12:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 1 : Nouvelle-Zélande / France",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "La Nouvelle-Zélande affronte l'équipe de France lors de cette première journée de la compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-04T08:27:00+00:00",
+      "stop": "2026-07-04T08:38:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-07-04T15:30:00+00:00",
+      "stop": "2026-07-04T17:41:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 1 : Afrique du Sud / Angleterre",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "L'Afrique du Sud affronte l'Angleterre lors de cette première journée du Championnat des Nations, une compétition inédite opposant l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-04T19:00:00+00:00",
+      "stop": "2026-07-04T21:11:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 1 : Argentine / Ecosse",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "L'Argentine affronte l'Écosse lors de cette première journée du Championnat des Nations, une compétition inédite opposant l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
     }
   ]
 }
