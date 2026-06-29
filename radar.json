@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T15:01:45.966663+00:00",
-  "window_start": "2026-06-27",
-  "window_end": "2026-07-04",
+  "generated_at": "2026-06-29T16:49:03.630273+00:00",
+  "window_start": "2026-06-28",
+  "window_end": "2026-07-05",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 16,
+  "count": 15,
   "programmes": [
-    {
-      "start": "2026-06-27T18:10:00+00:00",
-      "stop": "2026-06-27T19:10:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "England v New Zealand 2026,Third Test, Day 3",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 3 highlights from the third Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-06-27T18:35:00+00:00",
-      "stop": "2026-06-27T21:25:00+00:00",
-      "channel": "France 2",
-      "title": "Rugby : Top 14",
-      "subtitle": "Toulouse / Montpellier",
-      "competition": "Top 14",
-      "matched_keyword": "rugby",
-      "description": "Qui sera sacré, ce soir, champion de France de rugby et soulèvera le célèbre Bouclier de Brennus ? L'an dernier, au Stade de France, Montpellier avait facilement battu Castres (29-10). Ce samedi, aucun des deux protagonistes de la finale 2022 ne foulera la pelouse de Saint-Denis. Les deux favoris de la saison sont le Stade Toulousain et le Stade Rochelais, tous deux directement qualifiés pour les demi-finales qui se déroulaient à San Sebastian, les 9 et 10 juin derniers. Mais Lyon, le Stade Français, le Racing 92 et l'Union Bordeaux-Bègles n'avaient pas encore dit leur dernier mot et espéraient jouer les trouble-fête.",
-      "category": "Sports"
-    },
     {
       "start": "2026-06-28T00:30:00+00:00",
       "stop": "2026-06-28T02:20:00+00:00",
@@ -205,6 +183,17 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "L'Argentine affronte l'Écosse lors de cette première journée du Championnat des Nations, une compétition inédite opposant l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-05T18:10:00+00:00",
+      "stop": "2026-07-05T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
