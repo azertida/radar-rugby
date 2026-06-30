@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T17:59:28.630680+00:00",
-  "window_start": "2026-06-28",
-  "window_end": "2026-07-05",
+  "generated_at": "2026-06-30T12:33:22.340549+00:00",
+  "window_start": "2026-06-29",
+  "window_end": "2026-07-06",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,74 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 15,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-06-28T00:30:00+00:00",
-      "stop": "2026-06-28T02:20:00+00:00",
-      "channel": "Arte",
-      "title": "La guerre d'indépendance américaine : toute l'histoire",
-      "subtitle": "La France entre en guerre (janvier 1777-février 1778)",
-      "competition": "Tournoi des 6 Nations",
-      "matched_keyword": "six nations",
-      "description": "En 1777, les Britanniques décident de mener deux campagnes simultanées. Pendant ce temps, dans la vallée de la Mohawk, les six nations Haudenosaunee, qui s'étaient jusqu'alors tenues à l'écart, se voient forcées de choisir un camp. Ce qui avait commencé comme une rébellion coloniale devient soudain un conflit international, la France de Louis XVI ayant choisi d'entrer en guerre aux côtés des Patriots.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-06-28T06:02:00+00:00",
-      "stop": "2026-06-28T06:04:00+00:00",
-      "channel": "France 5",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-06-28T11:20:00+00:00",
-      "stop": "2026-06-28T12:20:00+00:00",
-      "channel": "France 2",
-      "title": "13h15, le dimanche",
-      "subtitle": "Pauline et Laure, l'amour du jeu",
-      "competition": "Tournoi des 6 Nations",
-      "matched_keyword": "rugby",
-      "description": "Pauline Bourdon Sansus est l'une des meilleures joueuses de rugby au monde, elle porte le numéro 9 dans l'équipe du XV de France. Laure, son épouse, est également entraîneuse au Stade Toulousain. Entre championnat, Tournoi des Six Nations et vie de famille avec un enfant en bas âge, elles tentent de faire tenir cet équilibre fragile. Bernadette est devenue une partenaire active pour accompagner la carrière de son mari avant de s'impliquer elle-même dans la vie publique. Avec le témoignage de leur fille cadette Claude Chirac, longtemps conseillère de son père. Un document signé Stéphane Dépinoy, Simon Fichet et Fanny Martino.",
-      "category": "Info"
-    },
-    {
-      "start": "2026-06-28T14:30:00+00:00",
-      "stop": "2026-06-28T15:15:00+00:00",
-      "channel": "BBC One",
-      "title": "The Americas",
-      "subtitle": "Patagonia",
-      "competition": "Test match",
-      "matched_keyword": "pumas",
-      "description": "Patagonia, a wilderness at the far south of the Americas. Pumas hunt in snowy mountains, rockhopper penguins brave the waves, giant stag beetles climb trees, orcas learn to hunt and elephant seals fight for dominance on the coast. With Tom Hanks.",
-      "category": "Documentary"
-    },
-    {
-      "start": "2026-06-28T18:00:00+00:00",
-      "stop": "2026-06-28T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "England v New Zealand 2026,Third Test, Day 4",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 4 highlights from the third Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-06-28T18:05:00+00:00",
-      "stop": "2026-06-28T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
     {
       "start": "2026-06-29T23:05:00+00:00",
       "stop": "2026-06-30T00:05:00+00:00",
@@ -195,6 +129,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-07-06T09:31:00+00:00",
+      "stop": "2026-07-06T09:32:00+00:00",
+      "channel": "France 4",
+      "title": "Les as de la jungle à la rescousse",
+      "subtitle": "Mariage et plaquage",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
+      "category": "Jeunesse"
     }
   ]
 }
