@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:30:05.669077+00:00",
+  "generated_at": "2026-07-03T15:59:33.784571+00:00",
   "window_start": "2026-07-02",
   "window_end": "2026-07-06",
   "source": "Pickx via iptv-org/epg",
@@ -54,7 +54,7 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-07-03T17:44:00+00:00",
+      "start": "2026-07-03T17:53:00+00:00",
       "stop": "2026-07-03T18:04:00+00:00",
       "channel": "France 4",
       "title": "Les as de la jungle à la rescousse",
@@ -120,8 +120,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-07-06T09:31:00+00:00",
-      "stop": "2026-07-06T09:32:00+00:00",
+      "start": "2026-07-06T09:23:00+00:00",
+      "stop": "2026-07-06T09:43:00+00:00",
       "channel": "France 4",
       "title": "Les as de la jungle à la rescousse",
       "subtitle": "Mariage et plaquage",
