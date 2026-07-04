@@ -9,6 +9,7 @@
   <channel site="pickx.be" lang="fr" xmltv_id="arte.fr@HD" site_id="UID0239">Arte</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="TV5MondeFranceBelgiumSwitzerlandMonaco.fr@HD" site_id="UID2065">TV5 Monde</channel>
   <channel site="pickx.be" lang="fr" xmltv_id="Action.fr@HD" site_id="UID2055">Action</channel>
+  <channel site="pickx.be" lang="fr" xmltv_id="TMC.fr@HD" site_id="UID2276">TMC</channel>
   
   <!-- Chaînes francophones Belgique -->
   <channel site="pickx.be" lang="fr" xmltv_id="LaUne.be@HD" site_id="UID50323">La Une</channel>
