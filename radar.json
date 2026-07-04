@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:10:34.226340+00:00",
+  "generated_at": "2026-07-04T10:05:11.209574+00:00",
   "window_start": "2026-07-02",
   "window_end": "2026-07-06",
   "source": "Pickx via iptv-org/epg",
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 11,
   "programmes": [
     {
       "start": "2026-07-02T23:45:00+00:00",
@@ -85,6 +85,28 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-07-04T10:01:00+00:00",
+      "stop": "2026-07-04T12:06:00+00:00",
+      "channel": "TMC",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 1 : Australie / Irlande",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "La nouvelle compétition inédite réunit les douze plus grandes nations de rugby au monde et les meilleurs joueurs de la planète.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-04T13:00:00+00:00",
+      "stop": "2026-07-04T15:04:00+00:00",
+      "channel": "TMC",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 1 : Fidji / Pays de Galles",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Vivez la rencontre Fidji - Pays de Galles dans le cadre du Championnat des Nations ! La compétition inédite réunit les douze plus grandes nations de rugby au monde et les meilleurs joueurs de la planète !",
+      "category": "Sports"
     },
     {
       "start": "2026-07-04T15:30:00+00:00",
