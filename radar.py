@@ -22,6 +22,7 @@ from xml.etree import ElementTree as ET
 # Mapping des codes xmltv_id Pickx vers des noms de chaînes lisibles
 CHANNEL_NAMES = {
     "TF1.fr@HD": "TF1",
+    "TMC.fr@HD": "TMC",
     "France2.fr@HD": "France 2",
     "France3.fr@HD": "France 3",
     "France4.fr@HD": "France 4",
