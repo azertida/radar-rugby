@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T10:56:45.843291+00:00",
-  "window_start": "2026-07-04",
-  "window_end": "2026-07-11",
+  "generated_at": "2026-07-06T09:16:25.768066+00:00",
+  "window_start": "2026-07-05",
+  "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,74 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 16,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-07-04T06:57:00+00:00",
-      "stop": "2026-07-04T09:12:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 1 : Nouvelle-Zélande / France",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "La Nouvelle-Zélande affronte l'équipe de France lors de cette première journée de la compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-04T08:33:00+00:00",
-      "stop": "2026-07-04T08:44:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-07-04T10:01:00+00:00",
-      "stop": "2026-07-04T12:06:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 1 : Australie / Irlande",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "La nouvelle compétition inédite réunit les douze plus grandes nations de rugby au monde et les meilleurs joueurs de la planète.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-04T13:00:00+00:00",
-      "stop": "2026-07-04T15:04:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 1 : Fidji / Pays de Galles",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Vivez la rencontre Fidji - Pays de Galles dans le cadre du Championnat des Nations ! La compétition inédite réunit les douze plus grandes nations de rugby au monde et les meilleurs joueurs de la planète !",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-04T15:30:00+00:00",
-      "stop": "2026-07-04T17:42:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 1 : Afrique du Sud / Angleterre",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "L'Afrique du Sud affronte l'Angleterre lors de cette première journée du Championnat des Nations, une compétition inédite opposant l'hémisphère nord à l'hémisphère sud.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-04T18:58:00+00:00",
-      "stop": "2026-07-04T21:12:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 1 : Argentine / Ecosse",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "L'Argentine affronte l'Écosse lors de cette première journée du Championnat des Nations, une compétition inédite opposant l'hémisphère nord à l'hémisphère sud.",
-      "category": "Sports"
-    },
     {
       "start": "2026-07-05T18:10:00+00:00",
       "stop": "2026-07-05T19:10:00+00:00",
@@ -205,6 +139,17 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "L'Argentine affronte le Pays de Galles dans le cadre du Championnat des Nations, compétition inédite réunissant les douze plus grandes nations de rugby au monde.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-12T18:10:00+00:00",
+      "stop": "2026-07-12T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
