@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T12:33:48.597664+00:00",
-  "window_start": "2026-07-05",
+  "generated_at": "2026-07-07T08:49:18.880282+00:00",
+  "window_start": "2026-07-06",
   "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-07-05T18:10:00+00:00",
-      "stop": "2026-07-05T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
     {
       "start": "2026-07-06T09:23:00+00:00",
       "stop": "2026-07-06T09:43:00+00:00",
