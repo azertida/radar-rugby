@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T11:35:21.591476+00:00",
-  "window_start": "2026-07-06",
+  "generated_at": "2026-07-08T07:44:23.749106+00:00",
+  "window_start": "2026-07-11",
   "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,22 +29,11 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 9,
   "programmes": [
     {
-      "start": "2026-07-06T09:23:00+00:00",
-      "stop": "2026-07-06T09:43:00+00:00",
-      "channel": "France 4",
-      "title": "Les as de la jungle à la rescousse",
-      "subtitle": "Mariage et plaquage",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
-      "category": "Jeunesse"
-    },
-    {
       "start": "2026-07-11T05:00:00+00:00",
-      "stop": "2026-07-11T06:33:00+00:00",
+      "stop": "2026-07-11T07:06:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Nouvelle-Zélande / Italie",
@@ -54,7 +43,7 @@
       "category": "Sports"
     },
     {
-      "start": "2026-07-11T06:33:00+00:00",
+      "start": "2026-07-11T07:06:00+00:00",
       "stop": "2026-07-11T07:30:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -66,7 +55,7 @@
     },
     {
       "start": "2026-07-11T07:30:00+00:00",
-      "stop": "2026-07-11T09:05:00+00:00",
+      "stop": "2026-07-11T09:51:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Australie / France",
@@ -121,7 +110,7 @@
     },
     {
       "start": "2026-07-11T19:00:00+00:00",
-      "stop": "2026-07-11T20:32:00+00:00",
+      "stop": "2026-07-11T21:11:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Argentine / Pays de Galles",
