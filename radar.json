@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T11:52:20.862957+00:00",
+  "generated_at": "2026-07-10T08:47:03.974098+00:00",
   "window_start": "2026-07-11",
   "window_end": "2026-07-12",
   "source": "Pickx via iptv-org/epg",
@@ -32,7 +32,7 @@
   "count": 9,
   "programmes": [
     {
-      "start": "2026-07-11T05:00:00+00:00",
+      "start": "2026-07-11T04:57:00+00:00",
       "stop": "2026-07-11T07:06:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -65,8 +65,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-07-11T10:00:00+00:00",
-      "stop": "2026-07-11T12:05:00+00:00",
+      "start": "2026-07-11T10:01:00+00:00",
+      "stop": "2026-07-11T12:04:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Japon / Irlande",
@@ -77,7 +77,7 @@
     },
     {
       "start": "2026-07-11T13:00:00+00:00",
-      "stop": "2026-07-11T15:05:00+00:00",
+      "stop": "2026-07-11T15:03:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Fidji / Angleterre",
@@ -87,7 +87,7 @@
       "category": "Sports"
     },
     {
-      "start": "2026-07-11T15:05:00+00:00",
+      "start": "2026-07-11T15:03:00+00:00",
       "stop": "2026-07-11T15:30:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
@@ -99,7 +99,7 @@
     },
     {
       "start": "2026-07-11T15:30:00+00:00",
-      "stop": "2026-07-11T17:35:00+00:00",
+      "stop": "2026-07-11T17:34:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Afrique du Sud / Ecosse",
@@ -109,8 +109,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-07-11T19:00:00+00:00",
-      "stop": "2026-07-11T21:11:00+00:00",
+      "start": "2026-07-11T18:58:00+00:00",
+      "stop": "2026-07-11T21:09:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Argentine / Pays de Galles",
