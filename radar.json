@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T11:40:41.974726+00:00",
+  "generated_at": "2026-07-11T07:22:14.433251+00:00",
   "window_start": "2026-07-11",
-  "window_end": "2026-07-12",
+  "window_end": "2026-07-17",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 10,
   "programmes": [
     {
       "start": "2026-07-11T04:57:00+00:00",
@@ -99,7 +99,7 @@
     },
     {
       "start": "2026-07-11T15:30:00+00:00",
-      "stop": "2026-07-11T17:34:00+00:00",
+      "stop": "2026-07-11T17:33:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 2 : Afrique du Sud / Ecosse",
@@ -129,6 +129,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-07-17T15:30:00+00:00",
+      "stop": "2026-07-17T16:15:00+00:00",
+      "channel": "Arte",
+      "title": "Invitation au voyage",
+      "subtitle": "Les Pokémons / Le rugby en Occitanie / Saint-Pierre-et-Miquelon",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Au Japon, l'éclosion des Pokémons -En France, le rugby a choisi le sud-ouest - À Chypre, les crépinettes de porc d'Elena - À Saint-Pierre-et-Miquelon, le temps béni de la prohibition.",
+      "category": "Magazine"
     }
   ]
 }
