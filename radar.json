@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-11T10:08:59.205089+00:00",
+  "generated_at": "2026-07-12T07:40:34.003368+00:00",
   "window_start": "2026-07-11",
-  "window_end": "2026-07-17",
+  "window_end": "2026-07-18",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 18,
   "programmes": [
     {
       "start": "2026-07-11T04:57:00+00:00",
@@ -140,6 +140,94 @@
       "matched_keyword": "rugby",
       "description": "Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Au Japon, l'éclosion des Pokémons -En France, le rugby a choisi le sud-ouest - À Chypre, les crépinettes de porc d'Elena - À Saint-Pierre-et-Miquelon, le temps béni de la prohibition.",
       "category": "Magazine"
+    },
+    {
+      "start": "2026-07-18T07:00:00+00:00",
+      "stop": "2026-07-18T08:05:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 3 : Nouvelle-Zélande / Irlande",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "La Nouvelle-Zélande affronte l'Irlande dans le cadre de cette nouvelle compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T08:05:00+00:00",
+      "stop": "2026-07-18T08:30:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Le Mag",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Isabelle Ithurburu, Christian Califano et Yoann Huget décryptent les matchs décisifs avec interviews exclusives, analyses et coulisses de la compétition.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T08:30:00+00:00",
+      "stop": "2026-07-18T10:34:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 3 : Japon / France",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "La France affronte le Japon lors de la troisième journée de cette compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T10:00:00+00:00",
+      "stop": "2026-07-18T12:08:00+00:00",
+      "channel": "TMC",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 3 : Australie / Italie",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lors de la journée 3, l'Australie affronte l'Italie dans le cadre du Championnat des Nations, une compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T10:34:00+00:00",
+      "stop": "2026-07-18T10:50:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Après Match 4",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Isabelle Ithurburu reçoit Christian Califano et Yoann Huget pour des analyses et des réactions à chaud sur les matchs décisifs de la compétition.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T13:00:00+00:00",
+      "stop": "2026-07-18T15:08:00+00:00",
+      "channel": "TMC",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 3 : Fidji / Ecosse",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Deux groupes d'équipes s'affrontent dans un format Nord contre Sud lors de deux séries de trois matchs. L'objectif : devenir la meilleure nation et apporter la victoire à son hémisphère !",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T15:30:00+00:00",
+      "stop": "2026-07-18T17:49:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 3 : Afrique du Sud / Pays de Galles",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Deux groupes d'équipes s'affrontent dans un format Nord contre Sud lors de deux séries de trois matchs.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T19:00:00+00:00",
+      "stop": "2026-07-18T21:12:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 3 : Argentine / Angleterre",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "L'Argentine affronte l'Angleterre lors de la 3e journée de cette nouvelle compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
     }
   ]
 }
