@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T10:18:58.114291+00:00",
-  "window_start": "2026-07-11",
-  "window_end": "2026-07-18",
+  "generated_at": "2026-07-13T08:31:52.433967+00:00",
+  "window_start": "2026-07-12",
+  "window_end": "2026-07-19",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,96 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 18,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-07-11T04:57:00+00:00",
-      "stop": "2026-07-11T07:06:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 2 : Nouvelle-Zélande / Italie",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "La Nouvelle-Zélande affronte l'Italie lors de la deuxième journée de cette compétition inédite réunissant les douze plus grandes nations de rugby au monde.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T07:06:00+00:00",
-      "stop": "2026-07-11T07:30:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Le Mag",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Isabelle ITHURBURU reçoit Christian CALIFANO et Yoann HUGET pour des analyses, interviews exclusives et réactions à chaud autour des matchs décisifs de la compétition.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T07:30:00+00:00",
-      "stop": "2026-07-11T09:51:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 2 : Australie / France",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "La France affronte l'Australie lors de la deuxième journée de ce nouveau championnat réunissant les douze meilleures nations mondiales.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T10:01:00+00:00",
-      "stop": "2026-07-11T12:04:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 2 : Japon / Irlande",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Le Japon affronte l'Irlande lors de la deuxième journée de cette compétition inédite réunissant les douze meilleures nations de rugby au monde.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T13:00:00+00:00",
-      "stop": "2026-07-11T15:03:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 2 : Fidji / Angleterre",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les Fidji affrontent l'Angleterre lors de la deuxième journée de cette compétition inédite réunissant les douze plus grandes nations de rugby au monde.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T15:03:00+00:00",
-      "stop": "2026-07-11T15:30:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Le Mag",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Isabelle Ithurburu et les anciens internationaux Christian Califano et Yoann Huget décryptent les matchs décisifs avec interviews exclusives, analyses et coulisses de la compétition.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T15:30:00+00:00",
-      "stop": "2026-07-11T17:33:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 2 : Afrique du Sud / Ecosse",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "L'Afrique du Sud affronte l'Écosse lors de cette deuxième journée du Championnat des Nations, une compétition inédite réunissant les douze plus grandes nations de rugby.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-07-11T18:58:00+00:00",
-      "stop": "2026-07-11T21:09:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 2 : Argentine / Pays de Galles",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "L'Argentine affronte le Pays de Galles dans le cadre du Championnat des Nations, compétition inédite réunissant les douze plus grandes nations de rugby au monde.",
-      "category": "Sports"
-    },
     {
       "start": "2026-07-12T18:10:00+00:00",
       "stop": "2026-07-12T19:10:00+00:00",
@@ -227,6 +139,28 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "L'Argentine affronte l'Angleterre lors de la 3e journée de cette nouvelle compétition qui oppose l'hémisphère nord à l'hémisphère sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-07-19T05:45:00+00:00",
+      "stop": "2026-07-19T05:51:00+00:00",
+      "channel": "France 5",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-07-19T18:10:00+00:00",
+      "stop": "2026-07-19T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
