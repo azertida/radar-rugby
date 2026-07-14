@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T11:47:01.039638+00:00",
-  "window_start": "2026-07-12",
-  "window_end": "2026-07-19",
+  "generated_at": "2026-07-14T07:23:40.989324+00:00",
+  "window_start": "2026-07-17",
+  "window_end": "2026-07-20",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 12,
   "programmes": [
-    {
-      "start": "2026-07-12T18:10:00+00:00",
-      "stop": "2026-07-12T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
     {
       "start": "2026-07-17T15:30:00+00:00",
       "stop": "2026-07-17T16:15:00+00:00",
@@ -87,7 +76,7 @@
       "category": "Sports"
     },
     {
-      "start": "2026-07-18T10:00:00+00:00",
+      "start": "2026-07-18T10:01:00+00:00",
       "stop": "2026-07-18T12:08:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
@@ -162,6 +151,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-07-20T07:10:00+00:00",
+      "stop": "2026-07-20T07:55:00+00:00",
+      "channel": "Arte",
+      "title": "Invitation au voyage",
+      "subtitle": "Les Pokémons / Le rugby en Occitanie / Saint-Pierre-et-Miquelon",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Au Japon, l'éclosion des Pokémons -En France, le rugby a choisi le sud-ouest - À Chypre, les crépinettes de porc d'Elena - À Saint-Pierre-et-Miquelon, le temps béni de la prohibition.",
+      "category": "Magazine"
     }
   ]
 }
