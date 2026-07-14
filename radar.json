@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:23:40.989324+00:00",
+  "generated_at": "2026-07-14T10:27:32.565560+00:00",
   "window_start": "2026-07-17",
   "window_end": "2026-07-20",
   "source": "Pickx via iptv-org/epg",
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 14,
   "programmes": [
     {
       "start": "2026-07-17T15:30:00+00:00",
@@ -41,6 +41,17 @@
       "matched_keyword": "rugby",
       "description": "Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Au Japon, l'éclosion des Pokémons -En France, le rugby a choisi le sud-ouest - À Chypre, les crépinettes de porc d'Elena - À Saint-Pierre-et-Miquelon, le temps béni de la prohibition.",
       "category": "Magazine"
+    },
+    {
+      "start": "2026-07-17T18:23:00+00:00",
+      "stop": "2026-07-17T20:33:00+00:00",
+      "channel": "Tipik",
+      "title": "Fort Boyard",
+      "subtitle": "Equipe Surfrider Foundation Europe",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Pour cette 3ème émission de Fort Boyard, Jérémy Frérot et Shy'm, tous deux de retour pour leur troisième participation, seront entourés de cinq nouveaux aventuriers : l'escrimeuse Manon Apithy-Brunet, le journaliste Paul Larrouturou, le rugbyman Nans Ducuing et Thierry, directeur d'agence bancaire, qui découvriront le Fort pour la première fois.",
+      "category": "Show"
     },
     {
       "start": "2026-07-18T07:00:00+00:00",
@@ -96,6 +107,17 @@
       "matched_keyword": "rugby",
       "description": "Isabelle Ithurburu reçoit Christian Califano et Yoann Huget pour des analyses et des réactions à chaud sur les matchs décisifs de la compétition.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-07-18T12:03:00+00:00",
+      "stop": "2026-07-18T13:40:00+00:00",
+      "channel": "Tipik",
+      "title": "Fort Boyard",
+      "subtitle": "Equipe Surfrider Foundation Europe",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Pour cette 3ème émission de Fort Boyard, Jérémy Frérot et Shy'm, tous deux de retour pour leur troisième participation, seront entourés de cinq nouveaux aventuriers : l'escrimeuse Manon Apithy-Brunet, le journaliste Paul Larrouturou, le rugbyman Nans Ducuing et Thierry, directeur d'agence bancaire, qui découvriront le Fort pour la première fois.",
+      "category": "Show"
     },
     {
       "start": "2026-07-18T13:00:00+00:00",
