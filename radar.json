@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:48:58.013799+00:00",
+  "generated_at": "2026-07-17T07:31:25.700978+00:00",
   "window_start": "2026-07-17",
   "window_end": "2026-07-22",
   "source": "Pickx via iptv-org/epg",
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 16,
+  "count": 15,
   "programmes": [
     {
       "start": "2026-07-17T15:30:00+00:00",
@@ -43,8 +43,8 @@
       "category": "Magazine"
     },
     {
-      "start": "2026-07-17T18:31:00+00:00",
-      "stop": "2026-07-17T20:44:00+00:00",
+      "start": "2026-07-17T18:36:00+00:00",
+      "stop": "2026-07-17T21:01:00+00:00",
       "channel": "Tipik",
       "title": "Fort Boyard",
       "subtitle": "Equipe Surfrider Foundation Europe",
@@ -99,7 +99,7 @@
     },
     {
       "start": "2026-07-18T10:34:00+00:00",
-      "stop": "2026-07-18T10:49:00+00:00",
+      "stop": "2026-07-18T10:51:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Après Match 4",
@@ -107,17 +107,6 @@
       "matched_keyword": "rugby",
       "description": "Isabelle Ithurburu reçoit Christian Califano et Yoann Huget pour des analyses et des réactions à chaud sur les matchs décisifs de la compétition.",
       "category": "Sports"
-    },
-    {
-      "start": "2026-07-18T11:37:00+00:00",
-      "stop": "2026-07-18T13:40:00+00:00",
-      "channel": "Tipik",
-      "title": "Fort Boyard",
-      "subtitle": "Equipe Surfrider Foundation Europe",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Pour cette 3ème émission de Fort Boyard, Jérémy Frérot et Shy'm, tous deux de retour pour leur troisième participation, seront entourés de cinq nouveaux aventuriers : l'escrimeuse Manon Apithy-Brunet, le journaliste Paul Larrouturou, le rugbyman Nans Ducuing et Thierry, directeur d'agence bancaire, qui découvriront le Fort pour la première fois.",
-      "category": "Show"
     },
     {
       "start": "2026-07-18T13:00:00+00:00",
@@ -132,7 +121,7 @@
     },
     {
       "start": "2026-07-18T15:30:00+00:00",
-      "stop": "2026-07-18T17:49:00+00:00",
+      "stop": "2026-07-18T17:46:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 3 : Afrique du Sud / Pays de Galles",
