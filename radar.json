@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T10:05:53.468454+00:00",
-  "window_start": "2026-07-17",
-  "window_end": "2026-07-22",
+  "generated_at": "2026-07-19T07:38:14.354777+00:00",
+  "window_start": "2026-07-18",
+  "window_end": "2026-07-25",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 15,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-07-17T15:30:00+00:00",
-      "stop": "2026-07-17T16:15:00+00:00",
-      "channel": "Arte",
-      "title": "Invitation au voyage",
-      "subtitle": "Les Pokémons / Le rugby en Occitanie / Saint-Pierre-et-Miquelon",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Linda Lorin nous emmène à la découverte de notre patrimoine artistique, culturel et naturel. Au Japon, l'éclosion des Pokémons -En France, le rugby a choisi le sud-ouest - À Chypre, les crépinettes de porc d'Elena - À Saint-Pierre-et-Miquelon, le temps béni de la prohibition.",
-      "category": "Magazine"
-    },
-    {
-      "start": "2026-07-17T18:36:00+00:00",
-      "stop": "2026-07-17T21:01:00+00:00",
-      "channel": "Tipik",
-      "title": "Fort Boyard",
-      "subtitle": "Equipe Surfrider Foundation Europe",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Pour cette 3ème émission de Fort Boyard, Jérémy Frérot et Shy'm, tous deux de retour pour leur troisième participation, seront entourés de cinq nouveaux aventuriers : l'escrimeuse Manon Apithy-Brunet, le journaliste Paul Larrouturou, le rugbyman Nans Ducuing et Thierry, directeur d'agence bancaire, qui découvriront le Fort pour la première fois.",
-      "category": "Show"
-    },
     {
       "start": "2026-07-18T06:57:00+00:00",
       "stop": "2026-07-18T08:06:00+00:00",
@@ -195,6 +173,17 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-07-25T16:15:00+00:00",
+      "stop": "2026-07-25T18:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "Rugby League: Super League",
+      "subtitle": "Leigh v Warrington",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Coverage from the Super League as Leigh Leopards take on Warrington Wolves.",
+      "category": "Sports"
     }
   ]
 }
