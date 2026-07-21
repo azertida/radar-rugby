@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T11:32:08.537867+00:00",
-  "window_start": "2026-07-19",
+  "generated_at": "2026-07-21T07:45:37.944697+00:00",
+  "window_start": "2026-07-20",
   "window_end": "2026-07-26",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-07-19T05:45:00+00:00",
-      "stop": "2026-07-19T05:47:00+00:00",
-      "channel": "France 5",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-07-19T18:10:00+00:00",
-      "stop": "2026-07-19T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
     {
       "start": "2026-07-20T07:10:00+00:00",
       "stop": "2026-07-20T07:55:00+00:00",
@@ -77,7 +55,7 @@
     },
     {
       "start": "2026-07-22T17:22:00+00:00",
-      "stop": "2026-07-22T17:24:00+00:00",
+      "stop": "2026-07-22T17:28:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "La belle",
