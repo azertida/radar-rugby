@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-23T10:56:03.295315+00:00",
-  "window_start": "2026-07-22",
-  "window_end": "2026-07-28",
+  "generated_at": "2026-07-24T07:44:32.768726+00:00",
+  "window_start": "2026-07-25",
+  "window_end": "2026-07-30",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 4,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-07-22T17:17:00+00:00",
-      "stop": "2026-07-22T17:28:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-07-25T16:10:00+00:00",
       "stop": "2026-07-25T18:30:00+00:00",
@@ -73,6 +62,39 @@
       "competition": "Test match",
       "matched_keyword": "pumas",
       "description": "Dans l'Ouest américain, le Grand Canyon, creusé par les eaux du fleuve Colorado sur 445 kilomètres, est l'un des plus impressionnants sites naturels de la planète. Protégé par un parc national depuis 1919, il abrite une biodiversité étonnante dans un environnement minéral aux conditions plutôt inhospitalières. Les falaises abruptes du Canyon offre un refuge aux condors de Californie, sauvés in extremis de l'extinction par des biologistes passionnés. La rive sud du fleuve Colorado, plus aride, est le territoire des écureuils des rochers, des chouettes, des mouflons et des pumas. La rive nord, plus fraîche et boisée, accueille des troupeaux de bisons ainsi que des wapitis, des cerfs mulet, et des ratons-laveurs qui vivent dans l'une des dernières forêts de pins ponderosa. Et, au fond du canyon, les berges du Colorado sont investies par les castors et les oiseaux. Pour autant, le Grand Canyon est aujourd'hui confronté à de sérieuses menaces. Cinq millions de visiteurs le fréquentent tous les ans. La construction d'un barrage, des mines d'uranium et le réchauffement climatique pèsent lourdement sur son équilibre. Préserver ce sanctuaire géologique et biologique exige des actions concrètes que les 11 peuples autochtones vivant sur ce territoire sont les premiers à réclamer. Au-delà de sa biodiversité et",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-07-30T17:00:00+00:00",
+      "stop": "2026-07-30T17:30:00+00:00",
+      "channel": "Arte",
+      "title": "Voyage en cuisine",
+      "subtitle": "Pays basque : la piperade",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Piperade, assaisonnement espagnol dans la cuisine françaiseVêtue d'une tenue blanche et d'une écharpe rouge, la journaliste Alara Bordier se joint aux festivités des Fêtes de Bayonne. La piperade, plat emblématique de la région, est un incontournable des célébrations. Le chef et passionné de rugby Lionel Elissalde prépare ce classique basque dans les cuisines du stade de rugby de Bayonne.",
+      "category": "Magazine"
+    },
+    {
+      "start": "2026-07-30T19:20:00+00:00",
+      "stop": "2026-07-30T21:05:00+00:00",
+      "channel": "RAI Due",
+      "title": "Il commissario Rex",
+      "subtitle": "Rex",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Il presidente di una squadra di rugby, Eugenio Sartor, viene ucciso nella sua casa dopo aver assistito ad un allenamento.... - Con Francesco Arca, Domenico Fortunato, Pilar Abella",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-07-30T20:20:00+00:00",
+      "stop": "2026-07-30T21:12:00+00:00",
+      "channel": "VRT 1",
+      "title": "Niks te zien",
+      "subtitle": "Nathalie Meskens",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Slechtziende Karl Meesters trekt met zangeres Nathalie Meskens naar Kaapstad in Zuid-Afrika, niet met hun ogen maar met hun oren op scherp. Ze dompelen zich onder in de klank van de 'war cries' van rugbysupporters, trotseren de golven van Muizenberg Beach zónder hun zicht, en gaan op zoek de koning van de jungle, die naast zijn luide brul een stil geheim in zich draagt. Nathalie sluit de reis af met een nieuw nummer als herinnering.",
       "category": "Documentaire"
     }
   ]
