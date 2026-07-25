@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-24T10:51:45.312416+00:00",
+  "generated_at": "2026-07-25T07:32:40.009556+00:00",
   "window_start": "2026-07-25",
-  "window_end": "2026-07-30",
+  "window_end": "2026-07-31",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 7,
   "programmes": [
     {
       "start": "2026-07-25T16:10:00+00:00",
@@ -96,6 +96,17 @@
       "matched_keyword": "rugby",
       "description": "Slechtziende Karl Meesters trekt met zangeres Nathalie Meskens naar Kaapstad in Zuid-Afrika, niet met hun ogen maar met hun oren op scherp. Ze dompelen zich onder in de klank van de 'war cries' van rugbysupporters, trotseren de golven van Muizenberg Beach zónder hun zicht, en gaan op zoek de koning van de jungle, die naast zijn luide brul een stil geheim in zich draagt. Nathalie sluit de reis af met een nieuw nummer als herinnering.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-07-31T05:50:00+00:00",
+      "stop": "2026-07-31T06:20:00+00:00",
+      "channel": "Arte",
+      "title": "Voyage en cuisine",
+      "subtitle": "Pays basque : la piperade",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Piperade, assaisonnement espagnol dans la cuisine françaiseVêtue d'une tenue blanche et d'une écharpe rouge, la journaliste Alara Bordier se joint aux festivités des Fêtes de Bayonne. La piperade, plat emblématique de la région, est un incontournable des célébrations. Le chef et passionné de rugby Lionel Elissalde prépare ce classique basque dans les cuisines du stade de rugby de Bayonne.",
+      "category": "Magazine"
     }
   ]
 }
