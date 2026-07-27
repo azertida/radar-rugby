@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:51:19.826596+00:00",
+  "generated_at": "2026-07-27T12:01:25.735412+00:00",
   "window_start": "2026-07-26",
   "window_end": "2026-08-02",
   "source": "Pickx via iptv-org/epg",
@@ -32,8 +32,8 @@
   "count": 9,
   "programmes": [
     {
-      "start": "2026-07-26T21:30:00+00:00",
-      "stop": "2026-07-26T22:25:00+00:00",
+      "start": "2026-07-26T21:54:00+00:00",
+      "stop": "2026-07-26T22:49:00+00:00",
       "channel": "VRT 1",
       "title": "Gevoel voor tumor",
       "subtitle": "Marcel",
