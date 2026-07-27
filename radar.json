@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T10:25:55.968554+00:00",
-  "window_start": "2026-07-25",
-  "window_end": "2026-08-01",
+  "generated_at": "2026-07-27T08:51:19.826596+00:00",
+  "window_start": "2026-07-26",
+  "window_end": "2026-08-02",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 9,
   "programmes": [
-    {
-      "start": "2026-07-25T16:10:00+00:00",
-      "stop": "2026-07-25T18:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Rugby League: Super League",
-      "subtitle": "Leigh v Warrington",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Coverage from the Super League as Leigh Leopards take on Warrington Wolves.",
-      "category": "Sports"
-    },
     {
       "start": "2026-07-26T21:30:00+00:00",
       "stop": "2026-07-26T22:25:00+00:00",
@@ -129,6 +118,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
       "category": "Info"
+    },
+    {
+      "start": "2026-08-02T18:10:00+00:00",
+      "stop": "2026-08-02T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
+      "category": "Sports"
     }
   ]
 }
