@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T12:01:25.735412+00:00",
-  "window_start": "2026-07-26",
+  "generated_at": "2026-07-28T07:58:01.255582+00:00",
+  "window_start": "2026-07-28",
   "window_end": "2026-08-02",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-07-26T21:54:00+00:00",
-      "stop": "2026-07-26T22:49:00+00:00",
-      "channel": "VRT 1",
-      "title": "Gevoel voor tumor",
-      "subtitle": "Marcel",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Tristans rugbyvrienden geven een verrassingsfeest om zijn genezing te vieren. Maar Tristan ontdekt al snel dat het niet zo vanzelfsprekend is om zomaar opnieuw aan te knopen met je oude vertrouwde leven. Marcel komt ondertussen voor een zeer moeilijke keuze te staan.",
-      "category": "Serie"
-    },
     {
       "start": "2026-07-28T01:45:00+00:00",
       "stop": "2026-07-28T03:25:00+00:00",
