@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:06:16.708238+00:00",
+  "generated_at": "2026-07-29T08:03:39.667229+00:00",
   "window_start": "2026-07-28",
   "window_end": "2026-08-02",
   "source": "Pickx via iptv-org/epg",
@@ -32,7 +32,7 @@
   "count": 8,
   "programmes": [
     {
-      "start": "2026-07-28T01:45:00+00:00",
+      "start": "2026-07-28T01:50:00+00:00",
       "stop": "2026-07-28T03:25:00+00:00",
       "channel": "Arte",
       "title": "Les merveilles de la nature",
