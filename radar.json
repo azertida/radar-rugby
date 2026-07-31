@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T08:15:37.800842+00:00",
+  "generated_at": "2026-07-31T11:15:38.416034+00:00",
   "window_start": "2026-07-30",
   "window_end": "2026-08-06",
   "source": "Pickx via iptv-org/epg",
@@ -54,8 +54,8 @@
       "category": "Séries"
     },
     {
-      "start": "2026-07-30T20:10:00+00:00",
-      "stop": "2026-07-30T21:02:00+00:00",
+      "start": "2026-07-30T20:15:00+00:00",
+      "stop": "2026-07-30T21:07:00+00:00",
       "channel": "VRT 1",
       "title": "Niks te zien",
       "subtitle": "Nathalie Meskens",
