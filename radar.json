@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T10:23:21.399454+00:00",
-  "window_start": "2026-08-01",
-  "window_end": "2026-08-08",
+  "generated_at": "2026-08-03T08:45:43.847732+00:00",
+  "window_start": "2026-08-02",
+  "window_end": "2026-08-09",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-08-01T09:26:00+00:00",
-      "stop": "2026-08-01T09:37:00+00:00",
-      "channel": "France 4",
-      "title": "Les as de la jungle à la rescousse",
-      "subtitle": "Mariage et plaquage",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-08-01T10:00:00+00:00",
-      "stop": "2026-08-01T10:20:00+00:00",
-      "channel": "France 3",
-      "title": "Enquêtes de région le mag",
-      "subtitle": "Commotion cérébrale rugby",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
-      "category": "Info"
-    },
     {
       "start": "2026-08-02T18:10:00+00:00",
       "stop": "2026-08-02T19:10:00+00:00",
@@ -95,6 +73,17 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Invitée : Joanna Grisez, joueuse de rugby française Elle est aussi à l'aise en rugby à sept qu'à quinze, championne de France 2025 avec le Stade bordelais : Piere Classen reçoit l'internationale tricolore Joanna Grisez. Présentateur : Pierre Classen",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-09T18:10:00+00:00",
+      "stop": "2026-08-09T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
