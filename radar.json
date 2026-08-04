@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T12:07:58.248970+00:00",
-  "window_start": "2026-08-02",
-  "window_end": "2026-08-09",
+  "generated_at": "2026-08-04T07:58:38.237014+00:00",
+  "window_start": "2026-08-06",
+  "window_end": "2026-08-10",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 5,
   "programmes": [
-    {
-      "start": "2026-08-02T18:10:00+00:00",
-      "stop": "2026-08-02T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-06T08:39:00+00:00",
       "stop": "2026-08-06T08:45:00+00:00",
@@ -85,6 +74,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-08-10T21:00:00+00:00",
+      "stop": "2026-08-10T22:40:00+00:00",
+      "channel": "RAI Due",
+      "title": "80 minuti",
+      "subtitle": "Italrugby, l'ambizione di arri",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "DOCUMENTARIO - Un viaggio dentro l'anima di uno sport fatto di sacrificio, sudore e appartenenza. Immagini inedite e testimonianze dirette per raccont - are come la Nazionale Italiana sia arrivata a competere alla pari con i giganti del torneo più prestigioso del mondo, il Sei Nazioni. - Regia di Matteo Mazzocchi",
+      "category": "Autre"
     }
   ]
 }
