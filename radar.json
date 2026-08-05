@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:13:55.467255+00:00",
+  "generated_at": "2026-08-05T08:00:52.518900+00:00",
   "window_start": "2026-08-06",
   "window_end": "2026-08-10",
   "source": "Pickx via iptv-org/epg",
@@ -80,11 +80,11 @@
       "stop": "2026-08-10T22:40:00+00:00",
       "channel": "RAI Due",
       "title": "80 minuti",
-      "subtitle": "Italrugby, l'ambizione di arri",
+      "subtitle": "",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "DOCUMENTARIO - Un viaggio dentro l'anima di uno sport fatto di sacrificio, sudore e appartenenza. Immagini inedite e testimonianze dirette per raccont - are come la Nazionale Italiana sia arrivata a competere alla pari con i giganti del torneo più prestigioso del mondo, il Sei Nazioni. - Regia di Matteo Mazzocchi",
-      "category": "Autre"
+      "description": "Attraverso immagini inedite, testimonianze e ricordi di giocatori e allenatori che hanno scritto la storia del rugby italiano, il documentario racconta come la Nazionale sia arrivata a competere alla pari con i giganti del torneo più prestigioso del mondo, il Sei Nazioni.",
+      "category": "Sports"
     }
   ]
 }
