@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T11:10:14.903194+00:00",
+  "generated_at": "2026-08-07T06:40:16.783690+00:00",
   "window_start": "2026-08-06",
-  "window_end": "2026-08-12",
+  "window_end": "2026-08-13",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 8,
   "programmes": [
     {
       "start": "2026-08-06T08:39:00+00:00",
@@ -96,6 +96,28 @@
       "matched_keyword": "pumas",
       "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-13T14:30:00+00:00",
+      "stop": "2026-08-13T15:30:00+00:00",
+      "channel": "BBC One",
+      "title": "The Repair Shop",
+      "subtitle": "Episode 4",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "The team salvages a professional rugby shirt that has undergone a laundry disaster.",
+      "category": "Documentary"
+    },
+    {
+      "start": "2026-08-13T15:33:00+00:00",
+      "stop": "2026-08-13T16:00:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "Le Match Dans Le Match",
+      "subtitle": "Raphaël Poulain, Philippe Spanghero, Rodrigo Capó Ortega",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Invités : Raphaël Poulain, Philippe Spanghero, Rodrigo Capó Ortega, anciens rugbymen Trois anciens rugbymen, Raphaël Poulain, Philippe Spanghero et Rodrigo Capó Ortega, évoquent la santé mentale dans le sport. Ils présentent l'association NéoHéros, qui sensibilise à la prévention mentale via des témoignages et partenariats avec la Ligue nationale de rugby, brisant les tabous autour du mal-être des sportifs.",
+      "category": "Sports"
     }
   ]
 }
