@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T09:24:47.101910+00:00",
-  "window_start": "2026-08-07",
-  "window_end": "2026-08-14",
+  "generated_at": "2026-08-09T06:05:10.915138+00:00",
+  "window_start": "2026-08-08",
+  "window_end": "2026-08-15",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 8,
+  "count": 9,
   "programmes": [
-    {
-      "start": "2026-08-07T10:35:00+00:00",
-      "stop": "2026-08-07T11:35:00+00:00",
-      "channel": "Arte",
-      "title": "Les merveilles de la nature",
-      "subtitle": "Grand Canyon, un héritage à préserver",
-      "competition": "Test match",
-      "matched_keyword": "pumas",
-      "description": "Dans l'Ouest américain, le Grand Canyon, creusé par les eaux du fleuve Colorado sur 445 kilomètres, est l'un des plus impressionnants sites naturels de la planète. Protégé par un parc national depuis 1919, il abrite une biodiversité étonnante dans un environnement minéral aux conditions plutôt inhospitalières. Les falaises abruptes du Canyon offre un refuge aux condors de Californie, sauvés in extremis de l'extinction par des biologistes passionnés. La rive sud du fleuve Colorado, plus aride, est le territoire des écureuils des rochers, des chouettes, des mouflons et des pumas. La rive nord, plus fraîche et boisée, accueille des troupeaux de bisons ainsi que des wapitis, des cerfs mulet, et des ratons-laveurs qui vivent dans l'une des dernières forêts de pins ponderosa. Et, au fond du canyon, les berges du Colorado sont investies par les castors et les oiseaux. Pour autant, le Grand Canyon est aujourd'hui confronté à de sérieuses menaces. Cinq millions de visiteurs le fréquentent tous les ans. La construction d'un barrage, des mines d'uranium et le réchauffement climatique pèsent lourdement sur son équilibre. Préserver ce sanctuaire géologique et biologique exige des actions concrètes que les 11 peuples autochtones vivant sur ce territoire sont les premiers à réclamer. Au-delà de sa biodiversité et",
-      "category": "Documentaire"
-    },
     {
       "start": "2026-08-08T09:33:00+00:00",
       "stop": "2026-08-08T10:00:00+00:00",
@@ -117,6 +106,28 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Invités : Raphaël Poulain, Philippe Spanghero, Rodrigo Capó Ortega, anciens rugbymen Trois anciens rugbymen, Raphaël Poulain, Philippe Spanghero et Rodrigo Capó Ortega, évoquent la santé mentale dans le sport. Ils présentent l'association NéoHéros, qui sensibilise à la prévention mentale via des témoignages et partenariats avec la Ligue nationale de rugby, brisant les tabous autour du mal-être des sportifs.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-15T17:55:00+00:00",
+      "stop": "2026-08-15T19:00:00+00:00",
+      "channel": "France 3",
+      "title": "Athlétisme : Championnats d'Europe",
+      "subtitle": "6e journée",
+      "competition": "Champions Cup",
+      "matched_keyword": "coupe d'europe",
+      "description": "Les 27es Championnats d'Europe d'athlétisme se déroulent, du 10 au 16 août 2026, à Birmingham, en Angleterre, au sein de l'Alexander Stadium. Pas moins de neuf finales sont au programme de cette avant-dernière soirée : heptathlon dames (800 m), lancer du javelot messieurs, saut en hauteur dames, 400 m dames, triple saut messieurs, 10 000 m messieurs, 1500 m messieurs et relais 4x100 m messieurs et dames. Sur 10 000 m, la France attend beaucoup du Boulonnais Jimmy Gressier, champion du monde en titre sur cette distance, mais aussi de Yann Schrub, sélectionné au titre d'athlète prioritaire, grâce à son record d'Europe du 10 km en 26'43'' et de Simon Bédard, champion de France du 10 000 m, qui a décroché une belle médaille d'argent sur la distance lors de la coupe d'Europe.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-15T19:00:00+00:00",
+      "stop": "2026-08-15T21:35:00+00:00",
+      "channel": "France 2",
+      "title": "Athlétisme : Championnats d'Europe",
+      "subtitle": "6e journée",
+      "competition": "Champions Cup",
+      "matched_keyword": "coupe d'europe",
+      "description": "Les 27es Championnats d'Europe d'athlétisme se déroulent, du 10 au 16 août 2026, à Birmingham, en Angleterre, au sein de l'Alexander Stadium. Pas moins de neuf finales sont au programme de cette avant-dernière soirée : heptathlon dames (800 m), lancer du javelot messieurs, saut en hauteur dames, 400 m dames, triple saut messieurs, 10 000 m messieurs, 1500 m messieurs et relais 4x100 m messieurs et dames. Sur 10 000 m, la France attend beaucoup du Boulonnais Jimmy Gressier, champion du monde en titre sur cette distance, mais aussi de Yann Schrub, sélectionné au titre d'athlète prioritaire, grâce à son record d'Europe du 10 km en 26'43'' et de Simon Bédard, champion de France du 10 000 m, qui a décroché une belle médaille d'argent sur la distance lors de la coupe d'Europe.",
       "category": "Sports"
     }
   ]
