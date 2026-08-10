@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T09:25:37.682040+00:00",
-  "window_start": "2026-08-08",
-  "window_end": "2026-08-15",
+  "generated_at": "2026-08-10T06:48:20.692088+00:00",
+  "window_start": "2026-08-09",
+  "window_end": "2026-08-16",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 9,
   "programmes": [
-    {
-      "start": "2026-08-08T09:33:00+00:00",
-      "stop": "2026-08-08T10:00:00+00:00",
-      "channel": "TV5 Monde",
-      "title": "Le Match Dans Le Match",
-      "subtitle": "Joanna Grisez",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Invitée : Joanna Grisez, joueuse de rugby française Elle est aussi à l'aise en rugby à sept qu'à quinze, championne de France 2025 avec le Stade bordelais : Piere Classen reçoit l'internationale tricolore Joanna Grisez. Présentateur : Pierre Classen",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-09T18:10:00+00:00",
       "stop": "2026-08-09T19:10:00+00:00",
@@ -129,6 +118,17 @@
       "matched_keyword": "coupe d'europe",
       "description": "Les 27es Championnats d'Europe d'athlétisme se déroulent, du 10 au 16 août 2026, à Birmingham, en Angleterre, au sein de l'Alexander Stadium. Pas moins de neuf finales sont au programme de cette avant-dernière soirée : heptathlon dames (800 m), lancer du javelot messieurs, saut en hauteur dames, 400 m dames, triple saut messieurs, 10 000 m messieurs, 1500 m messieurs et relais 4x100 m messieurs et dames. Sur 10 000 m, la France attend beaucoup du Boulonnais Jimmy Gressier, champion du monde en titre sur cette distance, mais aussi de Yann Schrub, sélectionné au titre d'athlète prioritaire, grâce à son record d'Europe du 10 km en 26'43'' et de Simon Bédard, champion de France du 10 000 m, qui a décroché une belle médaille d'argent sur la distance lors de la coupe d'Europe.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-08-16T01:25:00+00:00",
+      "stop": "2026-08-16T02:10:00+00:00",
+      "channel": "Arte",
+      "title": "Les merveilles de la nature",
+      "subtitle": "Grand Canyon, un héritage à préserver",
+      "competition": "Test match",
+      "matched_keyword": "pumas",
+      "description": "Dans l'Ouest américain, le Grand Canyon, creusé par les eaux du fleuve Colorado sur 445 kilomètres, est l'un des plus impressionnants sites naturels de la planète. Protégé par un parc national depuis 1919, il abrite une biodiversité étonnante dans un environnement minéral aux conditions plutôt inhospitalières. Les falaises abruptes du Canyon offre un refuge aux condors de Californie, sauvés in extremis de l'extinction par des biologistes passionnés. La rive sud du fleuve Colorado, plus aride, est le territoire des écureuils des rochers, des chouettes, des mouflons et des pumas. La rive nord, plus fraîche et boisée, accueille des troupeaux de bisons ainsi que des wapitis, des cerfs mulet, et des ratons-laveurs qui vivent dans l'une des dernières forêts de pins ponderosa. Et, au fond du canyon, les berges du Colorado sont investies par les castors et les oiseaux. Pour autant, le Grand Canyon est aujourd'hui confronté à de sérieuses menaces. Cinq millions de visiteurs le fréquentent tous les ans. La construction d'un barrage, des mines d'uranium et le réchauffement climatique pèsent lourdement sur son équilibre. Préserver ce sanctuaire géologique et biologique exige des actions concrètes que les 11 peuples autochtones vivant sur ce territoire sont les premiers à réclamer. Au-delà de sa biodiversité et",
+      "category": "Documentaire"
     }
   ]
 }
