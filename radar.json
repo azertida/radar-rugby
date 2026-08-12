@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T09:48:06.951557+00:00",
-  "window_start": "2026-08-10",
-  "window_end": "2026-08-17",
+  "generated_at": "2026-08-12T06:52:25.909953+00:00",
+  "window_start": "2026-08-12",
+  "window_end": "2026-08-18",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-08-10T21:00:00+00:00",
-      "stop": "2026-08-10T22:40:00+00:00",
-      "channel": "RAI Due",
-      "title": "80 minuti",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Attraverso immagini inedite, testimonianze e ricordi di giocatori e allenatori che hanno scritto la storia del rugby italiano, il documentario racconta come la Nazionale sia arrivata a competere alla pari con i giganti del torneo più prestigioso del mondo, il Sei Nazioni.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-12T14:40:00+00:00",
       "stop": "2026-08-12T15:30:00+00:00",
@@ -74,6 +63,17 @@
       "matched_keyword": "rugby",
       "description": "Invités : Raphaël Poulain, Philippe Spanghero, Rodrigo Capó Ortega, anciens rugbymen Trois anciens rugbymen, Raphaël Poulain, Philippe Spanghero et Rodrigo Capó Ortega, évoquent la santé mentale dans le sport. Ils présentent l'association NéoHéros, qui sensibilise à la prévention mentale via des témoignages et partenariats avec la Ligue nationale de rugby, brisant les tabous autour du mal-être des sportifs.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-08-14T00:40:00+00:00",
+      "stop": "2026-08-14T01:00:00+00:00",
+      "channel": "France 3",
+      "title": "Enquêtes de région le mag",
+      "subtitle": "Commotion cérébrale rugby",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
+      "category": "Info"
     },
     {
       "start": "2026-08-14T01:09:00+00:00",
@@ -120,15 +120,26 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-08-17T21:00:00+00:00",
-      "stop": "2026-08-17T22:40:00+00:00",
-      "channel": "RAI Due",
-      "title": "80 minuti - Italrugby, l'ambizione di arrivare in alto",
-      "subtitle": "",
+      "start": "2026-08-18T02:20:00+00:00",
+      "stop": "2026-08-18T02:35:00+00:00",
+      "channel": "France 3",
+      "title": "Enquêtes de région le mag",
+      "subtitle": "Commotion cérébrale rugby",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "Attraverso immagini inedite, testimonianze e ricordi di giocatori e allenatori che hanno scritto la storia del rugby italiano, il documentario racconta come la Nazionale sia arrivata a competere alla pari con i giganti del torneo più prestigioso del mondo, il Sei Nazioni.",
-      "category": "Autre"
+      "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
+      "category": "Info"
+    },
+    {
+      "start": "2026-08-18T17:16:00+00:00",
+      "stop": "2026-08-18T17:22:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
     }
   ]
 }
