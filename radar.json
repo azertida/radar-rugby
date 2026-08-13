@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T09:50:41.162266+00:00",
+  "generated_at": "2026-08-13T06:54:39.043174+00:00",
   "window_start": "2026-08-12",
-  "window_end": "2026-08-18",
+  "window_end": "2026-08-19",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 11,
   "programmes": [
     {
       "start": "2026-08-12T14:40:00+00:00",
@@ -140,6 +140,17 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-08-19T18:00:00+00:00",
+      "stop": "2026-08-19T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "First Test, Day 1",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 1 highlights from the Test match between England and New Zealand.",
+      "category": "Sports"
     }
   ]
 }
