@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T09:52:44.492860+00:00",
-  "window_start": "2026-08-12",
-  "window_end": "2026-08-19",
+  "generated_at": "2026-08-14T06:51:58.090398+00:00",
+  "window_start": "2026-08-13",
+  "window_end": "2026-08-20",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 11,
   "programmes": [
-    {
-      "start": "2026-08-12T14:40:00+00:00",
-      "stop": "2026-08-12T15:30:00+00:00",
-      "channel": "Arte",
-      "title": "Dynasties animales",
-      "subtitle": "Pumas",
-      "competition": "Test match",
-      "matched_keyword": "pumas",
-      "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
-      "category": "Documentaire"
-    },
     {
       "start": "2026-08-13T14:30:00+00:00",
       "stop": "2026-08-13T15:30:00+00:00",
@@ -88,7 +77,7 @@
     },
     {
       "start": "2026-08-15T17:55:00+00:00",
-      "stop": "2026-08-15T19:00:00+00:00",
+      "stop": "2026-08-15T18:30:00+00:00",
       "channel": "France 3",
       "title": "Athlétisme : Championnats d'Europe",
       "subtitle": "6e journée",
@@ -150,6 +139,17 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 1 highlights from the Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-20T18:00:00+00:00",
+      "stop": "2026-08-20T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "First Test, Day 2",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 2 highlights from the Test match between England and New Zealand.",
       "category": "Sports"
     }
   ]
