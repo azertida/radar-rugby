@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T09:13:19.255890+00:00",
-  "window_start": "2026-08-15",
-  "window_end": "2026-08-22",
+  "generated_at": "2026-08-17T05:58:21.378132+00:00",
+  "window_start": "2026-08-16",
+  "window_end": "2026-08-23",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-08-15T17:55:00+00:00",
-      "stop": "2026-08-15T18:30:00+00:00",
-      "channel": "France 3",
-      "title": "Athlétisme : Championnats d'Europe",
-      "subtitle": "6e journée",
-      "competition": "Champions Cup",
-      "matched_keyword": "coupe d'europe",
-      "description": "Les 27es Championnats d'Europe d'athlétisme se déroulent, du 10 au 16 août 2026, à Birmingham, en Angleterre, au sein de l'Alexander Stadium. Pas moins de neuf finales sont au programme de cette avant-dernière soirée : heptathlon dames (800 m), lancer du javelot messieurs, saut en hauteur dames, 400 m dames, triple saut messieurs, 10 000 m messieurs, 1500 m messieurs et relais 4x100 m messieurs et dames. Sur 10 000 m, la France attend beaucoup du Boulonnais Jimmy Gressier, champion du monde en titre sur cette distance, mais aussi de Yann Schrub, sélectionné au titre d'athlète prioritaire, grâce à son record d'Europe du 10 km en 26'43'' et de Simon Bédard, champion de France du 10 000 m, qui a décroché une belle médaille d'argent sur la distance lors de la coupe d'Europe.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-08-15T19:00:00+00:00",
-      "stop": "2026-08-15T21:35:00+00:00",
-      "channel": "France 2",
-      "title": "Athlétisme : Championnats d'Europe",
-      "subtitle": "6e journée",
-      "competition": "Champions Cup",
-      "matched_keyword": "coupe d'europe",
-      "description": "Les 27es Championnats d'Europe d'athlétisme se déroulent, du 10 au 16 août 2026, à Birmingham, en Angleterre, au sein de l'Alexander Stadium. Pas moins de neuf finales sont au programme de cette avant-dernière soirée : heptathlon dames (800 m), lancer du javelot messieurs, saut en hauteur dames, 400 m dames, triple saut messieurs, 10 000 m messieurs, 1500 m messieurs et relais 4x100 m messieurs et dames. Sur 10 000 m, la France attend beaucoup du Boulonnais Jimmy Gressier, champion du monde en titre sur cette distance, mais aussi de Yann Schrub, sélectionné au titre d'athlète prioritaire, grâce à son record d'Europe du 10 km en 26'43'' et de Simon Bédard, champion de France du 10 000 m, qui a décroché une belle médaille d'argent sur la distance lors de la coupe d'Europe.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-16T01:25:00+00:00",
       "stop": "2026-08-16T02:10:00+00:00",
@@ -150,6 +128,39 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 4 highlights from the Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-23T08:08:00+00:00",
+      "stop": "2026-08-23T08:19:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-08-23T18:00:00+00:00",
+      "stop": "2026-08-23T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "First Test, Day 5",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 5 highlights from the Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-23T18:10:00+00:00",
+      "stop": "2026-08-23T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
