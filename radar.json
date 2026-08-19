@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T09:19:21.382227+00:00",
+  "generated_at": "2026-08-19T05:53:35.668628+00:00",
   "window_start": "2026-08-18",
-  "window_end": "2026-08-24",
+  "window_end": "2026-08-25",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 13,
   "programmes": [
     {
       "start": "2026-08-18T02:20:00+00:00",
@@ -44,7 +44,7 @@
     },
     {
       "start": "2026-08-18T17:15:00+00:00",
-      "stop": "2026-08-18T17:21:00+00:00",
+      "stop": "2026-08-18T17:17:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "La belle",
@@ -162,6 +162,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
       "category": "Info"
+    },
+    {
+      "start": "2026-08-25T10:20:00+00:00",
+      "stop": "2026-08-25T11:35:00+00:00",
+      "channel": "Arte",
+      "title": "Les animaux guérisseurs",
+      "subtitle": "La recherche de l'ivresse",
+      "competition": "Test match",
+      "matched_keyword": "wallabies",
+      "description": "Que ce soit pour se soigner, soulager la douleur, aiguiser les sens ou s'enivrer, les animaux ne rechignent pas à consommer les substances psychotropes qu’offre la nature. Les jaguars mâchent des lianes hallucinogènes, les wallabies raffolent des pavots somnifères, les mouflons à grandes cornes tripent aux lichens psychédéliques – et des singes ont appris à subtiliser les cocktails des touristes.",
+      "category": "Documentaire"
     }
   ]
 }
