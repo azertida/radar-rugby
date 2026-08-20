@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T09:18:52.350430+00:00",
-  "window_start": "2026-08-18",
+  "generated_at": "2026-08-20T05:54:07.582147+00:00",
+  "window_start": "2026-08-19",
   "window_end": "2026-08-25",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-08-18T02:20:00+00:00",
-      "stop": "2026-08-18T02:35:00+00:00",
-      "channel": "France 3",
-      "title": "Enquêtes de région le mag",
-      "subtitle": "Commotion cérébrale rugby",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
-      "category": "Info"
-    },
-    {
-      "start": "2026-08-18T17:15:00+00:00",
-      "stop": "2026-08-18T17:17:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-08-19T18:00:00+00:00",
       "stop": "2026-08-19T19:00:00+00:00",
