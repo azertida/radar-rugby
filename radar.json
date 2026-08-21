@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T09:20:53.930276+00:00",
-  "window_start": "2026-08-19",
-  "window_end": "2026-08-25",
+  "generated_at": "2026-08-21T05:55:54.936117+00:00",
+  "window_start": "2026-08-20",
+  "window_end": "2026-08-27",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-08-19T18:00:00+00:00",
-      "stop": "2026-08-19T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "First Test, Day 1",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 1 highlights from the Test match between England and New Zealand.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-20T18:00:00+00:00",
       "stop": "2026-08-20T19:00:00+00:00",
@@ -98,8 +87,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-08-23T08:08:00+00:00",
-      "stop": "2026-08-23T08:19:00+00:00",
+      "start": "2026-08-23T08:13:00+00:00",
+      "stop": "2026-08-23T08:15:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "La belle",
@@ -151,6 +140,28 @@
       "matched_keyword": "wallabies",
       "description": "Que ce soit pour se soigner, soulager la douleur, aiguiser les sens ou s'enivrer, les animaux ne rechignent pas à consommer les substances psychotropes qu’offre la nature. Les jaguars mâchent des lianes hallucinogènes, les wallabies raffolent des pavots somnifères, les mouflons à grandes cornes tripent aux lichens psychédéliques – et des singes ont appris à subtiliser les cocktails des touristes.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-08-27T09:30:00+00:00",
+      "stop": "2026-08-27T09:31:00+00:00",
+      "channel": "France 4",
+      "title": "Les as de la jungle à la rescousse",
+      "subtitle": "Mariage et plaquage",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-08-27T18:00:00+00:00",
+      "stop": "2026-08-27T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 1",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 1 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
     }
   ]
 }
