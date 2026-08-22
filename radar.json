@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-21T09:23:26.349366+00:00",
-  "window_start": "2026-08-20",
-  "window_end": "2026-08-27",
+  "generated_at": "2026-08-22T05:51:03.578598+00:00",
+  "window_start": "2026-08-21",
+  "window_end": "2026-08-28",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 14,
   "programmes": [
-    {
-      "start": "2026-08-20T18:00:00+00:00",
-      "stop": "2026-08-20T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "First Test, Day 2",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 2 highlights from the Test match between England and New Zealand.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-21T23:30:00+00:00",
       "stop": "2026-08-22T00:30:00+00:00",
@@ -162,6 +151,39 @@
       "matched_keyword": "test match",
       "description": "Day 1 highlights from the second Test match between England and New Zealand.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-08-27T19:20:00+00:00",
+      "stop": "2026-08-27T21:05:00+00:00",
+      "channel": "RAI Due",
+      "title": "Il commissario Rex",
+      "subtitle": "Rex",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Il presidente di una squadra di rugby, Eugenio Sartor, viene ucciso nella sua casa dopo aver assistito ad un allenamento.... - Con Francesco Arca, Domenico Fortunato, Pilar Abella",
+      "category": "Séries"
+    },
+    {
+      "start": "2026-08-28T18:00:00+00:00",
+      "stop": "2026-08-28T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 2",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 2 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-28T19:25:00+00:00",
+      "stop": "2026-08-28T21:19:00+00:00",
+      "channel": "TMC",
+      "title": "Le gendre de ma vie",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Suzanne et Stéphane ont trois filles. Stéphane aurait souhaité avoir un garçon, à tel point qu'il s'attache toujours plus que de raison aux petits amis de ses filles. Lorsqu'Alexia veut quitter Thomas pour un jeune médecin, Stéphane ne l'admet pas. Lui qui apprécie particulièrement Thomas va imaginer les subterfuges les plus inouïs pour réconcilier sa cadette avec son ex et faire fuir le nouveau prétendant. Quand Alexia sa fille cadette, décide de quitter Thomas, magnifique rugbyman et nouvel idole de son père, pour un jeune médecin qu'il ne supporte pas, Stéphane va se débattre.",
+      "category": "Cinéma"
     }
   ]
 }
