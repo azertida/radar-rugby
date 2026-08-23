@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T09:15:32.677708+00:00",
+  "generated_at": "2026-08-23T05:52:21.989432+00:00",
   "window_start": "2026-08-21",
-  "window_end": "2026-08-28",
+  "window_end": "2026-08-29",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 14,
+  "count": 16,
   "programmes": [
     {
       "start": "2026-08-21T23:30:00+00:00",
@@ -184,6 +184,28 @@
       "matched_keyword": "rugby",
       "description": "Suzanne et Stéphane ont trois filles. Stéphane aurait souhaité avoir un garçon, à tel point qu'il s'attache toujours plus que de raison aux petits amis de ses filles. Lorsqu'Alexia veut quitter Thomas pour un jeune médecin, Stéphane ne l'admet pas. Lui qui apprécie particulièrement Thomas va imaginer les subterfuges les plus inouïs pour réconcilier sa cadette avec son ex et faire fuir le nouveau prétendant. Quand Alexia sa fille cadette, décide de quitter Thomas, magnifique rugbyman et nouvel idole de son père, pour un jeune médecin qu'il ne supporte pas, Stéphane va se débattre.",
       "category": "Cinéma"
+    },
+    {
+      "start": "2026-08-29T16:15:00+00:00",
+      "stop": "2026-08-29T18:30:00+00:00",
+      "channel": "BBC Two",
+      "title": "Rugby League: Super League",
+      "subtitle": "Wakefield v York",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rugby league action from the 2026 Super League as Wakefield Trinity play York Knights.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-29T23:35:00+00:00",
+      "stop": "2026-08-30T00:35:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 3",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 3 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
     }
   ]
 }
