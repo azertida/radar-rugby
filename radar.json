@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T09:13:49.835022+00:00",
-  "window_start": "2026-08-21",
-  "window_end": "2026-08-29",
+  "generated_at": "2026-08-24T06:02:03.546974+00:00",
+  "window_start": "2026-08-23",
+  "window_end": "2026-08-30",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,52 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 16,
+  "count": 15,
   "programmes": [
-    {
-      "start": "2026-08-21T23:30:00+00:00",
-      "stop": "2026-08-22T00:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "First Test, Day 3",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 3 highlights from the Test match between England and New Zealand.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-08-22T10:30:00+00:00",
-      "stop": "2026-08-22T11:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Anna Haugh's Big Irish Food Tour",
-      "subtitle": "County Galway with Bundee Aki",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "In Galway, Anna joins rugby legend Bundee Aki who needs help with his cooking skills. Anna meets a farmer producing organic beef, the two go to work on a high-welfare egg farm.",
-      "category": "Documentary"
-    },
-    {
-      "start": "2026-08-22T14:30:00+00:00",
-      "stop": "2026-08-22T15:15:00+00:00",
-      "channel": "Arte",
-      "title": "Dynasties animales",
-      "subtitle": "Pumas",
-      "competition": "Test match",
-      "matched_keyword": "pumas",
-      "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-08-22T18:00:00+00:00",
-      "stop": "2026-08-22T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "First Test, Day 4",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 4 highlights from the Test match between England and New Zealand.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-23T08:13:00+00:00",
       "stop": "2026-08-23T08:15:00+00:00",
@@ -205,6 +161,39 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 3 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-30T03:35:00+00:00",
+      "stop": "2026-08-30T03:50:00+00:00",
+      "channel": "France 3",
+      "title": "Enquêtes de région le mag",
+      "subtitle": "Commotion cérébrale rugby",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
+      "category": "Info"
+    },
+    {
+      "start": "2026-08-30T18:00:00+00:00",
+      "stop": "2026-08-30T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Second Test, Day 4",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 4 highlights from the second Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-08-30T18:10:00+00:00",
+      "stop": "2026-08-30T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
