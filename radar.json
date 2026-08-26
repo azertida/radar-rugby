@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-25T09:23:54.432132+00:00",
-  "window_start": "2026-08-24",
+  "generated_at": "2026-08-26T05:57:47.512232+00:00",
+  "window_start": "2026-08-25",
   "window_end": "2026-08-31",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 12,
   "programmes": [
-    {
-      "start": "2026-08-24T02:50:00+00:00",
-      "stop": "2026-08-24T03:05:00+00:00",
-      "channel": "France 3",
-      "title": "Enquêtes de région le mag",
-      "subtitle": "Commotion cérébrale rugby",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque semaine, une rédaction régionale propose au cœur d'un territoire une enquête, un portrait, une révélation sur la société, l'économie, l'environnement ou la santé.",
-      "category": "Info"
-    },
     {
       "start": "2026-08-25T10:20:00+00:00",
       "stop": "2026-08-25T11:35:00+00:00",
