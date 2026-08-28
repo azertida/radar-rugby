@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T19:17:00.893444+00:00",
+  "generated_at": "2026-08-28T12:07:07.453276+00:00",
   "window_start": "2026-08-27",
   "window_end": "2026-09-02",
   "source": "Pickx via iptv-org/epg",
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-08-27T09:30:00+00:00",
@@ -50,19 +50,8 @@
       "subtitle": "Second Test, Day 1",
       "competition": "Test match",
       "matched_keyword": "test match",
-      "description": "Day 1 highlights from the second Test match between England and New Zealand.",
+      "description": "Day 1 highlights from the second Test match between England and Pakistan at Lord's.",
       "category": "Sports"
-    },
-    {
-      "start": "2026-08-27T19:20:00+00:00",
-      "stop": "2026-08-27T21:05:00+00:00",
-      "channel": "RAI Due",
-      "title": "Il commissario Rex",
-      "subtitle": "Rex",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Il presidente di una squadra di rugby, Eugenio Sartor, viene ucciso nella sua casa dopo aver assistito ad un allenamento.... - Con Francesco Arca, Domenico Fortunato, Pilar Abella",
-      "category": "Séries"
     },
     {
       "start": "2026-08-28T18:00:00+00:00",
@@ -72,7 +61,7 @@
       "subtitle": "Second Test, Day 2",
       "competition": "Test match",
       "matched_keyword": "test match",
-      "description": "Day 2 highlights from the second Test match between England and New Zealand.",
+      "description": "Day 2 highlights from the second Test match between England and Pakistan at Lord's.",
       "category": "Sports"
     },
     {
@@ -105,7 +94,7 @@
       "subtitle": "Second Test, Day 3",
       "competition": "Test match",
       "matched_keyword": "test match",
-      "description": "Day 3 highlights from the second Test match between England and New Zealand.",
+      "description": "Day 3 highlights from the second Test match between England and Pakistan at Lord's.",
       "category": "Sports"
     },
     {
@@ -127,7 +116,7 @@
       "subtitle": "Second Test, Day 4",
       "competition": "Test match",
       "matched_keyword": "test match",
-      "description": "Day 4 highlights from the second Test match between England and New Zealand.",
+      "description": "Day 4 highlights from the second Test match between England and Pakistan at Lord's.",
       "category": "Sports"
     },
     {
@@ -149,12 +138,12 @@
       "subtitle": "Second Test, Day 5",
       "competition": "Test match",
       "matched_keyword": "test match",
-      "description": "Day 5 highlights from the second Test match between England and New Zealand.",
+      "description": "Day 5 highlights from the second Test match between England and Pakistan at Lord's.",
       "category": "Sports"
     },
     {
       "start": "2026-09-02T09:25:00+00:00",
-      "stop": "2026-09-02T10:05:00+00:00",
+      "stop": "2026-09-02T10:10:00+00:00",
       "channel": "Arte",
       "title": "Les animaux guérisseurs",
       "subtitle": "La recherche de l'ivresse",
