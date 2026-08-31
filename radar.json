@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T14:01:17.444809+00:00",
+  "generated_at": "2026-08-31T11:44:13.162878+00:00",
   "window_start": "2026-08-29",
-  "window_end": "2026-09-05",
+  "window_end": "2026-09-06",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-08-29T16:15:00+00:00",
-      "stop": "2026-08-29T18:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Rugby League: Super League",
-      "subtitle": "Wakefield v York",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rugby league action from the 2026 Super League as Wakefield Trinity play York Knights.",
-      "category": "Sports"
-    },
     {
       "start": "2026-08-29T23:35:00+00:00",
       "stop": "2026-08-30T00:35:00+00:00",
@@ -139,6 +128,28 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Action from the Super League as Wakefield Trinity take on Warrington Wolves.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-06T10:00:00+00:00",
+      "stop": "2026-09-06T10:40:00+00:00",
+      "channel": "Arte",
+      "title": "Les animaux guérisseurs",
+      "subtitle": "La recherche de l'ivresse",
+      "competition": "Test match",
+      "matched_keyword": "wallabies",
+      "description": "Que ce soit pour se soigner, soulager la douleur, aiguiser les sens ou s'enivrer, les animaux ne rechignent pas à consommer les substances psychotropes qu’offre la nature. Les jaguars mâchent des lianes hallucinogènes, les wallabies raffolent des pavots somnifères, les mouflons à grandes cornes tripent aux lichens psychédéliques – et des singes ont appris à subtiliser les cocktails des touristes.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-06T18:05:00+00:00",
+      "stop": "2026-09-06T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
