@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T13:01:32.388019+00:00",
+  "generated_at": "2026-09-03T09:58:22.167198+00:00",
   "window_start": "2026-09-02",
-  "window_end": "2026-09-07",
+  "window_end": "2026-09-09",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 9,
   "programmes": [
     {
       "start": "2026-09-02T09:25:00+00:00",
@@ -43,8 +43,8 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-02T21:19:00+00:00",
-      "stop": "2026-09-02T23:12:00+00:00",
+      "start": "2026-09-02T21:20:00+00:00",
+      "stop": "2026-09-02T23:13:00+00:00",
       "channel": "TMC",
       "title": "Le gendre de ma vie",
       "subtitle": "",
@@ -107,6 +107,28 @@
       "matched_keyword": "rugby",
       "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-09-09T07:55:00+00:00",
+      "stop": "2026-09-09T08:40:00+00:00",
+      "channel": "Arte",
+      "title": "Dynasties animales",
+      "subtitle": "Pumas",
+      "competition": "Test match",
+      "matched_keyword": "pumas",
+      "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-09T18:00:00+00:00",
+      "stop": "2026-09-09T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Third Test, Day 1",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 1 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
     }
   ]
 }
