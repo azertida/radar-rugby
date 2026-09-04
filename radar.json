@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T13:02:10.171029+00:00",
-  "window_start": "2026-09-02",
-  "window_end": "2026-09-09",
+  "generated_at": "2026-09-04T09:52:43.562829+00:00",
+  "window_start": "2026-09-05",
+  "window_end": "2026-09-10",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-09-02T09:25:00+00:00",
-      "stop": "2026-09-02T10:10:00+00:00",
-      "channel": "Arte",
-      "title": "Les animaux guérisseurs",
-      "subtitle": "La recherche de l'ivresse",
-      "competition": "Test match",
-      "matched_keyword": "wallabies",
-      "description": "Que ce soit pour se soigner, soulager la douleur, aiguiser les sens ou s'enivrer, les animaux ne rechignent pas à consommer les substances psychotropes qu’offre la nature. Les jaguars mâchent des lianes hallucinogènes, les wallabies raffolent des pavots somnifères, les mouflons à grandes cornes tripent aux lichens psychédéliques – et des singes ont appris à subtiliser les cocktails des touristes.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-02T21:20:00+00:00",
-      "stop": "2026-09-02T23:13:00+00:00",
-      "channel": "TMC",
-      "title": "Le gendre de ma vie",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Suzanne et Stéphane ont trois filles. Stéphane aurait souhaité avoir un garçon, à tel point qu'il s'attache toujours plus que de raison aux petits amis de ses filles. Lorsqu'Alexia veut quitter Thomas pour un jeune médecin, Stéphane ne l'admet pas. Lui qui apprécie particulièrement Thomas va imaginer les subterfuges les plus inouïs pour réconcilier sa cadette avec son ex et faire fuir le nouveau prétendant. Quand Alexia sa fille cadette, décide de quitter Thomas, magnifique rugbyman et nouvel idole de son père, pour un jeune médecin qu'il ne supporte pas, Stéphane va se débattre.",
-      "category": "Cinéma"
-    },
     {
       "start": "2026-09-05T05:43:00+00:00",
       "stop": "2026-09-05T05:54:00+00:00",
@@ -128,6 +106,17 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 1 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-10T18:00:00+00:00",
+      "stop": "2026-09-10T19:00:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "Third Test, Day 2",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 2 highlights from the third Test match between England and New Zealand.",
       "category": "Sports"
     }
   ]
