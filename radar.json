@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T12:10:09.568115+00:00",
+  "generated_at": "2026-09-06T09:32:27.652771+00:00",
   "window_start": "2026-09-05",
-  "window_end": "2026-09-10",
+  "window_end": "2026-09-12",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 8,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-09-05T05:43:00+00:00",
@@ -117,6 +117,50 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 2 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-12T00:45:00+00:00",
+      "stop": "2026-09-12T01:45:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "England v New Zealand 2026,Third Test, Day 3",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 3 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-12T15:05:00+00:00",
+      "stop": "2026-09-12T15:35:00+00:00",
+      "channel": "France 2",
+      "title": "Rugby : l'avant-match",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Avant le coup d'envoi du match, coup de projecteur sur les forces en présence et les enjeux de la rencontre.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-12T15:35:00+00:00",
+      "stop": "2026-09-12T18:00:00+00:00",
+      "channel": "France 2",
+      "title": "WXV Global Series",
+      "subtitle": "1re journée : France - Nouvelle-Zélande",
+      "competition": "XV de France",
+      "matched_keyword": "xv de france",
+      "description": "Première édition de la WXV Global Series, qui succède à la WXV et propose des rencontres pour les 12 nations féminines participantes. Pour le début de sa série à domicile, la France accueille la Nouvelle-Zélande au stade de Gerland, à Lyon. Ce premier match se présente comme une revanche du match pour la 3e place de la Coupe du monde féminine 2025, où les Black Ferns avaient battu les Bleues (42-26). Le XV de France féminin recevra ensuite l'Australie, à Aix-en-Provence, le 19 septembre, puis le Canada, à La Rochelle, le 26 septembre?",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-12T23:50:00+00:00",
+      "stop": "2026-09-13T00:50:00+00:00",
+      "channel": "BBC Two",
+      "title": "Cricket: Today at the Test",
+      "subtitle": "England v New Zealand 2026,Third Test, Day 4",
+      "competition": "Test match",
+      "matched_keyword": "test match",
+      "description": "Day 4 highlights from the third Test match between England and New Zealand.",
       "category": "Sports"
     }
   ]
