@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T12:23:50.126472+00:00",
-  "window_start": "2026-09-05",
-  "window_end": "2026-09-12",
+  "generated_at": "2026-09-07T10:34:15.225998+00:00",
+  "window_start": "2026-09-06",
+  "window_end": "2026-09-13",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,28 +31,6 @@
   ],
   "count": 12,
   "programmes": [
-    {
-      "start": "2026-09-05T05:43:00+00:00",
-      "stop": "2026-09-05T05:54:00+00:00",
-      "channel": "France 5",
-      "title": "Bluey",
-      "subtitle": "La belle",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-09-05T13:45:00+00:00",
-      "stop": "2026-09-05T16:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Super League Rugby",
-      "subtitle": "Wakefield v Warrington",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Action from the Super League as Wakefield Trinity take on Warrington Wolves.",
-      "category": "Sports"
-    },
     {
       "start": "2026-09-06T10:00:00+00:00",
       "stop": "2026-09-06T10:40:00+00:00",
@@ -161,6 +139,28 @@
       "competition": "Test match",
       "matched_keyword": "test match",
       "description": "Day 4 highlights from the third Test match between England and New Zealand.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-13T14:00:00+00:00",
+      "stop": "2026-09-13T15:10:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Les héros du nettoyage : mission propreté",
+      "subtitle": "Episode 5",
+      "competition": "Coupe du monde",
+      "matched_keyword": "rugby",
+      "description": "Sylvain, égoutier en charge d'opérations spéciales, a pour mission de nettoyer tous les collecteurs de Paris. Avec ses hommes, ils vont descendre dans un des endroits les plus secrets de France : les souterrains du Palais de l'Elysée. Les scaphandriers Nicolas, Gérald et Antoine ont pour mission de désenvaser un lac artificiel des Pyrénées qui alimente les canons à neige d'une station de ski. Si le cadre est idyllique il n'en reste pas moins dangereux. A Marseille, les nettoyeurs de l'extrême Jacques et Patricia n'ont qu'une journée pour débarrasser et nettoyer un appartement de 80m². Dans ce genre de situation chaque minute compte ! Près de Lens, Romain, nettoyeur d'objets du quotidien, a rendez-vous pour nettoyer une voiture de fond en comble, car son client souhaite en faire cadeau. Très suivi sur les réseaux sociaux grâce à ses avant-après saisissants, Romain va s'engager pleinement dans cette mission ! Alors que Paris ouvre en grande pompe sa Coupe du monde de rugby, Alan et son chef Patrick doivent nettoyer en un temps record la Place de la Concorde, espace aménagé pour tous les fans du ballon ovale. À quelques mois des Jeux Olympiques, cette mission sonne comme un galop d'essai.",
+      "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-13T18:05:00+00:00",
+      "stop": "2026-09-13T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
     }
   ]
