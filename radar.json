@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T13:11:15.281210+00:00",
+  "generated_at": "2026-09-10T09:53:36.458296+00:00",
   "window_start": "2026-09-09",
   "window_end": "2026-09-15",
   "source": "Pickx via iptv-org/epg",
@@ -98,8 +98,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-09-12T23:50:00+00:00",
-      "stop": "2026-09-13T00:50:00+00:00",
+      "start": "2026-09-12T23:45:00+00:00",
+      "stop": "2026-09-13T00:45:00+00:00",
       "channel": "BBC Two",
       "title": "Cricket: Today at the Test",
       "subtitle": "England v New Zealand 2026,Third Test, Day 4",
