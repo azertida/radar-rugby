@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:10:34.419690+00:00",
-  "window_start": "2026-09-09",
+  "generated_at": "2026-09-11T09:53:55.430695+00:00",
+  "window_start": "2026-09-10",
   "window_end": "2026-09-15",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-09-09T07:55:00+00:00",
-      "stop": "2026-09-09T08:40:00+00:00",
-      "channel": "Arte",
-      "title": "Dynasties animales",
-      "subtitle": "Pumas",
-      "competition": "Test match",
-      "matched_keyword": "pumas",
-      "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-09T18:00:00+00:00",
-      "stop": "2026-09-09T19:00:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "Third Test, Day 1",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 1 highlights from the third Test match between England and Pakistan at Edgbaston.",
-      "category": "Sports"
-    },
     {
       "start": "2026-09-10T18:00:00+00:00",
       "stop": "2026-09-10T19:00:00+00:00",
@@ -121,7 +99,7 @@
     },
     {
       "start": "2026-09-13T18:05:00+00:00",
-      "stop": "2026-09-13T19:10:00+00:00",
+      "stop": "2026-09-13T18:20:00+00:00",
       "channel": "France 3",
       "title": "Stade 2",
       "subtitle": "",
