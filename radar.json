@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T12:26:42.994693+00:00",
+  "generated_at": "2026-09-13T10:26:35.617798+00:00",
   "window_start": "2026-09-12",
-  "window_end": "2026-09-18",
+  "window_end": "2026-09-19",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-09-12T00:45:00+00:00",
@@ -76,8 +76,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-09-13T13:55:00+00:00",
-      "stop": "2026-09-13T15:05:00+00:00",
+      "start": "2026-09-13T13:45:00+00:00",
+      "stop": "2026-09-13T15:00:00+00:00",
       "channel": "RTL TVI",
       "title": "Les héros du nettoyage : mission propreté",
       "subtitle": "Episode 5",
@@ -140,6 +140,28 @@
       "matched_keyword": "rugby",
       "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-09-19T15:05:00+00:00",
+      "stop": "2026-09-19T15:35:00+00:00",
+      "channel": "France 2",
+      "title": "Rugby : l'avant-match",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Avant le coup d'envoi du match, coup de projecteur sur les forces en présence et les enjeux de la rencontre.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-19T16:15:00+00:00",
+      "stop": "2026-09-20T00:40:00+00:00",
+      "channel": "BBC Two",
+      "title": "Rugby League: Super League",
+      "subtitle": "Second Elimination Play-Off",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Action from the elimination play-offs as the race to the Super League grand final begins.",
+      "category": "Sports"
     }
   ]
 }
