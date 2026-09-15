@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T15:17:55.588710+00:00",
-  "window_start": "2026-09-12",
+  "generated_at": "2026-09-15T10:13:33.353814+00:00",
+  "window_start": "2026-09-14",
   "window_end": "2026-09-20",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,52 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 7,
   "programmes": [
-    {
-      "start": "2026-09-12T23:45:00+00:00",
-      "stop": "2026-09-13T00:45:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "England v New Zealand 2026,Third Test, Day 4",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 4 highlights from the third Test match between England and Pakistan at Edgbaston.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-13T13:45:00+00:00",
-      "stop": "2026-09-13T15:00:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Les héros du nettoyage : mission propreté",
-      "subtitle": "Episode 5",
-      "competition": "Coupe du monde",
-      "matched_keyword": "rugby",
-      "description": "Sylvain, égoutier en charge d'opérations spéciales, a pour mission de nettoyer tous les collecteurs de Paris. Avec ses hommes, ils vont descendre dans un des endroits les plus secrets de France : les souterrains du Palais de l'Elysée. Les scaphandriers Nicolas, Gérald et Antoine ont pour mission de désenvaser un lac artificiel des Pyrénées qui alimente les canons à neige d'une station de ski. Si le cadre est idyllique il n'en reste pas moins dangereux. A Marseille, les nettoyeurs de l'extrême Jacques et Patricia n'ont qu'une journée pour débarrasser et nettoyer un appartement de 80m². Dans ce genre de situation chaque minute compte ! Près de Lens, Romain, nettoyeur d'objets du quotidien, a rendez-vous pour nettoyer une voiture de fond en comble, car son client souhaite en faire cadeau. Très suivi sur les réseaux sociaux grâce à ses avant-après saisissants, Romain va s'engager pleinement dans cette mission ! Alors que Paris ouvre en grande pompe sa Coupe du monde de rugby, Alan et son chef Patrick doivent nettoyer en un temps record la Place de la Concorde, espace aménagé pour tous les fans du ballon ovale. À quelques mois des Jeux Olympiques, cette mission sonne comme un galop d'essai.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-13T18:05:00+00:00",
-      "stop": "2026-09-13T18:20:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-14T00:20:00+00:00",
-      "stop": "2026-09-14T01:20:00+00:00",
-      "channel": "BBC Two",
-      "title": "Cricket: Today at the Test",
-      "subtitle": "England v New Zealand 2026,Third Test, Day 4",
-      "competition": "Test match",
-      "matched_keyword": "test match",
-      "description": "Day 4 highlights from the third Test match between England and Pakistan at Edgbaston.",
-      "category": "Sports"
-    },
     {
       "start": "2026-09-14T16:59:00+00:00",
       "stop": "2026-09-14T17:01:00+00:00",
@@ -121,7 +77,7 @@
     },
     {
       "start": "2026-09-19T16:15:00+00:00",
-      "stop": "2026-09-20T00:40:00+00:00",
+      "stop": "2026-09-19T19:30:00+00:00",
       "channel": "BBC Two",
       "title": "Rugby League: Super League",
       "subtitle": "Second Elimination Play-Off",
