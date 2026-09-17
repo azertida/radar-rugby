@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T13:48:39.180441+00:00",
-  "window_start": "2026-09-15",
-  "window_end": "2026-09-20",
+  "generated_at": "2026-09-17T10:10:59.414843+00:00",
+  "window_start": "2026-09-18",
+  "window_end": "2026-09-23",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -32,17 +32,6 @@
   "count": 6,
   "programmes": [
     {
-      "start": "2026-09-15T19:05:00+00:00",
-      "stop": "2026-09-15T20:35:00+00:00",
-      "channel": "France 5",
-      "title": "Ce qui nous tient debout",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Matthieu Lartot, journaliste sportif de France Télévisions, a été touché deux fois par le cancer. A 17 ans, une tumeur du genou a mis fin à ses rêves de joueur de rugby. A 43 ans, une récidive l'a conduit à se faire amputer de sa jambe droite pour pouvoir rester en vie. Le commentateur de rugby confie ici son histoire personnelle avec une grande sincérité, pour briser le tabou du cancer dans la société. D'autres personnalités publiques relatent, elles aussi, leur traversée du cancer, en tant que malade ou proche aidant. La maladie du siècle toucherait 1200 nouvelles personnes chaque jour, et toutes les familles sont concernées.",
-      "category": "Documentaire"
-    },
-    {
       "start": "2026-09-18T05:03:00+00:00",
       "stop": "2026-09-18T05:04:00+00:00",
       "channel": "France 4",
@@ -69,10 +58,10 @@
       "stop": "2026-09-19T18:30:00+00:00",
       "channel": "BBC Two",
       "title": "Rugby League: Super League",
-      "subtitle": "Second Elimination Play-Off",
+      "subtitle": "Warrington v Hull KR",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "Action from the elimination play-offs as the race to the Super League grand final begins.",
+      "description": "Action from the elimination play-offs as Warrington face Hull KR.",
       "category": "Sports"
     },
     {
@@ -96,6 +85,17 @@
       "matched_keyword": "rugby",
       "description": "Chaque fin de semaine, Stade 2 propose de retrouver les résultats des derniers événements sportifs, mais aussi des portraits, des grands reportages, des interviews en plateau ou en duplex et des enquêtes. Au programme : du football, du rugby, du tennis, du cyclisme, des sports mécaniques, et bien d'autres disciplines.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-09-23T04:10:00+00:00",
+      "stop": "2026-09-23T04:55:00+00:00",
+      "channel": "Arte",
+      "title": "Dynasties animales",
+      "subtitle": "Pumas",
+      "competition": "Test match",
+      "matched_keyword": "pumas",
+      "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
+      "category": "Documentaire"
     }
   ]
 }
