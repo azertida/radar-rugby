@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T13:11:56.907412+00:00",
+  "generated_at": "2026-09-19T09:39:40.309895+00:00",
   "window_start": "2026-09-18",
   "window_end": "2026-09-23",
   "source": "Pickx via iptv-org/epg",
@@ -76,8 +76,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-09-20T13:05:00+00:00",
-      "stop": "2026-09-20T14:10:00+00:00",
+      "start": "2026-09-20T12:50:00+00:00",
+      "stop": "2026-09-20T14:00:00+00:00",
       "channel": "RTL TVI",
       "title": "Les héros du nettoyage : mission propreté",
       "subtitle": "Episode 6",
@@ -87,7 +87,7 @@
       "category": "Documentaire"
     },
     {
-      "start": "2026-09-20T18:05:00+00:00",
+      "start": "2026-09-20T18:21:00+00:00",
       "stop": "2026-09-20T19:10:00+00:00",
       "channel": "France 3",
       "title": "Stade 2",
