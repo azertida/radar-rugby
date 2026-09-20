@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T12:43:11.334130+00:00",
-  "window_start": "2026-09-18",
-  "window_end": "2026-09-23",
+  "generated_at": "2026-09-20T09:55:29.016013+00:00",
+  "window_start": "2026-09-19",
+  "window_end": "2026-09-26",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-09-18T05:03:00+00:00",
-      "stop": "2026-09-18T05:04:00+00:00",
-      "channel": "France 4",
-      "title": "Les as de la jungle à la rescousse",
-      "subtitle": "Mariage et plaquage",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-09-19T15:05:00+00:00",
       "stop": "2026-09-19T15:35:00+00:00",
@@ -107,6 +96,28 @@
       "matched_keyword": "pumas",
       "description": "Une immersion privilégiée dans l'intimité de six familles d'animaux mues par un même objectif : la survie. En Patagonie, une mère puma endure le rude climat des montagnes et s'attaque à des guanacos trois fois plus imposants qu'elle pour élever ses quatre petits.",
       "category": "Documentaire"
+    },
+    {
+      "start": "2026-09-26T16:15:00+00:00",
+      "stop": "2026-09-26T18:45:00+00:00",
+      "channel": "BBC Two",
+      "title": "Rugby League: Super League",
+      "subtitle": "26.09.2026 16:15.",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Live action from the play-off semi-finals as the grand final draws near.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-09-26T18:15:00+00:00",
+      "stop": "2026-09-26T19:35:00+00:00",
+      "channel": "RTL TVI",
+      "title": "Le Bigdil",
+      "subtitle": "Métiers",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Dans cet épisode, Le Bigdil s'intéresse aux métiers des candidats. Gérant de restaurant, serveuse, élagueur ou encore joueuse de rugby : venus d'univers très différents, ils se prêtent au jeu entre défis inattendus et situations parfois improbables. Le principe reste le même : enchaîner les épreuves pour gagner des cadeaux, avec, à chaque étape, un choix à faire. Garder ses gains ou tenter le rideau, au risque de tout perdre... ou de repartir avec mieux. Cette semaine, des épreuves bien connues font leur retour, comme la tronçonneuse, la caravane ou la course de bureau, toujours revisitées pour surprendre les candidats.",
+      "category": "Show"
     }
   ]
 }
