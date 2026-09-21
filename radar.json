@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T13:14:39.658449+00:00",
-  "window_start": "2026-09-19",
-  "window_end": "2026-09-26",
+  "generated_at": "2026-09-21T10:54:47.643853+00:00",
+  "window_start": "2026-09-20",
+  "window_end": "2026-09-27",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,41 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 8,
+  "count": 6,
   "programmes": [
-    {
-      "start": "2026-09-19T15:05:00+00:00",
-      "stop": "2026-09-19T15:35:00+00:00",
-      "channel": "France 2",
-      "title": "Rugby : l'avant-match",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Avant le coup d'envoi du match, coup de projecteur sur les forces en présence et les enjeux de la rencontre.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T16:15:00+00:00",
-      "stop": "2026-09-19T18:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Rugby League: Super League",
-      "subtitle": "Warrington v Hull KR",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Action from the elimination play-offs as Warrington face Hull KR.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-09-19T18:20:00+00:00",
-      "stop": "2026-09-19T18:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Sports"
-    },
     {
       "start": "2026-09-20T12:50:00+00:00",
       "stop": "2026-09-20T14:00:00+00:00",
@@ -118,6 +85,17 @@
       "matched_keyword": "rugby",
       "description": "Dans cet épisode, Le Bigdil s'intéresse aux métiers des candidats. Gérant de restaurant, serveuse, élagueur ou encore joueuse de rugby : venus d'univers très différents, ils se prêtent au jeu entre défis inattendus et situations parfois improbables. Le principe reste le même : enchaîner les épreuves pour gagner des cadeaux, avec, à chaque étape, un choix à faire. Garder ses gains ou tenter le rideau, au risque de tout perdre... ou de repartir avec mieux. Cette semaine, des épreuves bien connues font leur retour, comme la tronçonneuse, la caravane ou la course de bureau, toujours revisitées pour surprendre les candidats.",
       "category": "Show"
+    },
+    {
+      "start": "2026-09-27T05:30:00+00:00",
+      "stop": "2026-09-27T05:37:00+00:00",
+      "channel": "France 5",
+      "title": "Bluey",
+      "subtitle": "La belle",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
     }
   ]
 }
