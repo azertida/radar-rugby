@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T15:22:24.948045+00:00",
-  "window_start": "2026-09-20",
+  "generated_at": "2026-09-22T10:08:45.610000+00:00",
+  "window_start": "2026-09-23",
   "window_end": "2026-09-27",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-09-20T12:50:00+00:00",
-      "stop": "2026-09-20T14:00:00+00:00",
-      "channel": "RTL TVI",
-      "title": "Les héros du nettoyage : mission propreté",
-      "subtitle": "Episode 6",
-      "competition": "Coupe du monde",
-      "matched_keyword": "rugby",
-      "description": "Sylvain, égoutier en charge d'opérations spéciales, a pour mission de nettoyer tous les collecteurs de Paris. Avec ses hommes, ils vont descendre dans un des endroits les plus secrets de France : les souterrains du Palais de l'Elysée. Les scaphandriers Nicolas, Gérald et Antoine ont pour mission de désenvaser un lac artificiel des Pyrénées qui alimente les canons à neige d'une station de ski. Si le cadre est idyllique il n'en reste pas moins dangereux. A Marseille, les nettoyeurs de l'extrême Jacques et Patricia n'ont qu'une journée pour débarrasser et nettoyer un appartement de 80m². Dans ce genre de situation chaque minute compte ! Près de Lens, Romain, nettoyeur d'objets du quotidien, a rendez-vous pour nettoyer une voiture de fond en comble, car son client souhaite en faire cadeau. Très suivi sur les réseaux sociaux grâce à ses avant-après saisissants, Romain va s'engager pleinement dans cette mission ! Alors que Paris ouvre en grande pompe sa Coupe du monde de rugby, Alan et son chef Patrick doivent nettoyer en un temps record la Place de la Concorde, espace aménagé pour tous les fans du ballon ovale. A quelques mois des Jeux Olympiques, cette mission sonne comme un galop d'essai.",
-      "category": "Documentaire"
-    },
-    {
-      "start": "2026-09-20T18:21:00+00:00",
-      "stop": "2026-09-20T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
-      "category": "Sports"
-    },
     {
       "start": "2026-09-23T04:10:00+00:00",
       "stop": "2026-09-23T04:55:00+00:00",
@@ -72,7 +50,7 @@
       "subtitle": "26.09.2026 16:15.",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "Live action from the play-off semi-finals as the grand final draws near.",
+      "description": "Action from the play-off semi-finals as the grand final draws near.",
       "category": "Sports"
     },
     {
