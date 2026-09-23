@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T13:42:06.126595+00:00",
+  "generated_at": "2026-09-23T10:11:36.156450+00:00",
   "window_start": "2026-09-23",
-  "window_end": "2026-09-27",
+  "window_end": "2026-09-29",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -55,7 +55,7 @@
     },
     {
       "start": "2026-09-26T18:15:00+00:00",
-      "stop": "2026-09-26T19:35:00+00:00",
+      "stop": "2026-09-26T19:40:00+00:00",
       "channel": "RTL TVI",
       "title": "Le Bigdil",
       "subtitle": "Métiers",
@@ -65,15 +65,15 @@
       "category": "Show"
     },
     {
-      "start": "2026-09-27T05:30:00+00:00",
-      "stop": "2026-09-27T05:37:00+00:00",
-      "channel": "France 5",
-      "title": "Bluey",
-      "subtitle": "La belle",
+      "start": "2026-09-29T20:10:00+00:00",
+      "stop": "2026-09-29T21:49:00+00:00",
+      "channel": "La Une",
+      "title": "McDonald & Dodds",
+      "subtitle": "Il faut qu'on parle de Doreen",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
+      "description": "McDonald et Dodds enquêtent sur le meurtre de Dominique Aubert, un jeune joueur de rugby à la carrière prometteuse, retrouvé mort sur une voie ferrée à la sortie du célèbre tunnel de Box Hill. Les suspects sont nombreux car la nuit de sa mort, Dominique était à une fête où se trouvaient également tout un groupe d'amies venues à Bath pour le week-end. McDonald et Dodds vont avoir fort à faire pour trouver un suspect au milieu de cette foule. Et bien entendu, les choses ne sont jamais ce qu'elles paraissent.",
+      "category": "Séries"
     }
   ]
 }
