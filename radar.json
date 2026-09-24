@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T13:53:32.521531+00:00",
+  "generated_at": "2026-09-24T10:17:21.496452+00:00",
   "window_start": "2026-09-23",
   "window_end": "2026-09-29",
   "source": "Pickx via iptv-org/epg",
@@ -47,7 +47,7 @@
       "stop": "2026-09-26T18:45:00+00:00",
       "channel": "BBC Two",
       "title": "Rugby League: Super League",
-      "subtitle": "26.09.2026 16:15.",
+      "subtitle": "Wigan v Wakefield",
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Action from the play-off semi-finals as the grand final draws near.",
