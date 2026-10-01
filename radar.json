@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T11:44:04.396420+00:00",
+  "generated_at": "2026-10-01T15:45:37.866831+00:00",
   "window_start": "2026-10-03",
   "window_end": "2026-10-07",
   "source": "Pickx via iptv-org/epg",
@@ -33,7 +33,7 @@
   "programmes": [
     {
       "start": "2026-10-03T18:20:00+00:00",
-      "stop": "2026-10-03T18:30:00+00:00",
+      "stop": "2026-10-03T18:25:00+00:00",
       "channel": "France 3",
       "title": "Rencontres à XV",
       "subtitle": "",
