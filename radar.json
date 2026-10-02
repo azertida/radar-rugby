@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T15:45:37.866831+00:00",
+  "generated_at": "2026-10-02T11:12:54.694466+00:00",
   "window_start": "2026-10-03",
   "window_end": "2026-10-07",
   "source": "Pickx via iptv-org/epg",
@@ -94,7 +94,7 @@
       "subtitle": "Episode 6",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "David and Mark restore a sprawling miniature fairground, Lucia uncovers a portrait's scandalous secrets, and Dom rescues a rugby wheelchair belonging to an army veteran.",
+      "description": "The barn's experts restore a fairground model, a portrait and a rugby wheelchair.",
       "category": "Documentary"
     }
   ]
