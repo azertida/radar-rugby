@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T15:07:34.691664+00:00",
+  "generated_at": "2026-10-03T10:30:07.354524+00:00",
   "window_start": "2026-10-03",
-  "window_end": "2026-10-07",
+  "window_end": "2026-10-09",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 7,
   "programmes": [
     {
       "start": "2026-10-03T18:20:00+00:00",
@@ -96,6 +96,17 @@
       "matched_keyword": "rugby",
       "description": "The barn's experts restore a fairground model, a portrait and a rugby wheelchair.",
       "category": "Documentary"
+    },
+    {
+      "start": "2026-10-09T17:29:00+00:00",
+      "stop": "2026-10-09T17:37:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "L'oiseau-bâton",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
     }
   ]
 }
