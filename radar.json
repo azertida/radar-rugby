@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T13:58:01.355288+00:00",
+  "generated_at": "2026-10-04T11:11:26.089458+00:00",
   "window_start": "2026-10-03",
-  "window_end": "2026-10-09",
+  "window_end": "2026-10-10",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 8,
   "programmes": [
     {
       "start": "2026-10-03T18:20:00+00:00",
@@ -66,7 +66,7 @@
     },
     {
       "start": "2026-10-04T18:05:00+00:00",
-      "stop": "2026-10-04T19:10:00+00:00",
+      "stop": "2026-10-04T18:20:00+00:00",
       "channel": "France 3",
       "title": "Stade 2",
       "subtitle": "",
@@ -107,6 +107,17 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-10T18:20:00+00:00",
+      "stop": "2026-10-10T18:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Sports"
     }
   ]
 }
