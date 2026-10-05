@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:28:03.834160+00:00",
-  "window_start": "2026-10-03",
-  "window_end": "2026-10-10",
+  "generated_at": "2026-10-05T12:25:35.451545+00:00",
+  "window_start": "2026-10-04",
+  "window_end": "2026-10-11",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 8,
   "programmes": [
-    {
-      "start": "2026-10-03T18:20:00+00:00",
-      "stop": "2026-10-03T18:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Sports"
-    },
     {
       "start": "2026-10-04T08:07:00+00:00",
       "stop": "2026-10-04T08:18:00+00:00",
@@ -117,6 +106,17 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-11T18:05:00+00:00",
+      "stop": "2026-10-11T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
       "category": "Sports"
     }
   ]
