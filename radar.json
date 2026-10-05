@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:25:35.451545+00:00",
+  "generated_at": "2026-10-05T17:29:46.153736+00:00",
   "window_start": "2026-10-04",
   "window_end": "2026-10-11",
   "source": "Pickx via iptv-org/epg",
@@ -32,8 +32,8 @@
   "count": 8,
   "programmes": [
     {
-      "start": "2026-10-04T08:07:00+00:00",
-      "stop": "2026-10-04T08:18:00+00:00",
+      "start": "2026-10-04T08:18:00+00:00",
+      "stop": "2026-10-04T08:24:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
