@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T17:29:46.153736+00:00",
-  "window_start": "2026-10-04",
+  "generated_at": "2026-10-06T12:08:35.443939+00:00",
+  "window_start": "2026-10-05",
   "window_end": "2026-10-11",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,41 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 8,
+  "count": 5,
   "programmes": [
-    {
-      "start": "2026-10-04T08:18:00+00:00",
-      "stop": "2026-10-04T08:24:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "L'oiseau-bâton",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
-    {
-      "start": "2026-10-04T12:45:00+00:00",
-      "stop": "2026-10-04T13:45:00+00:00",
-      "channel": "BBC Two",
-      "title": "Rugby League: Super League",
-      "subtitle": "Grand Final Highlights",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Highlights from the grand final of the 2026 Rugby League Super League.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-10-04T18:05:00+00:00",
-      "stop": "2026-10-04T18:20:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
-      "category": "Sports"
-    },
     {
       "start": "2026-10-05T12:40:00+00:00",
       "stop": "2026-10-05T13:35:00+00:00",
