@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T15:29:16.608026+00:00",
-  "window_start": "2026-10-05",
-  "window_end": "2026-10-11",
+  "generated_at": "2026-10-07T11:53:12.498325+00:00",
+  "window_start": "2026-10-07",
+  "window_end": "2026-10-13",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 5,
   "programmes": [
-    {
-      "start": "2026-10-05T12:40:00+00:00",
-      "stop": "2026-10-05T13:35:00+00:00",
-      "channel": "France 3",
-      "title": "Rex",
-      "subtitle": "Troisième mi-temps",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Le président d'un club de rugby est assassiné à son domicile. Peu de temps avant, il assistait à une séance d'entraînement de son équipe. Terzani apprend que le club traversait de lourdes difficultés financières. Il avait été contraint de demander de l'aide à son beau-frère afin qu'il remette les finances du club à flot. Terzani suspecte très vite l'un des joueurs. Mais il en vient à se demander s'il ne fait pas fausse route. Progressivement, il va mener son enquête vers un criminel impliqué dans une sombre affaire de matches truqués, dans le milieu du foot. A la stupéfaction de tout le milieu sportif local, ce malfrat est abattu...",
-      "category": "Séries"
-    },
     {
       "start": "2026-10-07T19:00:00+00:00",
       "stop": "2026-10-07T20:00:00+00:00",
@@ -85,6 +74,17 @@
       "matched_keyword": "rugby",
       "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
       "category": "Sports"
+    },
+    {
+      "start": "2026-10-13T04:48:00+00:00",
+      "stop": "2026-10-13T04:59:00+00:00",
+      "channel": "France 4",
+      "title": "Les as de la jungle à la rescousse",
+      "subtitle": "Mariage et plaquage",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
+      "category": "Jeunesse"
     }
   ]
 }
