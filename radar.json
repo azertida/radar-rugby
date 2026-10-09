@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T15:54:43.045348+00:00",
-  "window_start": "2026-10-07",
+  "generated_at": "2026-10-09T12:00:11.997087+00:00",
+  "window_start": "2026-10-09",
   "window_end": "2026-10-13",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 5,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-10-07T19:00:00+00:00",
-      "stop": "2026-10-07T20:00:00+00:00",
-      "channel": "BBC One",
-      "title": "The Repair Shop",
-      "subtitle": "Episode 6",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "The barn's experts restore a fairground model, a portrait and a rugby wheelchair.",
-      "category": "Documentary"
-    },
     {
       "start": "2026-10-09T17:27:00+00:00",
       "stop": "2026-10-09T17:35:00+00:00",
