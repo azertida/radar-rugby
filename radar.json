@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T15:37:38.614594+00:00",
+  "generated_at": "2026-10-10T11:18:06.853882+00:00",
   "window_start": "2026-10-09",
-  "window_end": "2026-10-13",
+  "window_end": "2026-10-16",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 4,
+  "count": 7,
   "programmes": [
     {
       "start": "2026-10-09T17:27:00+00:00",
@@ -67,6 +67,39 @@
     {
       "start": "2026-10-13T04:48:00+00:00",
       "stop": "2026-10-13T04:59:00+00:00",
+      "channel": "France 4",
+      "title": "Les as de la jungle à la rescousse",
+      "subtitle": "Mariage et plaquage",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-16T04:45:00+00:00",
+      "stop": "2026-10-16T04:52:00+00:00",
+      "channel": "France 4",
+      "title": "Un jour, une question",
+      "subtitle": "Depuis quand les femmes jouent au rugby ?",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-16T07:55:00+00:00",
+      "stop": "2026-10-16T08:04:00+00:00",
+      "channel": "France 4",
+      "title": "Un jour, une question",
+      "subtitle": "Depuis quand les femmes jouent au rugby ?",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "A quoi ça sert ? Ça veut dire quoi ? C'est qui ? Pourquoi c'est comme ça ? Les questions des enfants trouvent quotidiennement une réponse.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-16T18:19:00+00:00",
+      "stop": "2026-10-16T18:25:00+00:00",
       "channel": "France 4",
       "title": "Les as de la jungle à la rescousse",
       "subtitle": "Mariage et plaquage",
