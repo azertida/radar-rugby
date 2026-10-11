@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T14:50:45.847693+00:00",
-  "window_start": "2026-10-09",
-  "window_end": "2026-10-16",
+  "generated_at": "2026-10-11T11:30:17.567115+00:00",
+  "window_start": "2026-10-10",
+  "window_end": "2026-10-17",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 9,
   "programmes": [
-    {
-      "start": "2026-10-09T17:27:00+00:00",
-      "stop": "2026-10-09T17:35:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "L'oiseau-bâton",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-10-10T18:21:00+00:00",
       "stop": "2026-10-10T18:25:00+00:00",
@@ -107,6 +96,39 @@
       "matched_keyword": "rugby",
       "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
       "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-17T01:50:00+00:00",
+      "stop": "2026-10-17T04:00:00+00:00",
+      "channel": "France 2",
+      "title": "WXV Global Series",
+      "subtitle": "5e journée : Nouvelle-Zélande / France",
+      "competition": "XV de France",
+      "matched_keyword": "xv de france",
+      "description": "Le XV de France féminin affronte la Nouvelle-Zélande au FMG Stadium Waikato, à Hamilton, dans le cadre des WXV Global Series. Ce choc marque le coup d'envoi d'une tournée d'automne cruciale de trois test-matchs sur le sol néo-zélandais pour les Bleues, dans le cadre de cette tournée marathon. Les deux nations se sont déjà croisées le 12 septembre dernier à Lyon, pour l'ouverture du WXV Global Series. Les Black Ferns l'avaient alors emporté (28-14), malgré une belle résistance tricolore.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-17T14:05:00+00:00",
+      "stop": "2026-10-17T16:05:00+00:00",
+      "channel": "France 2",
+      "title": "Rugby à XV : Champions Cup",
+      "subtitle": "1re journée. Groupe 1 : ASM Clermont / Leinster",
+      "competition": "Champions Cup",
+      "matched_keyword": "rugby",
+      "description": "Pour la 1re journée de la Champions Cup 2026/2027, l'ASM Clermont Auvergne accueille, au stade Marcel-Michelin, les redoutables Irlandais du Leinster pour un choc d'ouverture majeur au sein du Groupe 1. Après avoir bataillé les saisons passées pour retrouver l'élite européenne, les Jaune et Bleu de l'ASM héritent d'une poule extrêmement relevée. Ouvrir la compétition à domicile face au géant de Dublin est un immense défi pour mesurer les ambitions auvergnates sur la scène continentale. Habitué des phases finales et finaliste malheureux de l'édition 2024, le Leinster se déplace dans le \"temple\" auvergnat avec son armada d'internationaux de l'équipe d'Irlande.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-17T18:20:00+00:00",
+      "stop": "2026-10-17T18:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Sports"
     }
   ]
 }
