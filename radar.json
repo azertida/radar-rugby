@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T15:10:56.005421+00:00",
-  "window_start": "2026-10-10",
-  "window_end": "2026-10-17",
+  "generated_at": "2026-10-12T13:22:09.458886+00:00",
+  "window_start": "2026-10-11",
+  "window_end": "2026-10-18",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 11,
   "programmes": [
-    {
-      "start": "2026-10-10T18:21:00+00:00",
-      "stop": "2026-10-10T18:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Sports"
-    },
     {
       "start": "2026-10-11T18:05:00+00:00",
       "stop": "2026-10-11T19:10:00+00:00",
@@ -128,6 +117,39 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-18T11:35:00+00:00",
+      "stop": "2026-10-18T14:05:00+00:00",
+      "channel": "France 3",
+      "title": "Rugby : Challenge Cup",
+      "subtitle": "1re journée. Groupe 1 : Bayonne / Cheetahs",
+      "competition": "Top 14",
+      "matched_keyword": "rugby",
+      "description": "L'Aviron Bayonnais affronte les Toyota Cheetahs sud-africains, lors de la 1re journée de la phase de poules de la Challenge Cup 2026/2027. Les Basques abordent cette campagne européenne avec confiance, après un bon début de saison en Top 14, marqué notamment par une victoire à l'extérieur contre le Racing 92 (17-20). L'équipe entraînée par Gerard Fraser espère faire vibrer Jean-Dauger pour son entrée en lice européenne face à une franchise sud-africaine habituée de cette compétition en tant qu'invitée et qui reste un adversaire redoutable et imprévisible.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-18T14:05:00+00:00",
+      "stop": "2026-10-18T16:10:00+00:00",
+      "channel": "France 2",
+      "title": "Rugby à XV : Champions Cup",
+      "subtitle": "1re journée. Groupe 2 : Toulouse / Exeter Chiefs",
+      "competition": "Champions Cup",
+      "matched_keyword": "rugby",
+      "description": "Le Stade Toulousain entame sa campagne européenne à domicile, exceptionnellement au Stadium, afin d'accueillir un maximum de supporters, en recevant une formation anglaise d'Exeter toujours accrocheuse sur la scène continentale. Les Rouge et Noir d'Antoine Dupont, habitués des sommets européens, chercheront à bien lancer cette nouvelle phase de poules, face à des Chiefs ambitieux dans ce groupe 2 relevé, où l'on retrouve également le Stade Rochelais, les Saracens, les Lions et Connacht. Dans cette poule, chaque point compte dès la première journée pour s'assurer un tirage favorable en phase finale, d'autant que les Toulousains devront ensuite négocier un déplacement périlleux en Afrique du Sud.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-18T18:05:00+00:00",
+      "stop": "2026-10-18T19:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
       "category": "Sports"
     }
   ]
