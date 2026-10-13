@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T18:17:35.062647+00:00",
-  "window_start": "2026-10-11",
+  "generated_at": "2026-10-13T12:50:30.739816+00:00",
+  "window_start": "2026-10-13",
   "window_end": "2026-10-18",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-10-11T18:05:00+00:00",
-      "stop": "2026-10-11T19:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
-      "category": "Sports"
-    },
     {
       "start": "2026-10-13T04:48:00+00:00",
       "stop": "2026-10-13T04:59:00+00:00",
