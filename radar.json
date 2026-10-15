@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T14:05:51.942854+00:00",
-  "window_start": "2026-10-13",
+  "generated_at": "2026-10-15T10:08:11.970198+00:00",
+  "window_start": "2026-10-16",
   "window_end": "2026-10-18",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 9,
   "programmes": [
-    {
-      "start": "2026-10-13T04:48:00+00:00",
-      "stop": "2026-10-13T04:59:00+00:00",
-      "channel": "France 4",
-      "title": "Les as de la jungle à la rescousse",
-      "subtitle": "Mariage et plaquage",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
-      "category": "Jeunesse"
-    },
     {
       "start": "2026-10-16T04:45:00+00:00",
       "stop": "2026-10-16T04:52:00+00:00",
@@ -65,7 +54,7 @@
       "category": "Jeunesse"
     },
     {
-      "start": "2026-10-16T18:11:00+00:00",
+      "start": "2026-10-16T18:18:00+00:00",
       "stop": "2026-10-16T18:25:00+00:00",
       "channel": "France 4",
       "title": "Les as de la jungle à la rescousse",
@@ -77,7 +66,7 @@
     },
     {
       "start": "2026-10-17T01:50:00+00:00",
-      "stop": "2026-10-17T04:00:00+00:00",
+      "stop": "2026-10-17T02:45:00+00:00",
       "channel": "France 2",
       "title": "WXV Global Series",
       "subtitle": "5e journée : Nouvelle-Zélande / France",
