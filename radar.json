@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T12:49:08.290066+00:00",
-  "window_start": "2026-10-17",
-  "window_end": "2026-10-24",
+  "generated_at": "2026-10-19T11:00:02.142987+00:00",
+  "window_start": "2026-10-18",
+  "window_end": "2026-10-25",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,41 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-10-17T02:00:00+00:00",
-      "stop": "2026-10-17T02:45:00+00:00",
-      "channel": "France 2",
-      "title": "WXV Global Series",
-      "subtitle": "5e journée : Nouvelle-Zélande / France",
-      "competition": "XV de France",
-      "matched_keyword": "xv de france",
-      "description": "Le XV de France féminin affronte la Nouvelle-Zélande au FMG Stadium Waikato, à Hamilton, dans le cadre des WXV Global Series. Ce choc marque le coup d'envoi d'une tournée d'automne cruciale de trois test-matchs sur le sol néo-zélandais pour les Bleues, dans le cadre de cette tournée marathon. Les deux nations se sont déjà croisées le 12 septembre dernier à Lyon, pour l'ouverture du WXV Global Series. Les Black Ferns l'avaient alors emporté (28-14), malgré une belle résistance tricolore.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-10-17T14:05:00+00:00",
-      "stop": "2026-10-17T16:05:00+00:00",
-      "channel": "France 2",
-      "title": "Rugby à XV : Champions Cup",
-      "subtitle": "1re journée. Groupe 1 : ASM Clermont / Leinster",
-      "competition": "Champions Cup",
-      "matched_keyword": "rugby",
-      "description": "Pour la 1re journée de la Champions Cup 2026/2027, l'ASM Clermont Auvergne accueille, au stade Marcel-Michelin, les redoutables Irlandais du Leinster pour un choc d'ouverture majeur au sein du Groupe 1. Après avoir bataillé les saisons passées pour retrouver l'élite européenne, les Jaune et Bleu de l'ASM héritent d'une poule extrêmement relevée. Ouvrir la compétition à domicile face au géant de Dublin est un immense défi pour mesurer les ambitions auvergnates sur la scène continentale. Habitué des phases finales et finaliste malheureux de l'édition 2024, le Leinster se déplace dans le \"temple\" auvergnat avec son armada d'internationaux de l'équipe d'Irlande.",
-      "category": "Sports"
-    },
-    {
-      "start": "2026-10-17T18:20:00+00:00",
-      "stop": "2026-10-17T18:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Sports"
-    },
     {
       "start": "2026-10-18T11:35:00+00:00",
       "stop": "2026-10-18T14:05:00+00:00",
@@ -128,6 +95,28 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Sports"
+    },
+    {
+      "start": "2026-10-25T06:47:00+00:00",
+      "stop": "2026-10-25T06:58:00+00:00",
+      "channel": "France 5",
+      "title": "Bluey",
+      "subtitle": "L'oiseau-bâton",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Jeunesse"
+    },
+    {
+      "start": "2026-10-25T19:05:00+00:00",
+      "stop": "2026-10-25T20:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
       "category": "Sports"
     }
   ]
