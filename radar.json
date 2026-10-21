@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T14:14:34.984034+00:00",
-  "window_start": "2026-10-21",
-  "window_end": "2026-10-21",
+  "generated_at": "2026-10-21T18:51:36.359943+00:00",
+  "window_start": "2026-10-24",
+  "window_end": "2026-10-28",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,6 +29,73 @@
     "wallabies",
     "pumas"
   ],
-  "count": 0,
-  "programmes": []
+  "count": 6,
+  "programmes": [
+    {
+      "start": "2026-10-24T01:47:00+00:00",
+      "stop": "2026-10-24T04:00:00+00:00",
+      "channel": "France 2",
+      "title": "WXV Global Series",
+      "subtitle": "6e journée : Nouvelle-Zélande / France",
+      "competition": "XV de France",
+      "matched_keyword": "rugby",
+      "description": "Après un premier bloc de matches disputés en Europe en septembre, où la Nouvelle-Zélande l'avait emporté (28-14) à Lyon, la compétition bascule dans l'hémisphère Sud. Ce deuxième match en Nouvelle-Zélande représente un défi immense pour le XV de France féminin qui tentera de s'imposer sur les terres des Black Ferns, cette fois à l'Okara Park de Whangarei. A ce stade de la 6e journée, la victoire sera cruciale pour la course au titre final du WXV Global Series 2026, dont l'issue se décidera le week-end suivant.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-10-24T08:24:00+00:00",
+      "stop": "2026-10-24T08:35:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "L'oiseau-bâton",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Cartoon"
+    },
+    {
+      "start": "2026-10-24T18:20:00+00:00",
+      "stop": "2026-10-24T18:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-10-25T06:51:00+00:00",
+      "stop": "2026-10-25T07:02:00+00:00",
+      "channel": "France 5",
+      "title": "Bluey",
+      "subtitle": "L'oiseau-bâton",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Cartoon"
+    },
+    {
+      "start": "2026-10-25T19:05:00+00:00",
+      "stop": "2026-10-25T20:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
+      "category": "Magazine"
+    },
+    {
+      "start": "2026-10-28T21:40:00+00:00",
+      "stop": "2026-10-28T23:15:00+00:00",
+      "channel": "France 2",
+      "title": "Ce qui nous tient debout",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Matthieu Lartot, journaliste sportif de France Télévisions, a été touché deux fois par le cancer. A 17 ans, une tumeur du genou a mis fin à ses rêves de joueur de rugby. A 43 ans.",
+      "category": "Health"
+    }
+  ]
 }
