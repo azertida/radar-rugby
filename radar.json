@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:53:15.640751+00:00",
+  "generated_at": "2026-10-21T10:23:50.903524+00:00",
   "window_start": "2026-10-24",
   "window_end": "2026-10-25",
   "source": "Pickx via iptv-org/epg",
@@ -32,7 +32,7 @@
   "count": 5,
   "programmes": [
     {
-      "start": "2026-10-24T01:50:00+00:00",
+      "start": "2026-10-24T01:47:00+00:00",
       "stop": "2026-10-24T04:00:00+00:00",
       "channel": "France 2",
       "title": "WXV Global Series",
@@ -65,8 +65,8 @@
       "category": "Sports"
     },
     {
-      "start": "2026-10-25T06:47:00+00:00",
-      "stop": "2026-10-25T06:58:00+00:00",
+      "start": "2026-10-25T06:51:00+00:00",
+      "stop": "2026-10-25T07:02:00+00:00",
       "channel": "France 5",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
