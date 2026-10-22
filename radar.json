@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T10:21:28.049637+00:00",
+  "generated_at": "2026-10-22T14:08:13.769987+00:00",
   "window_start": "2026-10-24",
   "window_end": "2026-10-28",
   "source": "Pickx via iptv-org/epg",
@@ -43,8 +43,8 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-10-24T08:24:00+00:00",
-      "stop": "2026-10-24T08:35:00+00:00",
+      "start": "2026-10-24T08:31:00+00:00",
+      "stop": "2026-10-24T08:37:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
@@ -65,8 +65,8 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-10-25T06:51:00+00:00",
-      "stop": "2026-10-25T07:02:00+00:00",
+      "start": "2026-10-25T06:55:00+00:00",
+      "stop": "2026-10-25T07:01:00+00:00",
       "channel": "France 5",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
