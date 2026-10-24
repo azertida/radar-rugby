@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T13:51:51.998789+00:00",
+  "generated_at": "2026-10-24T09:39:19.537043+00:00",
   "window_start": "2026-10-24",
-  "window_end": "2026-10-28",
+  "window_end": "2026-10-31",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 8,
   "programmes": [
     {
       "start": "2026-10-24T01:57:00+00:00",
@@ -96,6 +96,28 @@
       "matched_keyword": "rugby",
       "description": "Matthieu Lartot, journaliste sportif de France Télévisions, a été touché deux fois par le cancer. A 17 ans, une tumeur du genou a mis fin à ses rêves de joueur de rugby. A 43 ans.",
       "category": "Health"
+    },
+    {
+      "start": "2026-10-31T06:05:00+00:00",
+      "stop": "2026-10-31T08:00:00+00:00",
+      "channel": "France 3",
+      "title": "WXV Global Series",
+      "subtitle": "7e journée : Nouvelle-Zélande / France",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "La WXV Global Series succède à la WXV en 2026 et propose des rencontres internationales pour les 12 nations féminines participantes.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-10-31T19:20:00+00:00",
+      "stop": "2026-10-31T19:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Rugby"
     }
   ]
 }
