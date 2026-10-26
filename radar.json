@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T13:24:06.574445+00:00",
-  "window_start": "2026-10-25",
+  "generated_at": "2026-10-26T11:19:41.424314+00:00",
+  "window_start": "2026-10-28",
   "window_end": "2026-11-01",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 4,
   "programmes": [
-    {
-      "start": "2026-10-25T06:55:00+00:00",
-      "stop": "2026-10-25T07:01:00+00:00",
-      "channel": "France 5",
-      "title": "Bluey",
-      "subtitle": "L'oiseau-bâton",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Cartoon"
-    },
-    {
-      "start": "2026-10-25T19:05:00+00:00",
-      "stop": "2026-10-25T20:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
-      "category": "Magazine"
-    },
     {
       "start": "2026-10-28T21:40:00+00:00",
       "stop": "2026-10-28T23:15:00+00:00",
