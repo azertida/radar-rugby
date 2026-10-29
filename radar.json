@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T15:31:33.266446+00:00",
-  "window_start": "2026-10-28",
-  "window_end": "2026-11-01",
+  "generated_at": "2026-10-29T11:38:01.739508+00:00",
+  "window_start": "2026-10-31",
+  "window_end": "2026-11-05",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 4,
   "programmes": [
-    {
-      "start": "2026-10-28T21:40:00+00:00",
-      "stop": "2026-10-28T23:15:00+00:00",
-      "channel": "France 2",
-      "title": "Ce qui nous tient debout",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Matthieu Lartot, journaliste sportif de France Télévisions, a été touché deux fois par le cancer. A 17 ans, une tumeur du genou a mis fin à ses rêves de joueur de rugby. A 43 ans.",
-      "category": "Health"
-    },
     {
       "start": "2026-10-31T06:05:00+00:00",
       "stop": "2026-10-31T08:00:00+00:00",
@@ -74,6 +63,17 @@
       "matched_keyword": "rugby",
       "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
       "category": "Magazine"
+    },
+    {
+      "start": "2026-11-05T18:28:00+00:00",
+      "stop": "2026-11-05T18:36:00+00:00",
+      "channel": "France 4",
+      "title": "Bluey",
+      "subtitle": "L'oiseau-bâton",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Cartoon"
     }
   ]
 }
