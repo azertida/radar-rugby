@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:38:01.739508+00:00",
+  "generated_at": "2026-10-29T15:39:06.887781+00:00",
   "window_start": "2026-10-31",
   "window_end": "2026-11-05",
   "source": "Pickx via iptv-org/epg",
@@ -36,10 +36,10 @@
       "stop": "2026-10-31T08:00:00+00:00",
       "channel": "France 3",
       "title": "WXV Global Series",
-      "subtitle": "7e journée : Nouvelle-Zélande / France",
-      "competition": "Rugby",
+      "subtitle": "6e journée : Nouvelle-Zélande / France",
+      "competition": "XV de France",
       "matched_keyword": "rugby",
-      "description": "La WXV Global Series succède à la WXV en 2026 et propose des rencontres internationales pour les 12 nations féminines participantes.",
+      "description": "Après un premier bloc de matches disputés en Europe en septembre, où la Nouvelle-Zélande l'avait emporté (28-14) à Lyon, la compétition bascule dans l'hémisphère Sud. Ce deuxième match en Nouvelle-Zélande représente un défi immense pour le XV de France féminin qui tentera de s'imposer sur les terres des Black Ferns, cette fois à l'Okara Park de Whangarei. A ce stade de la 6e journée, la victoire sera cruciale pour la course au titre final du WXV Global Series 2026, dont l'issue se décidera le week-end suivant.",
       "category": "Rugby"
     },
     {
