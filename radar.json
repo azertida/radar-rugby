@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T15:22:40.122433+00:00",
+  "generated_at": "2026-10-31T11:00:13.900662+00:00",
   "window_start": "2026-10-31",
-  "window_end": "2026-11-06",
+  "window_end": "2026-11-07",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 6,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-10-31T06:05:00+00:00",
@@ -96,6 +96,72 @@
       "matched_keyword": "wallabies",
       "description": "Tasmania is an island full to bursting with strange and wonderful wildlife. Moving between the lives of these key creatures as the seasons progress, we showcase the landscapes that make this island so special. We also meet a whole cast of other Tasmanians - including white wallabies, eastern quolls, jumping ants and glowing worms.",
       "category": "Animals"
+    },
+    {
+      "start": "2026-11-07T11:30:00+00:00",
+      "stop": "2026-11-07T13:34:00+00:00",
+      "channel": "TMC",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 4 : Italie / Afrique du Sud",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-07T14:00:00+00:00",
+      "stop": "2026-11-07T16:07:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 4 : Ecosse / Nouvelle-Zélande",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-07T16:30:00+00:00",
+      "stop": "2026-11-07T18:38:00+00:00",
+      "channel": "TMC",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 4 : Pays de Galles / Japon",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-07T19:20:00+00:00",
+      "stop": "2026-11-07T19:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-07T20:00:00+00:00",
+      "stop": "2026-11-07T22:08:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 4 : France / Fidji",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-07T22:08:00+00:00",
+      "stop": "2026-11-07T22:40:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Après Match 5",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
+      "category": "Rugby"
     }
   ]
 }
