@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T14:51:05.699535+00:00",
-  "window_start": "2026-10-31",
-  "window_end": "2026-11-07",
+  "generated_at": "2026-11-01T11:55:50.520708+00:00",
+  "window_start": "2026-11-01",
+  "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-10-31T06:05:00+00:00",
-      "stop": "2026-10-31T08:00:00+00:00",
-      "channel": "France 3",
-      "title": "WXV Global Series",
-      "subtitle": "6e journée : Nouvelle-Zélande / France",
-      "competition": "XV de France",
-      "matched_keyword": "rugby",
-      "description": "Après un premier bloc de matches disputés en Europe en septembre, où la Nouvelle-Zélande l'avait emporté (28-14) à Lyon, la compétition bascule dans l'hémisphère Sud. Ce deuxième match en Nouvelle-Zélande représente un défi immense pour le XV de France féminin qui tentera de s'imposer sur les terres des Black Ferns, cette fois à l'Okara Park de Whangarei. A ce stade de la 6e journée, la victoire sera cruciale pour la course au titre final du WXV Global Series 2026, dont l'issue se décidera le week-end suivant.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-10-31T19:20:00+00:00",
-      "stop": "2026-10-31T19:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Rugby"
-    },
     {
       "start": "2026-11-01T19:05:00+00:00",
       "stop": "2026-11-01T20:10:00+00:00",
@@ -162,6 +140,39 @@
       "matched_keyword": "rugby",
       "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
       "category": "Rugby"
+    },
+    {
+      "start": "2026-11-08T15:00:00+00:00",
+      "stop": "2026-11-08T17:06:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 4 : Angleterre / Australie",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-08T19:05:00+00:00",
+      "stop": "2026-11-08T20:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
+      "category": "Magazine"
+    },
+    {
+      "start": "2026-11-08T19:09:00+00:00",
+      "stop": "2026-11-08T21:27:00+00:00",
+      "channel": "Tipik",
+      "title": "Invictus",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "En 1994, l'élection de Nelson Mandela en Afrique du Sud consacre la fin de l'Apartheid, mais le pays reste profondément divisé tant sur le plan racial qu'économique. Convaincu que l'engouement pour le sport peut influencer l'état d'esprit des hommes, Mandela mise tout sur le rugby pour unifier la nation. Il fait cause commune avec le capitaine des Springbocks, décidé à donner à ses citoyens un motif de fierté.",
+      "category": "Drama"
     }
   ]
 }
