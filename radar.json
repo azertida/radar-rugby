@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T12:54:32.840266+00:00",
+  "generated_at": "2026-11-03T16:38:57.996813+00:00",
   "window_start": "2026-11-05",
   "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
@@ -32,8 +32,8 @@
   "count": 11,
   "programmes": [
     {
-      "start": "2026-11-05T18:28:00+00:00",
-      "stop": "2026-11-05T18:36:00+00:00",
+      "start": "2026-11-05T18:21:00+00:00",
+      "stop": "2026-11-05T18:30:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
@@ -43,8 +43,8 @@
       "category": "Cartoon"
     },
     {
-      "start": "2026-11-06T06:45:00+00:00",
-      "stop": "2026-11-06T06:57:00+00:00",
+      "start": "2026-11-06T06:46:00+00:00",
+      "stop": "2026-11-06T06:58:00+00:00",
       "channel": "France 4",
       "title": "Les as de la jungle à la rescousse",
       "subtitle": "Mariage et plaquage",
@@ -66,7 +66,7 @@
     },
     {
       "start": "2026-11-07T14:00:00+00:00",
-      "stop": "2026-11-07T16:07:00+00:00",
+      "stop": "2026-11-07T16:09:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : Ecosse / Nouvelle-Zélande",
@@ -99,7 +99,7 @@
     },
     {
       "start": "2026-11-07T20:00:00+00:00",
-      "stop": "2026-11-07T22:08:00+00:00",
+      "stop": "2026-11-07T22:09:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : France / Fidji",
@@ -109,8 +109,8 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-07T22:08:00+00:00",
-      "stop": "2026-11-07T22:40:00+00:00",
+      "start": "2026-11-07T22:09:00+00:00",
+      "stop": "2026-11-07T22:42:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Après Match 5",
@@ -121,7 +121,7 @@
     },
     {
       "start": "2026-11-08T15:00:00+00:00",
-      "stop": "2026-11-08T17:06:00+00:00",
+      "stop": "2026-11-08T17:08:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : Angleterre / Australie",
