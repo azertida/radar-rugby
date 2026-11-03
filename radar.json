@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T18:52:46.557558+00:00",
+  "generated_at": "2026-11-03T12:54:32.840266+00:00",
   "window_start": "2026-11-05",
   "window_end": "2026-11-08",
   "source": "Pickx via iptv-org/epg",
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 11,
   "programmes": [
     {
       "start": "2026-11-05T18:28:00+00:00",
@@ -52,17 +52,6 @@
       "matched_keyword": "rugby",
       "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
       "category": "Cartoon"
-    },
-    {
-      "start": "2026-11-06T15:30:00+00:00",
-      "stop": "2026-11-06T16:30:00+00:00",
-      "channel": "BBC Two",
-      "title": "Natural World",
-      "subtitle": "The Dolphins of Shark Bay",
-      "competition": "Test match",
-      "matched_keyword": "wallabies",
-      "description": "Tasmania is an island full to bursting with strange and wonderful wildlife. Moving between the lives of these key creatures as the seasons progress, we showcase the landscapes that make this island so special. We also meet a whole cast of other Tasmanians - including white wallabies, eastern quolls, jumping ants and glowing worms.",
-      "category": "Animals"
     },
     {
       "start": "2026-11-07T11:30:00+00:00",
