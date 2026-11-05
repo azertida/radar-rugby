@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T16:38:00.749967+00:00",
+  "generated_at": "2026-11-05T13:21:27.784010+00:00",
   "window_start": "2026-11-05",
-  "window_end": "2026-11-11",
+  "window_end": "2026-11-12",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 15,
   "programmes": [
     {
       "start": "2026-11-05T18:21:00+00:00",
@@ -55,7 +55,7 @@
     },
     {
       "start": "2026-11-07T11:30:00+00:00",
-      "stop": "2026-11-07T13:34:00+00:00",
+      "stop": "2026-11-07T13:33:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : Italie / Afrique du Sud",
@@ -173,6 +173,28 @@
       "matched_keyword": "rugby",
       "description": "Le corps sans vie d'une rugbywoman est retrouvé dans le vestiaire au lendemain d'un match. Comment trouver une place de mère, de femme lorsqu'on pratique un sport à haut niveau, et en particulier le rugby ? Le meurtre de Lucie Vidal, star de l'équipe féminine, a-t-elle un rapport avec le passé de son père, Alain Vidal, ancienne gloire de l'équipe de France de rugby ? Entre héritage du passé et burn-out des sportifs de haut-niveau, l'enquête va se révéler aussi musclée qu'une mêlée à 15... surtout quand Paul Marchal devra affronter seul sur le terrain l'équipe féminine au complet.",
       "category": "Crime"
+    },
+    {
+      "start": "2026-11-12T20:05:00+00:00",
+      "stop": "2026-11-12T20:57:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "L'école Des Xv",
+      "subtitle": "Partie 1/2",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Partie 1/2 Dans le nord de la France, terre de football, une école fait un pari audacieux : se servir du rugby pour raccrocher des collégiens en difficulté. Immersion au sein de la nouvelle antenne lilloise de l'École des XV, structure hybride qui mêle renforcement scolaire, aide aux devoirs, pratique du rugby...",
+      "category": "SocialMatters"
+    },
+    {
+      "start": "2026-11-12T20:57:00+00:00",
+      "stop": "2026-11-12T21:53:00+00:00",
+      "channel": "TV5 Monde",
+      "title": "L'école Des Xv",
+      "subtitle": "Partie 2/2",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Partie 2/2 Durant une année, au sein de la nouvelle antenne lilloise de l'École des XV, les parcours de Pierre, Luana, Imelys, Ilyas, Amine et Kadé. Pour ces collégiens, chaque entraînement de rugby est un pas vers la confiance, l'école, les adultes, la vie... Et à la fin, envers soi-même.",
+      "category": "SocialMatters"
     }
   ]
 }
