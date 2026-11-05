@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T13:21:27.784010+00:00",
+  "generated_at": "2026-11-05T16:53:51.556013+00:00",
   "window_start": "2026-11-05",
   "window_end": "2026-11-12",
   "source": "Pickx via iptv-org/epg",
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 15,
+  "count": 16,
   "programmes": [
     {
       "start": "2026-11-05T18:21:00+00:00",
@@ -65,7 +65,7 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-07T14:00:00+00:00",
+      "start": "2026-11-07T13:57:00+00:00",
       "stop": "2026-11-07T16:09:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -98,7 +98,7 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-07T20:00:00+00:00",
+      "start": "2026-11-07T19:59:00+00:00",
       "stop": "2026-11-07T22:09:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -110,7 +110,7 @@
     },
     {
       "start": "2026-11-07T22:09:00+00:00",
-      "stop": "2026-11-07T22:42:00+00:00",
+      "stop": "2026-11-07T22:43:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Après Match 5",
@@ -121,7 +121,7 @@
     },
     {
       "start": "2026-11-08T15:00:00+00:00",
-      "stop": "2026-11-08T17:08:00+00:00",
+      "stop": "2026-11-08T17:07:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : Angleterre / Australie",
@@ -151,6 +151,17 @@
       "matched_keyword": "rugby",
       "description": "En 1994, l'élection de Nelson Mandela en Afrique du Sud consacre la fin de l'Apartheid, mais le pays reste profondément divisé tant sur le plan racial qu'économique. Convaincu que l'engouement pour le sport peut influencer l'état d'esprit des hommes, Mandela mise tout sur le rugby pour unifier la nation. Il fait cause commune avec le capitaine des Springbocks, décidé à donner à ses citoyens un motif de fierté.",
       "category": "Drama"
+    },
+    {
+      "start": "2026-11-11T07:00:00+00:00",
+      "stop": "2026-11-11T07:07:00+00:00",
+      "channel": "France 3",
+      "title": "Les Dalton",
+      "subtitle": "Les Dalton en mêlée",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Un détenu écossais introduit le rugby au pénitencier.",
+      "category": "Cartoon"
     },
     {
       "start": "2026-11-11T13:13:00+00:00",
