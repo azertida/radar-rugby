@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T16:53:51.556013+00:00",
-  "window_start": "2026-11-05",
-  "window_end": "2026-11-12",
+  "generated_at": "2026-11-06T13:05:09.125917+00:00",
+  "window_start": "2026-11-06",
+  "window_end": "2026-11-13",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 16,
+  "count": 18,
   "programmes": [
-    {
-      "start": "2026-11-05T18:21:00+00:00",
-      "stop": "2026-11-05T18:30:00+00:00",
-      "channel": "France 4",
-      "title": "Bluey",
-      "subtitle": "L'oiseau-bâton",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Cartoon"
-    },
     {
       "start": "2026-11-06T06:46:00+00:00",
       "stop": "2026-11-06T06:58:00+00:00",
@@ -66,7 +55,7 @@
     },
     {
       "start": "2026-11-07T13:57:00+00:00",
-      "stop": "2026-11-07T16:09:00+00:00",
+      "stop": "2026-11-07T16:11:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : Ecosse / Nouvelle-Zélande",
@@ -120,6 +109,17 @@
       "category": "Rugby"
     },
     {
+      "start": "2026-11-08T14:07:00+00:00",
+      "stop": "2026-11-08T14:52:00+00:00",
+      "channel": "La Une",
+      "title": "Patagonia",
+      "subtitle": "Les Montagnes",
+      "competition": "Test match",
+      "matched_keyword": "pumas",
+      "description": "Un voyage depuis les contreforts des Andes patagoniennes, où les pumas chassent les guanacos dans les prairies sauvages de la steppe avant de grimper dans les hauteurs vertigineuses des Andes, qui abritent la troisième plus grande étendue de glace au monde. C'est un endroit où les humains et les animaux étaient autrefois en conflit, mais où les attitudes changeantes ont vu d'anciens ennemis devenir des alliés.",
+      "category": "Nature"
+    },
+    {
       "start": "2026-11-08T15:00:00+00:00",
       "stop": "2026-11-08T17:07:00+00:00",
       "channel": "TF1",
@@ -142,8 +142,8 @@
       "category": "Magazine"
     },
     {
-      "start": "2026-11-08T19:09:00+00:00",
-      "stop": "2026-11-08T21:27:00+00:00",
+      "start": "2026-11-08T19:07:00+00:00",
+      "stop": "2026-11-08T21:22:00+00:00",
       "channel": "Tipik",
       "title": "Invictus",
       "subtitle": "",
@@ -164,8 +164,8 @@
       "category": "Cartoon"
     },
     {
-      "start": "2026-11-11T13:13:00+00:00",
-      "stop": "2026-11-11T15:30:00+00:00",
+      "start": "2026-11-11T13:12:00+00:00",
+      "stop": "2026-11-11T15:29:00+00:00",
       "channel": "Tipik",
       "title": "Invictus",
       "subtitle": "",
@@ -206,6 +206,28 @@
       "matched_keyword": "rugby",
       "description": "Partie 2/2 Durant une année, au sein de la nouvelle antenne lilloise de l'École des XV, les parcours de Pierre, Luana, Imelys, Ilyas, Amine et Kadé. Pour ces collégiens, chaque entraînement de rugby est un pas vers la confiance, l'école, les adultes, la vie... Et à la fin, envers soi-même.",
       "category": "SocialMatters"
+    },
+    {
+      "start": "2026-11-13T20:00:00+00:00",
+      "stop": "2026-11-13T22:09:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 5 : France / Afrique du Sud",
+      "competition": "XV de France",
+      "matched_keyword": "rugby",
+      "description": "Le XV de France affronte les Springboks, champions du monde en titre, au Stade de France pour la 5ème journée de compétition. La rencontre sera commentée par Stefan Etcheverry et Thomas Lombard.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-13T22:09:00+00:00",
+      "stop": "2026-11-13T22:41:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Après Match 6",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
+      "category": "Rugby"
     }
   ]
 }
