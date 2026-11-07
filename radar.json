@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T16:20:35.645158+00:00",
-  "window_start": "2026-11-06",
-  "window_end": "2026-11-13",
+  "generated_at": "2026-11-07T11:50:01.156683+00:00",
+  "window_start": "2026-11-07",
+  "window_end": "2026-11-14",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,22 +29,11 @@
     "wallabies",
     "pumas"
   ],
-  "count": 18,
+  "count": 20,
   "programmes": [
     {
-      "start": "2026-11-06T06:46:00+00:00",
-      "stop": "2026-11-06T06:58:00+00:00",
-      "channel": "France 4",
-      "title": "Les as de la jungle à la rescousse",
-      "subtitle": "Mariage et plaquage",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Marcel, une tortue vient voir les As : il est sur le point de se marier, mais lors de la fête qui a eu lieu avant son mariage il a rencontré une bande de Mandrills, des joueurs de rugby, qui l'ont utilisé comme «ballon», du coup il est maintenant très loin de sa future femme et risque de rater son mariage...",
-      "category": "Cartoon"
-    },
-    {
-      "start": "2026-11-07T11:30:00+00:00",
-      "stop": "2026-11-07T13:33:00+00:00",
+      "start": "2026-11-07T11:29:00+00:00",
+      "stop": "2026-11-07T13:34:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 4 : Italie / Afrique du Sud",
@@ -65,7 +54,7 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-07T16:30:00+00:00",
+      "start": "2026-11-07T16:25:00+00:00",
       "stop": "2026-11-07T18:38:00+00:00",
       "channel": "TMC",
       "title": "Rugby - Le Championnat des Nations",
@@ -102,11 +91,22 @@
       "stop": "2026-11-07T22:43:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Après Match 5",
+      "subtitle": "Le mag des Championnats des Nations",
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
       "category": "Rugby"
+    },
+    {
+      "start": "2026-11-08T13:05:00+00:00",
+      "stop": "2026-11-08T14:00:00+00:00",
+      "channel": "France 2",
+      "title": "13h15, le dimanche",
+      "subtitle": "Pauline et Laure, l'amour du jeu",
+      "competition": "Tournoi des 6 Nations",
+      "matched_keyword": "rugby",
+      "description": "Pauline Bourdon Sansus est l'une des meilleures joueuses de rugby au monde, elle porte le numéro 9 dans l'équipe du XV de France. Laure, son épouse, est également entraîneuse au Stade Toulousain. Entre championnat, Tournoi des Six Nations et vie de famille avec un enfant en bas âge, elles tentent de faire tenir cet équilibre fragile. Bernadette est devenue une partenaire active pour accompagner la carrière de son mari avant de s'impliquer elle-même dans la vie publique. Avec le témoignage de leur fille cadette Claude Chirac, longtemps conseillère de son père. Un document signé Stéphane Dépinoy, Simon Fichet et Fanny Martino.",
+      "category": "Magazine"
     },
     {
       "start": "2026-11-08T14:07:00+00:00",
@@ -143,7 +143,7 @@
     },
     {
       "start": "2026-11-08T19:07:00+00:00",
-      "stop": "2026-11-08T21:22:00+00:00",
+      "stop": "2026-11-08T21:21:00+00:00",
       "channel": "Tipik",
       "title": "Invictus",
       "subtitle": "",
@@ -227,6 +227,28 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-14T14:00:00+00:00",
+      "stop": "2026-11-14T15:58:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 5 : Pays de Galles / Nouvelle-Zélande",
+      "competition": "Test match",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. À Cardiff, les Gallois affrontent les All Blacks pour la 5ème journée de compétition. La rencontre sera commentée par Pierre Daudiès et Xavier Garbajosa.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-14T19:20:00+00:00",
+      "stop": "2026-11-14T19:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
       "category": "Rugby"
     }
   ]
