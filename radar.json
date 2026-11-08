@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T15:14:13.928956+00:00",
-  "window_start": "2026-11-07",
-  "window_end": "2026-11-14",
+  "generated_at": "2026-11-08T12:01:59.910296+00:00",
+  "window_start": "2026-11-08",
+  "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,74 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 20,
+  "count": 18,
   "programmes": [
-    {
-      "start": "2026-11-07T11:29:00+00:00",
-      "stop": "2026-11-07T13:34:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 4 : Italie / Afrique du Sud",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-07T13:57:00+00:00",
-      "stop": "2026-11-07T16:10:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 4 : Ecosse / Nouvelle-Zélande",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-07T16:25:00+00:00",
-      "stop": "2026-11-07T18:38:00+00:00",
-      "channel": "TMC",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 4 : Pays de Galles / Japon",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-07T19:20:00+00:00",
-      "stop": "2026-11-07T19:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-07T19:59:00+00:00",
-      "stop": "2026-11-07T22:09:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 4 : France / Fidji",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-07T22:09:00+00:00",
-      "stop": "2026-11-07T22:43:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Le mag des Championnats des Nations",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
-      "category": "Rugby"
-    },
     {
       "start": "2026-11-08T13:05:00+00:00",
       "stop": "2026-11-08T14:00:00+00:00",
@@ -208,6 +142,17 @@
       "category": "SocialMatters"
     },
     {
+      "start": "2026-11-12T23:40:00+00:00",
+      "stop": "2026-11-13T00:30:00+00:00",
+      "channel": "France 2",
+      "title": "13h15, le dimanche",
+      "subtitle": "Pauline et Laure, l'amour du jeu",
+      "competition": "Tournoi des 6 Nations",
+      "matched_keyword": "rugby",
+      "description": "Pauline Bourdon Sansus est l'une des meilleures joueuses de rugby au monde, elle porte le numéro 9 dans l'équipe du XV de France. Laure, son épouse, est également entraîneuse au Stade Toulousain. Entre championnat, Tournoi des Six Nations et vie de famille avec un enfant en bas âge, elles tentent de faire tenir cet équilibre fragile. Bernadette est devenue une partenaire active pour accompagner la carrière de son mari avant de s'impliquer elle-même dans la vie publique. Avec le témoignage de leur fille cadette Claude Chirac, longtemps conseillère de son père. Un document signé Stéphane Dépinoy, Simon Fichet et Fanny Martino.",
+      "category": "Magazine"
+    },
+    {
       "start": "2026-11-13T20:00:00+00:00",
       "stop": "2026-11-13T22:09:00+00:00",
       "channel": "TF1",
@@ -250,6 +195,39 @@
       "matched_keyword": "rugby",
       "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
       "category": "Rugby"
+    },
+    {
+      "start": "2026-11-15T15:00:00+00:00",
+      "stop": "2026-11-15T17:12:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Journée 5 : Ecosse / Australie",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. À Edimbourg, les Écossais reçoivent l'Australie pour la 5ème journée de compétition. La rencontre sera commentée par Stefan Etcheverry et Thomas Lombard.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-15T19:05:00+00:00",
+      "stop": "2026-11-15T20:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
+      "category": "Magazine"
+    },
+    {
+      "start": "2026-11-15T22:15:00+00:00",
+      "stop": "2026-11-16T00:32:00+00:00",
+      "channel": "Tipik",
+      "title": "Invictus",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "En 1994, l'élection de Nelson Mandela en Afrique du Sud consacre la fin de l'Apartheid, mais le pays reste profondément divisé tant sur le plan racial qu'économique. Convaincu que l'engouement pour le sport peut influencer l'état d'esprit des hommes, Mandela mise tout sur le rugby pour unifier la nation. Il fait cause commune avec le capitaine des Springbocks, décidé à donner à ses citoyens un motif de fierté.",
+      "category": "Drama"
     }
   ]
 }
