@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T15:37:37.911271+00:00",
-  "window_start": "2026-11-08",
+  "generated_at": "2026-11-09T14:06:57.455960+00:00",
+  "window_start": "2026-11-11",
   "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,63 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 18,
+  "count": 13,
   "programmes": [
-    {
-      "start": "2026-11-08T13:05:00+00:00",
-      "stop": "2026-11-08T14:00:00+00:00",
-      "channel": "France 2",
-      "title": "13h15, le dimanche",
-      "subtitle": "Pauline et Laure, l'amour du jeu",
-      "competition": "Tournoi des 6 Nations",
-      "matched_keyword": "rugby",
-      "description": "Pauline Bourdon Sansus est l'une des meilleures joueuses de rugby au monde, elle porte le numéro 9 dans l'équipe du XV de France. Laure, son épouse, est également entraîneuse au Stade Toulousain. Entre championnat, Tournoi des Six Nations et vie de famille avec un enfant en bas âge, elles tentent de faire tenir cet équilibre fragile. Bernadette est devenue une partenaire active pour accompagner la carrière de son mari avant de s'impliquer elle-même dans la vie publique. Avec le témoignage de leur fille cadette Claude Chirac, longtemps conseillère de son père. Un document signé Stéphane Dépinoy, Simon Fichet et Fanny Martino.",
-      "category": "Magazine"
-    },
-    {
-      "start": "2026-11-08T14:07:00+00:00",
-      "stop": "2026-11-08T14:52:00+00:00",
-      "channel": "La Une",
-      "title": "Patagonia",
-      "subtitle": "Les Montagnes",
-      "competition": "Test match",
-      "matched_keyword": "pumas",
-      "description": "Un voyage depuis les contreforts des Andes patagoniennes, où les pumas chassent les guanacos dans les prairies sauvages de la steppe avant de grimper dans les hauteurs vertigineuses des Andes, qui abritent la troisième plus grande étendue de glace au monde. C'est un endroit où les humains et les animaux étaient autrefois en conflit, mais où les attitudes changeantes ont vu d'anciens ennemis devenir des alliés.",
-      "category": "Nature"
-    },
-    {
-      "start": "2026-11-08T15:00:00+00:00",
-      "stop": "2026-11-08T17:07:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 4 : Angleterre / Australie",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-08T19:05:00+00:00",
-      "stop": "2026-11-08T20:10:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
-      "category": "Magazine"
-    },
-    {
-      "start": "2026-11-08T19:07:00+00:00",
-      "stop": "2026-11-08T21:21:00+00:00",
-      "channel": "Tipik",
-      "title": "Invictus",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "En 1994, l'élection de Nelson Mandela en Afrique du Sud consacre la fin de l'Apartheid, mais le pays reste profondément divisé tant sur le plan racial qu'économique. Convaincu que l'engouement pour le sport peut influencer l'état d'esprit des hommes, Mandela mise tout sur le rugby pour unifier la nation. Il fait cause commune avec le capitaine des Springbocks, décidé à donner à ses citoyens un motif de fierté.",
-      "category": "Drama"
-    },
     {
       "start": "2026-11-11T07:00:00+00:00",
       "stop": "2026-11-11T07:07:00+00:00",
