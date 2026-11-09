@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:06:57.455960+00:00",
+  "generated_at": "2026-11-09T19:14:39.353052+00:00",
   "window_start": "2026-11-11",
   "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
@@ -121,7 +121,7 @@
     },
     {
       "start": "2026-11-14T14:00:00+00:00",
-      "stop": "2026-11-14T15:58:00+00:00",
+      "stop": "2026-11-14T16:08:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 5 : Pays de Galles / Nouvelle-Zélande",
