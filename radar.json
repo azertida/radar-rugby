@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T16:40:20.650813+00:00",
-  "window_start": "2026-11-11",
+  "generated_at": "2026-11-12T13:53:37.272753+00:00",
+  "window_start": "2026-11-12",
   "window_end": "2026-11-15",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,41 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 10,
   "programmes": [
-    {
-      "start": "2026-11-11T07:00:00+00:00",
-      "stop": "2026-11-11T07:07:00+00:00",
-      "channel": "France 3",
-      "title": "Les Dalton",
-      "subtitle": "Les Dalton en mêlée",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Un détenu écossais introduit le rugby au pénitencier.",
-      "category": "Cartoon"
-    },
-    {
-      "start": "2026-11-11T13:04:00+00:00",
-      "stop": "2026-11-11T15:17:00+00:00",
-      "channel": "Tipik",
-      "title": "Invictus",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "En 1994, l'élection de Nelson Mandela en Afrique du Sud consacre la fin de l'Apartheid, mais le pays reste profondément divisé tant sur le plan racial qu'économique. Convaincu que l'engouement pour le sport peut influencer l'état d'esprit des hommes, Mandela mise tout sur le rugby pour unifier la nation. Il fait cause commune avec le capitaine des Springbocks, décidé à donner à ses citoyens un motif de fierté.",
-      "category": "Drama"
-    },
-    {
-      "start": "2026-11-11T13:30:00+00:00",
-      "stop": "2026-11-11T14:30:00+00:00",
-      "channel": "France 3",
-      "title": "Tandem",
-      "subtitle": "Meurtre en Ovalie",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Le corps sans vie d'une rugbywoman est retrouvé dans le vestiaire au lendemain d'un match. Comment trouver une place de mère, de femme lorsqu'on pratique un sport à haut niveau, et en particulier le rugby ? Le meurtre de Lucie Vidal, star de l'équipe féminine, a-t-elle un rapport avec le passé de son père, Alain Vidal, ancienne gloire de l'équipe de France de rugby ? Entre héritage du passé et burn-out des sportifs de haut-niveau, l'enquête va se révéler aussi musclée qu'une mêlée à 15... surtout quand Paul Marchal devra affronter seul sur le terrain l'équipe féminine au complet.",
-      "category": "Crime"
-    },
     {
       "start": "2026-11-12T20:05:00+00:00",
       "stop": "2026-11-12T20:57:00+00:00",
