@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T15:22:43.287363+00:00",
-  "window_start": "2026-11-14",
-  "window_end": "2026-11-21",
+  "generated_at": "2026-11-15T12:52:51.920363+00:00",
+  "window_start": "2026-11-15",
+  "window_end": "2026-11-22",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 9,
   "programmes": [
-    {
-      "start": "2026-11-14T13:58:00+00:00",
-      "stop": "2026-11-14T16:10:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 5 : Pays de Galles / Nouvelle-Zélande",
-      "competition": "Test match",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. À Cardiff, les Gallois affrontent les All Blacks pour la 5ème journée de compétition. La rencontre sera commentée par Pierre Daudiès et Xavier Garbajosa.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-14T19:20:00+00:00",
-      "stop": "2026-11-14T19:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Rugby"
-    },
     {
       "start": "2026-11-15T15:00:00+00:00",
       "stop": "2026-11-15T17:05:00+00:00",
@@ -140,6 +118,17 @@
       "matched_keyword": "rugby",
       "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
       "category": "Rugby"
+    },
+    {
+      "start": "2026-11-22T19:05:00+00:00",
+      "stop": "2026-11-22T20:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
+      "category": "Magazine"
     }
   ]
 }
