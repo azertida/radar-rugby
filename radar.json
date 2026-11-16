@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T15:54:34.156833+00:00",
-  "window_start": "2026-11-15",
+  "generated_at": "2026-11-16T13:51:41.191729+00:00",
+  "window_start": "2026-11-21",
   "window_end": "2026-11-22",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,30 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 7,
   "programmes": [
-    {
-      "start": "2026-11-15T15:00:00+00:00",
-      "stop": "2026-11-15T17:05:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 5 : Ecosse / Australie",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. À Edimbourg, les Écossais reçoivent l'Australie pour la 5ème journée de compétition. La rencontre sera commentée par Stefan Etcheverry et Thomas Lombard.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-15T19:05:00+00:00",
-      "stop": "2026-11-15T19:20:00+00:00",
-      "channel": "France 3",
-      "title": "Stade 2",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
-      "category": "Magazine"
-    },
     {
       "start": "2026-11-21T14:00:00+00:00",
       "stop": "2026-11-21T16:06:00+00:00",
