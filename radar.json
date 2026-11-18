@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T17:56:06.484958+00:00",
+  "generated_at": "2026-11-18T14:22:00.381617+00:00",
   "window_start": "2026-11-21",
-  "window_end": "2026-11-22",
+  "window_end": "2026-11-24",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 9,
   "programmes": [
     {
       "start": "2026-11-21T14:00:00+00:00",
@@ -107,6 +107,28 @@
       "matched_keyword": "rugby",
       "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
       "category": "Magazine"
+    },
+    {
+      "start": "2026-11-23T12:15:00+00:00",
+      "stop": "2026-11-23T13:00:00+00:00",
+      "channel": "BBC One",
+      "title": "Bargain Hunt",
+      "subtitle": "Builth Wells",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "The teams are shopping in the mid-Wales town of Builth Wells, and Danny learns about a unique family business which immortalises rugby players and other Welsh icons in clay.",
+      "category": "Game Show"
+    },
+    {
+      "start": "2026-11-24T06:30:00+00:00",
+      "stop": "2026-11-24T07:15:00+00:00",
+      "channel": "BBC Two",
+      "title": "Bargain Hunt",
+      "subtitle": "Builth Wells",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "The teams are shopping in the mid-Wales town of Builth Wells, and Danny learns about a unique family business which immortalises rugby players and other Welsh icons in clay.",
+      "category": "Game Show"
     }
   ]
 }
