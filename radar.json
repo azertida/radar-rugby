@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T17:38:29.856240+00:00",
+  "generated_at": "2026-11-19T14:33:44.278170+00:00",
   "window_start": "2026-11-21",
-  "window_end": "2026-11-24",
+  "window_end": "2026-11-26",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,11 +29,11 @@
     "wallabies",
     "pumas"
   ],
-  "count": 9,
+  "count": 10,
   "programmes": [
     {
       "start": "2026-11-21T13:58:00+00:00",
-      "stop": "2026-11-21T16:09:00+00:00",
+      "stop": "2026-11-21T16:10:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 6 : Angleterre / Nouvelle-Zélande",
@@ -43,7 +43,7 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-21T16:09:00+00:00",
+      "start": "2026-11-21T16:10:00+00:00",
       "stop": "2026-11-21T16:30:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -55,7 +55,7 @@
     },
     {
       "start": "2026-11-21T16:30:00+00:00",
-      "stop": "2026-11-21T18:38:00+00:00",
+      "stop": "2026-11-21T18:45:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Journée 6 : Irlande / Afrique du Sud",
@@ -129,6 +129,17 @@
       "matched_keyword": "rugby",
       "description": "The teams are shopping in the mid-Wales town of Builth Wells, and Danny learns about a unique family business which immortalises rugby players and other Welsh icons in clay.",
       "category": "Game Show"
+    },
+    {
+      "start": "2026-11-26T06:20:00+00:00",
+      "stop": "2026-11-26T06:29:00+00:00",
+      "channel": "France 5",
+      "title": "Bluey",
+      "subtitle": "L'oiseau-bâton",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
+      "category": "Cartoon"
     }
   ]
 }
