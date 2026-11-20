@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T17:44:32.472085+00:00",
+  "generated_at": "2026-11-20T14:11:55.730294+00:00",
   "window_start": "2026-11-21",
-  "window_end": "2026-11-26",
+  "window_end": "2026-11-27",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 10,
+  "count": 12,
   "programmes": [
     {
       "start": "2026-11-21T13:58:00+00:00",
@@ -88,7 +88,7 @@
     },
     {
       "start": "2026-11-21T22:10:00+00:00",
-      "stop": "2026-11-21T22:43:00+00:00",
+      "stop": "2026-11-21T22:45:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Le mag - Championnat des Nations",
@@ -140,6 +140,28 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Cartoon"
+    },
+    {
+      "start": "2026-11-27T20:00:00+00:00",
+      "stop": "2026-11-27T22:00:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "3è Nord / 3è Sud",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "La compétition se conclut à l'Allianz Stadium de Londres pour les 12 nations en lice. Six matchs seront disputés sur trois jours pour désigner la nation championne et l'hémisphère vainqueur.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-27T22:00:00+00:00",
+      "stop": "2026-11-27T22:50:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Le mag - Championnat des Nations",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
+      "category": "Rugby"
     }
   ]
 }
