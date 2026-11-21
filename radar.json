@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T17:21:58.056493+00:00",
+  "generated_at": "2026-11-21T13:36:52.082434+00:00",
   "window_start": "2026-11-21",
-  "window_end": "2026-11-27",
+  "window_end": "2026-11-28",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,7 +29,7 @@
     "wallabies",
     "pumas"
   ],
-  "count": 12,
+  "count": 13,
   "programmes": [
     {
       "start": "2026-11-21T13:58:00+00:00",
@@ -161,6 +161,17 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-28T19:20:00+00:00",
+      "stop": "2026-11-28T19:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
       "category": "Rugby"
     }
   ]
