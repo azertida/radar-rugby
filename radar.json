@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T16:26:52.304056+00:00",
-  "window_start": "2026-11-21",
-  "window_end": "2026-11-28",
+  "generated_at": "2026-11-22T13:28:56.018722+00:00",
+  "window_start": "2026-11-22",
+  "window_end": "2026-11-29",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -29,74 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 13,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-11-21T13:58:00+00:00",
-      "stop": "2026-11-21T16:10:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 6 : Angleterre / Nouvelle-Zélande",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. À Londres, l'Angleterre affronte la Nouvelle-Zélande pour la dernière journée de compétition avant le week-end final. La rencontre sera commentée par Nicolas Delage et Marie Sempéré.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-21T16:10:00+00:00",
-      "stop": "2026-11-21T16:30:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Le mag - Championnat des Nations",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-21T16:30:00+00:00",
-      "stop": "2026-11-21T18:45:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 6 : Irlande / Afrique du Sud",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. À Dublin, l'Irlande affronte l'Afrique du Sud pour la dernière journée de compétition avant le week-end final. La rencontre sera commentée par Pierre Daudiès et Xavier Garbajosa.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-21T19:20:00+00:00",
-      "stop": "2026-11-21T19:25:00+00:00",
-      "channel": "France 3",
-      "title": "Rencontres à XV",
-      "subtitle": "",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-21T19:58:00+00:00",
-      "stop": "2026-11-21T22:10:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Journée 6 : France / Argentine",
-      "competition": "XV de France",
-      "matched_keyword": "rugby",
-      "description": "Les douze plus grandes nations du rugby mondial s'affrontent pour marquer un maximum de points et faire triompher leur hémisphère, à moins d'un an de la Coupe du Monde en Australie. Au Stade de France, le XV de France reçoit l'Argentine pour la dernière journée de compétition avant le week-end final. La rencontre sera commentée par Stefan Etcheverry et Thomas Lombard.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-21T22:10:00+00:00",
-      "stop": "2026-11-21T22:45:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Le mag - Championnat des Nations",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
-      "category": "Rugby"
-    },
     {
       "start": "2026-11-22T19:05:00+00:00",
       "stop": "2026-11-22T20:10:00+00:00",
@@ -173,6 +107,17 @@
       "matched_keyword": "rugby",
       "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
       "category": "Rugby"
+    },
+    {
+      "start": "2026-11-29T19:05:00+00:00",
+      "stop": "2026-11-29T20:10:00+00:00",
+      "channel": "France 3",
+      "title": "Stade 2",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Au menu : du football, du rugby, du tennis, du cyclisme, des sports mécaniques bien sûr mais pas seulement. Le magazine sportif s'intéresse à tous les sports et à tout ce qui concerne le sport.",
+      "category": "Magazine"
     }
   ]
 }
