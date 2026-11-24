@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T20:37:32.688461+00:00",
-  "window_start": "2026-11-23",
+  "generated_at": "2026-11-24T16:02:06.593375+00:00",
+  "window_start": "2026-11-24",
   "window_end": "2026-11-29",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,19 +29,8 @@
     "wallabies",
     "pumas"
   ],
-  "count": 7,
+  "count": 8,
   "programmes": [
-    {
-      "start": "2026-11-23T12:15:00+00:00",
-      "stop": "2026-11-23T13:00:00+00:00",
-      "channel": "BBC One",
-      "title": "Bargain Hunt",
-      "subtitle": "Builth Wells",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "The teams are shopping in the mid-Wales town of Builth Wells, and Danny learns about a unique family business which immortalises rugby players and other Welsh icons in clay.",
-      "category": "Game Show"
-    },
     {
       "start": "2026-11-24T06:30:00+00:00",
       "stop": "2026-11-24T07:15:00+00:00",
@@ -55,7 +44,7 @@
     },
     {
       "start": "2026-11-26T06:20:00+00:00",
-      "stop": "2026-11-26T06:29:00+00:00",
+      "stop": "2026-11-26T06:23:00+00:00",
       "channel": "France 5",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
@@ -66,24 +55,13 @@
     },
     {
       "start": "2026-11-27T20:00:00+00:00",
-      "stop": "2026-11-27T22:00:00+00:00",
+      "stop": "2026-11-27T22:29:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "3è Nord / 3è Sud",
+      "subtitle": "Irlande / Australie",
       "competition": "Rugby",
       "matched_keyword": "rugby",
-      "description": "La compétition se conclut à l'Allianz Stadium de Londres pour les 12 nations en lice. Six matchs seront disputés sur trois jours pour désigner la nation championne et l'hémisphère vainqueur.",
-      "category": "Rugby"
-    },
-    {
-      "start": "2026-11-27T22:00:00+00:00",
-      "stop": "2026-11-27T22:50:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Le mag - Championnat des Nations",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Autour de chaque match des Bleus, Isabelle Ithurburu présentera Le Mag en direct du stade, accompagnée de l'ancien international Christian Califano. Au programme : interviews exclusives, décryptages, analyses, réactions à chaud et reportages en coulisses.",
+      "description": "Pour le week-end final, direction le temple du rugby à Twickenhampour trois jours de confrontations entre le Nord et le Sud, pour designer la nation championne et l'hémisphère vainqueur.",
       "category": "Rugby"
     },
     {
@@ -95,6 +73,39 @@
       "competition": "Rugby",
       "matched_keyword": "rugby",
       "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-29T13:00:00+00:00",
+      "stop": "2026-11-29T15:25:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Ecosse / Argentine",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Pour le week-end final, direction le temple du rugby à Twickenhampour trois jours de confrontations entre le Nord et le Sud, pour designer la nation championne et l'hémisphère vainqueur.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-29T15:25:00+00:00",
+      "stop": "2026-11-29T16:31:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Le mag - Championnat des Nations",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Avant la grande finale France - Afrique du Sud, Isabelle Ithurburu proposera en direct de Twickenham un Mag exceptionnel avec notamment le documentaire inédit L'ANNÉE DES BLEUS.",
+      "category": "Rugby"
+    },
+    {
+      "start": "2026-11-29T16:31:00+00:00",
+      "stop": "2026-11-29T18:45:00+00:00",
+      "channel": "TF1",
+      "title": "Rugby - Le Championnat des Nations",
+      "subtitle": "Finale - France / Afrique du sud",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Les Bleus affrontent l'Afrique du Sud en grande finale pour le titre et tenteront de confirmer leur place au sommet du rugby mondial.",
       "category": "Rugby"
     },
     {
