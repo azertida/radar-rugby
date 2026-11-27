@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T18:40:40.419921+00:00",
-  "window_start": "2026-11-26",
+  "generated_at": "2026-11-27T15:24:22.267738+00:00",
+  "window_start": "2026-11-27",
   "window_end": "2026-12-03",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
@@ -29,22 +29,11 @@
     "wallabies",
     "pumas"
   ],
-  "count": 11,
+  "count": 10,
   "programmes": [
     {
-      "start": "2026-11-26T06:20:00+00:00",
-      "stop": "2026-11-26T06:22:00+00:00",
-      "channel": "France 5",
-      "title": "Bluey",
-      "subtitle": "L'oiseau-bâton",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
-      "category": "Cartoon"
-    },
-    {
       "start": "2026-11-27T20:00:00+00:00",
-      "stop": "2026-11-27T22:29:00+00:00",
+      "stop": "2026-11-27T22:14:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Irlande / Australie",
@@ -54,7 +43,7 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-28T16:15:00+00:00",
+      "start": "2026-11-28T16:11:00+00:00",
       "stop": "2026-11-28T16:30:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -66,7 +55,7 @@
     },
     {
       "start": "2026-11-28T16:30:00+00:00",
-      "stop": "2026-11-28T18:46:00+00:00",
+      "stop": "2026-11-28T18:48:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "3è place - Angeleterre / Nouvelle-Zélande",
@@ -87,8 +76,8 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-29T12:55:00+00:00",
-      "stop": "2026-11-29T15:08:00+00:00",
+      "start": "2026-11-29T12:54:00+00:00",
+      "stop": "2026-11-29T15:10:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Ecosse / Argentine",
@@ -98,7 +87,7 @@
       "category": "Rugby"
     },
     {
-      "start": "2026-11-29T15:08:00+00:00",
+      "start": "2026-11-29T15:10:00+00:00",
       "stop": "2026-11-29T16:06:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
@@ -121,7 +110,7 @@
     },
     {
       "start": "2026-11-29T16:30:00+00:00",
-      "stop": "2026-11-29T18:43:00+00:00",
+      "stop": "2026-11-29T18:45:00+00:00",
       "channel": "TF1",
       "title": "Rugby - Le Championnat des Nations",
       "subtitle": "Finale - Afrique du Sud / France",
@@ -142,8 +131,8 @@
       "category": "Magazine"
     },
     {
-      "start": "2026-12-03T18:24:00+00:00",
-      "stop": "2026-12-03T18:31:00+00:00",
+      "start": "2026-12-03T18:16:00+00:00",
+      "stop": "2026-12-03T18:27:00+00:00",
       "channel": "France 4",
       "title": "Bluey",
       "subtitle": "L'oiseau-bâton",
