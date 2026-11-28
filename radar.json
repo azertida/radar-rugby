@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T18:30:07.686024+00:00",
-  "window_start": "2026-11-27",
-  "window_end": "2026-12-03",
+  "generated_at": "2026-11-28T14:23:55.423912+00:00",
+  "window_start": "2026-11-28",
+  "window_end": "2026-12-05",
   "source": "Pickx via iptv-org/epg",
   "keywords_size": 23,
   "keywords": [
@@ -31,17 +31,6 @@
   ],
   "count": 10,
   "programmes": [
-    {
-      "start": "2026-11-27T20:00:00+00:00",
-      "stop": "2026-11-27T22:14:00+00:00",
-      "channel": "TF1",
-      "title": "Rugby - Le Championnat des Nations",
-      "subtitle": "Irlande / Australie",
-      "competition": "Rugby",
-      "matched_keyword": "rugby",
-      "description": "Pour le week-end final, direction le temple du rugby à Twickenhampour trois jours de confrontations entre le Nord et le Sud, pour designer la nation championne et l'hémisphère vainqueur.",
-      "category": "Rugby"
-    },
     {
       "start": "2026-11-28T16:11:00+00:00",
       "stop": "2026-11-28T16:30:00+00:00",
@@ -140,6 +129,17 @@
       "matched_keyword": "rugby",
       "description": "Lucky, Chucky et leur père sont venus chez les Bouviers pour regarder la finale de rugby.",
       "category": "Cartoon"
+    },
+    {
+      "start": "2026-12-05T19:20:00+00:00",
+      "stop": "2026-12-05T19:25:00+00:00",
+      "channel": "France 3",
+      "title": "Rencontres à XV",
+      "subtitle": "",
+      "competition": "Rugby",
+      "matched_keyword": "rugby",
+      "description": "Rencontres à XV vous propose chaque samedi un reportage long format autour du rugby amateur ancré dans tous les territoires, suivi d'un portrait de joueurs actuels ou d'anciens joueurs.",
+      "category": "Rugby"
     }
   ]
 }
